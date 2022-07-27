@@ -1,27 +1,23 @@
-# Ze Jiang
-This is Ze Jiang's personal [homepage](https://zejiang-unsw.github.io/).
+# Zhidan Liu
+This is Zhidan Liu's personal [homepage](https://liuzhidan.github.io/).
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
 
-PROFILE:
-* Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatology processes. 
-* Strong interpersonal skills with a good sense of teamwork.
-* Programming Skills: R, C/C++, and Python in both Unix and Windows environments.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
+**Zhidan Liu (刘志丹)** is currently an Associate Professor (tenured) in [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/). He received the B.E. degree in Computer Science and Technology from [Northeastern University](http://english.neu.edu.cn/) in June 2009, and the Ph.D. degree in Computer Science and Technology from [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014. Before joining Shenzhen University, he was a postdoctoral research fellow in the School of Computer Science and Engineering, [Nanyang Technological University](), Singapore, where he worked in the Wireless And Networked Distributed Sensing ([WANDS](http://wands.sg/)) group with [Prof. Mo Li](http://www3.ntu.edu.sg/home/limo/). He is now heading the **Big Data and Urban Computing (BDUC)** research group in Shenzhen University. He is a member of IEEE, ACM, and CCF.
 
 
-## Selected Journal Publications
-Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. doi:https://doi.org/10.1016/J.JHYDROL.2021.126816
+## Selected Publications
 
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. doi:https://doi.org/10.1016/j.envsoft.2020.104907
+* [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Jiangzhou Li^, Kaishun Wu. "Context-Aware Taxi Dispatching at City-Scale Using Deep Reinforcement Learning", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 23, Issue 3, Pages 1996-2009, March 2022. ([PDF](/files/2022-TITS-COX.pdf), [Our simulator](https://github.com/szlhl1040/Simulator))
 
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. doi:https://doi.org/10.1029/2019WR026962
+* [[TMC](https://www.computer.org/web/tmc)] <b>Zhidan Liu</b>, Pengfei Zhou, Zhenjiang Li, Mo Li. "Think Like A Graph: Real-Time Traffic Estimation at City-Scale", _IEEE Transactions on Mobile Computing_, Vol. 18, Issue 10, Pages 2446-2459, October 2019. ([PDF](/files/2019-TMC-GPTE.pdf))
 
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. doi:https://doi.org/10.1016/j.advwatres.2019.103430
+* [[TON](http://www.ifp.illinois.edu/ton/)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Path Reconstruction in Dynamic Wireless Sensor Networks Using Compressive Sensing", _IEEE/ACM Transactions on Networking_, Vol. 24, Issue 4, Pages 1948 - 1960, August 2016. ([PDF](/files/2016-TON-CSpath.pdf))
 
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. doi:https://doi.org/10.1007/s00704-018-2617-z
+* [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Mining Road Network Correlation for Traffic Estimation via Compressive Sensing", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 17, Issue 7, Pages 1880 - 1893, July 2016. ([PDF](/files/2016-TITS-CStraffic.pdf))
+
+* [[ICDE'20](https://www.utdallas.edu/icde/)] <b>Zhidan Liu</b>, Zengyang Gong^, Jiangzhou Li^, Kaishun Wu. "Mobility-Aware Dynamic Taxi Ridesharing", In _IEEE ICDE_, Dallas, Texas, USA, April 2020. ([PDF](/files/2020-ICDE-mTShare.pdf), [Slides](/files/2020-ICDE-mTShare-Slides.pptx))
 
 ## For more information
-More info about me can be found in [CV](https://zejiang-unsw.github.io/cv/).
+More info about me can be found in [CV](https://liuzhidan.github.io/resume-ZhidanLiu.pdf).
 
