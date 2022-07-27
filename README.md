@@ -19,5 +19,5 @@ This is Zhidan Liu's personal [homepage](https://liuzhidan.github.io/).
 * [[ICDE'20](https://www.utdallas.edu/icde/)] <b>Zhidan Liu</b>, Zengyang Gong^, Jiangzhou Li^, Kaishun Wu. "Mobility-Aware Dynamic Taxi Ridesharing", In _IEEE ICDE_, Dallas, Texas, USA, April 2020. ([PDF](/files/2020-ICDE-mTShare.pdf), [Slides](/files/2020-ICDE-mTShare-Slides.pptx))
 
 ## For more information
-More info about me can be found in [CV](https://liuzhidan.github.io/resume-ZhidanLiu.pdf).
+More info about me can be found in [CV](https://liuzhidan.github.io/files/resume-ZhidanLiu.pdf).
 
