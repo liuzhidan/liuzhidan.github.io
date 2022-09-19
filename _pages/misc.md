@@ -10,3 +10,10 @@ permalink: /misc/
 * [The Science of Scientific Writing](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf), George D. Gopen and Judith A. Swan
 * [How to do good research, get it published in SIGKDD and get it cited](https://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf), Eamonn Keogh
 [The Elements of Style](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf), William Strunk Jr.
+
+<br />
+<br />
+
+<div style="float:right">
+<a href="https://clustrmaps.com/site/1bqeu"  title="Visit tracker" ><img src="//www.clustrmaps.com/map_v2.png?d=28WI0twzaQdhIK84jFxPVamYvQvzwJHcf7aDEG_2Tts&cl=ffffff" /></a>
+</div>

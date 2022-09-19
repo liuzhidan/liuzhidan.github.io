@@ -13,6 +13,10 @@ author_profile: true
 
 ## Selected Journal Papers
 
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu*</b>, Jiancong Liu^, Xiaowen Xu^, Kaishun Wu. "_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/))
+
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu*</b>, Junhong Zheng^, Jinye Lin^, Liang Wang, Kaishun Wu. "_Radar_: Adversarial Driving Style Representation Learning with Data Augmentation", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/))
+
 * [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, accepted to appear. ([PDF](/files/2022-TBD-AutoCFL.pdf))
 
 * [[MONE](https://www.springer.com/journal/11036)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Junfeng Wang, Xiuya Liu. "Adaptive Clustered Federated Learning for Heterogeneous Data in Edge Computing", _Mobile Networks and Applications_, DOI:

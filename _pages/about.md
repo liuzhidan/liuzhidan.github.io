@@ -33,8 +33,10 @@ p.highlight {
 
 ## Recent News:
 
+* 2022.09 - Our paper "_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons" has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Jiancong and Xiaowen. 🎉
+* 2022.09 - Our paper "_Radar_: Adversarial Driving Style Representation Learning with Data Augmentation" has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Junhong and Jinye. 🎉
 * 2022.06 - Promoted to Associate Professor with tenure! 🤪
-* 2022.05- Invited to serve on the TPC of [IEEE ICPADS 2022](https://easychair.org/conferences/?conf=icpads2022). Please consider submitting. 
+* 2022.05 - Invited to serve on the TPC of [IEEE ICPADS 2022](https://easychair.org/conferences/?conf=icpads2022). Please consider submitting. 
 * 2022.04 - Our paper "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Datac” has been accepted by [IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317). Congrats to Biyao.
 * 2022.02 - Our paper "Adaptive Clustered Federated Learning for Heterogeneous Data in Edge Computing” has been accepted by [Mobile Networks and Applications](https://www.springer.com/journal/11036). Congrats to Biyao.
 * 2021.12 - Our paper "A Spatial Structure Matching Algorithm for Large Spatial-Textual Datasets" (in Chinese) has been accepted by [Chinese Journal of Computers/计算机学报](http://cjc.ict.ac.cn/). Congrats to Weixin.
