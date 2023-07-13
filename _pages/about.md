@@ -42,14 +42,3 @@ p.highlight {
 * 2022.05 - Invited to serve on the TPC of [IEEE ICPADS 2022](https://easychair.org/conferences/?conf=icpads2022). Please consider submitting. 
 * 2022.04 - Our paper "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Datac” has been accepted by [IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317). Congrats to Biyao.
 * 2022.02 - Our paper "Adaptive Clustered Federated Learning for Heterogeneous Data in Edge Computing” has been accepted by [Mobile Networks and Applications](https://www.springer.com/journal/11036). Congrats to Biyao.
-<!--* 2021.12 - Our paper "A Spatial Structure Matching Algorithm for Large Spatial-Textual Datasets" (in Chinese) has been accepted by [Chinese Journal of Computers/计算机学报](http://cjc.ict.ac.cn/). Congrats to Weixin.
-* 2021.11 - Invited to serve on the TPC of [ACM KDD 2022](https://kdd.org/kdd2022/index.html). Please consider submitting.
-* 2021.11 - Our paper "Data-Driven Targeted Advertising Recommendation System for Outdoor Billboard" has been accepted by [ACM TIST](https://dl.acm.org/journal/tist).
-* 2021.09 - We are organizing a special session [SS2: Cooperative and Integrated Mobility Solutions in Transportation and Logistics](http://8.131.80.51/cscwd2022/SpecialSession2.html) at [IEEE CSCWD 2022](https://www.wsdm-conference.org/2022/). Please consider submitting.
-* 2021.08 - Invited to serve on the TPC of [ACM WSDM 2022](https://www.wsdm-conference.org/2022/). Please consider submitting.
-* 2021.08 - Our paper "mT-Share: A Mobility-Aware Dynamic Taxi Ridesharing System" has been accepted by [IEEE IOTJ](http://ieee-iotj.org/). Congrats to Zengyang and Jiangzhou.
-* 2021.06 - Invited to serve as Local Chair of [EAI ICECI 2021](https://iceci-conference.eai-conferences.org/2021/). Please consider submitting.
-* 2021.05 - Our book ["Mobility Data-Driven Urban Traffic Monitoring"](https://www.springer.com/gp/book/9789811622403) is published online now.
-* 2021.03 - Invited to serve on the TPC of [IEEE MASS 2021](https://eng.auburn.edu/conference/ieee-mass2021/). Please consider submitting.
-* 2021.03 - Invited to serve on the TPC of [IEEE ICDCS 2021](https://icdcs2021.us/) (Demo/Poster track). Please consider submitting.
-* 2021.01 - Our paper "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning" has been accepted by [DASFAA](http://dm.iis.sinica.edu.tw/DASFAA2021/). Congrats to Junhong and Zengyang. -->
