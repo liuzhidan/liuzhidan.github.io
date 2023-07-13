@@ -7,9 +7,12 @@ permalink: /service/
 <!--{% include toc %}-->
 
 ### Membership:
-* The Institute of Electrical and Electronics Engineers (**IEEE**), since 2015
-* The Association for Computing Machinery (**ACM**), since 2018
-* China Computer Federation (**CCF**), since 2020
+* Member of The Institute of Electrical and Electronics Engineers (**IEEE**), since 2015
+* Member of The Association for Computing Machinery (**ACM**), since 2018
+* Member of ACM SIGMOBILE, since 2021
+* Senior member of China Computer Federation (**CCF**), since 2020
+* Executive member of ACM SIGSpatial China, since 2023
+* Executive member of Ubiquitous Computing Technical Committee of CCF (CCF普适计算专委会执行委员), since 2022
 
 ### Conference Organization Chair:
 * Special session Chair: IEEE CSCWD 2022

@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <div align=center>
-  <img src="/images/group/bduc2021.jpg " width = "40%" height = "40%" alt="BDUC Group @ 2021" align="left" style="margin-right:10px; margin-top:10px" />
+  <img src="/images/group/bduc2023.jpg " width = "40%" height = "40%" alt="BDUC Group @ 2023" align="left" style="margin-right:10px; margin-top:10px" />
 </div>
 
 <!--![BDUC Group](/images/group/bduc2021.jpg "BDUC Group")-->
@@ -33,32 +33,6 @@ author_profile: true
 ### Master Students
 <div id="Master">
 <table id="person_table_Master" align="center" cellspacing="25" frame=void style="border: none;">
-    <tr class="member_tr" style="vertical-align: top;">
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Meiquan" src="/images/group/meiquan.jpg"></div></div>
-        <div class="card_name"><b>Meiquan Lai (赖美全)</b></div>
-        <div class="card_research_direction Master_tr_0" style="height: 25px;">Graph summarization</div>
-        <div class="card_info">2020.09 ~ </div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yingqian" src="/images/group/yingqian.jpg"></div></div>
-        <div class="card_name"><b>Yingqian Zhou (周荧倩)</b></div>
-        <div class="card_research_direction Master_tr_0" style="height: 25px;">Map matching</div>
-        <div class="card_info">2020.09 ~ </div>
-      </td>
-      <td class="member_card" align="center" id="link_card" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Hongquan" src="/images/group/zhanghongquan.jpg"></div></div>
-        <div class="card_name"><b>Hongquan Zhang (张鸿权)</b></div>
-        <div class="card_research_direction Master_tr_0" style="height: 25px;">Ride-hailing services</div>
-        <div class="card_info">2020.09 ~ </div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Jiayue" src="/images/group/jiayue.jpg"></div></div>
-        <div class="card_name"><b>Jiayue Ruan (阮家越)</b></div>
-        <div class="card_research_direction Master_tr_0" style="height: 25px;">Human activity recognition</div>
-        <div class="card_info">2020.09 ~ </div>
-      </td>
-    </tr>
     <tr class="member_tr" style="vertical-align: top;">
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Yaqi" src="/images/group/yaqi.jpg"></div></div>
@@ -102,10 +76,37 @@ author_profile: true
         <div class="card_research_direction Master_tr_1" style="height: 25px;"></div>
         <div class="card_info">2022.09 ~ </div>
       </td>
-<!--  <td class="member_card">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Jinye" src="/images/group/coder.jpg"></div></div>
-        <div class="card_name">Jinye Lin (林锦叶)</div><div class="card_research_direction Master_tr_1" style="height: 25px;">Map matching</div>
-        <div class="card_info">2022.09 ~ </div>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Bolin" src="/images/group/bolin.jpg"></div></div>
+        <div class="card_name"><b>Bolin Zhang (张柏林)</b></div>        
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Trajectory data analysis</div>
+        <div class="card_info">2023.09 ~</div>
+      </td>
+    </tr>
+    <tr class="member_tr" style="vertical-align: top;">
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/xuxiaowen.jpg"></div></div>
+        <div class="card_name"><b>Xiaowen Xu (徐小雯)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">IMU data analysis</div>
+        <div class="card_info">Started in 2021</div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhengze" src="/images/group/coder.jpg"></div></div>
+        <div class="card_name"><b>Chang Liu (刘畅)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;"></div>
+        <div class="card_info">2023.09 ~</div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/coder.jpg"></div></div>
+        <div class="card_name"><b>Yuhao Ouyang (欧阳宇豪)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;"></div>
+        <div class="card_info">2023.09 ~</div>
+      </td>
+<!--  <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Bolin" src="/images/group/bolin.jpg"></div></div>
+        <div class="card_name"><b>Bolin Zhang (张柏林)</b></div>        
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Trajectory data analysis</div>
+        <div class="card_info">2023.09 ~</div>
       </td>-->
     </tr>    
   </table>
@@ -117,23 +118,13 @@ author_profile: true
   <table id="person_table_Undergraduate" align="left" cellspacing="25" frame=void style="border: none;">
    <tr class="member_tr" style="vertical-align: top;">
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Bolin" src="/images/group/bolin.jpg"></div></div>
-        <div class="card_name"><b>Bolin Zhang (张柏林)</b></div>
-        <div class="card_info">Started in 2019</div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Wenxuan" src="/images/group/wenxuan.jpg"></div></div>
-        <div class="card_name"><b>Wenxuan Xia (夏文轩)</b></div>
-        <div class="card_info">Started in 2020</div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/xuxiaowen.jpg"></div></div>
-        <div class="card_name"><b>Xiaowen Xu (徐小雯)</b></div>
-        <div class="card_info">Started in 2021</div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Haotian" src="/images/group/haotian.jpg"></div></div>
         <div class="card_name"><b>Haotian Zhong (钟昊天)</b></div>
+        <div class="card_info">Started in 2022</div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/coder.jpg"></div></div>
+        <div class="card_name"><b>Jiahao Liu (刘嘉豪)</b></div>
         <div class="card_info">Started in 2022</div>
       </td>
     </tr>    
@@ -189,11 +180,38 @@ author_profile: true
         <div class="card_name"><b>Jiancong Liu (刘键聪)</b></div><div class="card_research_direction Master_tr_1" style="height: 25px;">Now Master student in <a href="https://www.hitsz.edu.cn/index.html">HITSZ</a></div>
         <div class="card_info">B.S. 2018-2022</div>
       </td>
-<!--      <td class="member_card" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaosi" src="/images/zhidan.jpg"></div></div>
-        <div class="card_name">Xiaosi Liu(刘晓思)</div><div class="card_research_direction Master_tr_1" style="height: 25px;">Map matching</div>
-        <div class="card_info">2022.09 ~ </div>
-      </td> -->
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Meiquan" src="/images/group/meiquan.jpg"></div></div>
+        <div class="card_name"><b>Meiquan Lai (赖美全)</b></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in  <a href="https://en.sics.ac.cn/">SICS</a></div>
+        <div class="card_info">M.Sc. 2020-2023</div>
+      </td>
+    </tr>
+    <tr class="member_tr" style="vertical-align: top;">
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yingqian" src="/images/group/yingqian.jpg"></div></div>
+        <div class="card_name"><b>Yingqian Zhou (周荧倩)</b></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in  <a href="http://www.bankcomm.com/BankCommSite/default.shtml">交通银行</a></div>
+        <div class="card_info">M.Sc. 2020-2023</div>
+      </td>
+      <td class="member_card" align="center" id="link_card" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Hongquan" src="/images/group/zhanghongquan.jpg"></div></div>
+        <div class="card_name"><b>Hongquan Zhang (张鸿权)</b></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in  <a href="https://www.huawei.com/en/">华为</a></div>
+        <div class="card_info">M.Sc. 2020-2023</div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Jiayue" src="/images/group/jiayue.jpg"></div></div>
+        <div class="card_name"><b>Jiayue Ruan (阮家越)</b></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in  <a href="https://www.byd.com/">比亚迪</a></div>
+        <div class="card_info">M.Sc. 2020-2023</div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Wenxuan" src="/images/group/wenxuan.jpg"></div></div>
+        <div class="card_name"><b>Wenxuan Xia (夏文轩)</b></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in  <a href="https://en.sics.ac.cn/">SICS</a></div>
+        <div class="card_info">B.S. 2020-2022</div>
+      </td>
     </tr>
 </table>
 </div>

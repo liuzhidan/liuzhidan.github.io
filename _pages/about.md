@@ -32,15 +32,17 @@ p.highlight {
 
 
 ## Recent News:
-
+* 2023.06 - Selected to be CCF Senior Member!
+* 2023.04 - Selected to be the executive member of ACM SIGSpatial China.
+* 2022.09 - Selected to be the executive members of [CCF TCPC](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCPC/).
 * 2022.09 - Our paper "Data-Driven Pick-Up Location Recommendation for Ride-Hailing Services" has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Hongquan and Guofeng. 🎉
 * 2022.09 - Our paper "_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons" has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Jiancong and Xiaowen. 🎉
 * 2022.09 - Our paper "_Radar_: Adversarial Driving Style Representation Learning with Data Augmentation" has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Junhong and Jinye. 🎉
-* 2022.06 - Promoted to Associate Professor with tenure! 🤪
+* 2022.06 - Promoted to be Associate Professor with tenure! 🤪
 * 2022.05 - Invited to serve on the TPC of [IEEE ICPADS 2022](https://easychair.org/conferences/?conf=icpads2022). Please consider submitting. 
 * 2022.04 - Our paper "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Datac” has been accepted by [IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317). Congrats to Biyao.
 * 2022.02 - Our paper "Adaptive Clustered Federated Learning for Heterogeneous Data in Edge Computing” has been accepted by [Mobile Networks and Applications](https://www.springer.com/journal/11036). Congrats to Biyao.
-* 2021.12 - Our paper "A Spatial Structure Matching Algorithm for Large Spatial-Textual Datasets" (in Chinese) has been accepted by [Chinese Journal of Computers/计算机学报](http://cjc.ict.ac.cn/). Congrats to Weixin.
+<!--* 2021.12 - Our paper "A Spatial Structure Matching Algorithm for Large Spatial-Textual Datasets" (in Chinese) has been accepted by [Chinese Journal of Computers/计算机学报](http://cjc.ict.ac.cn/). Congrats to Weixin.
 * 2021.11 - Invited to serve on the TPC of [ACM KDD 2022](https://kdd.org/kdd2022/index.html). Please consider submitting.
 * 2021.11 - Our paper "Data-Driven Targeted Advertising Recommendation System for Outdoor Billboard" has been accepted by [ACM TIST](https://dl.acm.org/journal/tist).
 * 2021.09 - We are organizing a special session [SS2: Cooperative and Integrated Mobility Solutions in Transportation and Logistics](http://8.131.80.51/cscwd2022/SpecialSession2.html) at [IEEE CSCWD 2022](https://www.wsdm-conference.org/2022/). Please consider submitting.
@@ -50,4 +52,4 @@ p.highlight {
 * 2021.05 - Our book ["Mobility Data-Driven Urban Traffic Monitoring"](https://www.springer.com/gp/book/9789811622403) is published online now.
 * 2021.03 - Invited to serve on the TPC of [IEEE MASS 2021](https://eng.auburn.edu/conference/ieee-mass2021/). Please consider submitting.
 * 2021.03 - Invited to serve on the TPC of [IEEE ICDCS 2021](https://icdcs2021.us/) (Demo/Poster track). Please consider submitting.
-* 2021.01 - Our paper "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning" has been accepted by [DASFAA](http://dm.iis.sinica.edu.tw/DASFAA2021/). Congrats to Junhong and Zengyang.
+* 2021.01 - Our paper "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning" has been accepted by [DASFAA](http://dm.iis.sinica.edu.tw/DASFAA2021/). Congrats to Junhong and Zengyang. -->
