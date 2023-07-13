@@ -34,7 +34,7 @@ p.highlight {
 ## Recent News:
 * 2023.06 - Selected to be CCF Senior Member!
 * 2023.04 - Selected to be the executive member of ACM SIGSpatial China.
-* 2022.09 - Selected to be the executive members of [CCF TCPC](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCPC/).
+* 2022.09 - Selected to be the executive member of [CCF TCPC](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCPC/).
 * 2022.09 - Our paper "Data-Driven Pick-Up Location Recommendation for Ride-Hailing Services" has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Hongquan and Guofeng. 🎉
 * 2022.09 - Our paper "_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons" has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Jiancong and Xiaowen. 🎉
 * 2022.09 - Our paper "_Radar_: Adversarial Driving Style Representation Learning with Data Augmentation" has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Junhong and Jinye. 🎉

@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <div align=center>
-  <img src="/images/group/bduc2023.jpg " width = "40%" height = "40%" alt="BDUC Group @ 2023" align="left" style="margin-right:10px; margin-top:10px" />
+  <img src="/images/group/bduc2023.jpg" width = "40%" height = "40%" alt="BDUC Group @ 2023" align="left" style="margin-right:10px; margin-top:10px" />
 </div>
 
 <!--![BDUC Group](/images/group/bduc2021.jpg "BDUC Group")-->
@@ -73,7 +73,7 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/zhenyu.jpg"></div></div>
         <div class="card_name"><b>Zhenyu Yang (杨振宇)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;"></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile computing</div>
         <div class="card_info">2022.09 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
@@ -88,16 +88,16 @@ author_profile: true
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/xuxiaowen.jpg"></div></div>
         <div class="card_name"><b>Xiaowen Xu (徐小雯)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">IMU data analysis</div>
-        <div class="card_info">Started in 2021</div>
+        <div class="card_info">2023.09 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhengze" src="/images/group/coder.jpg"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhengze" src="/images/group/liuchang.jpg"></div></div>
         <div class="card_name"><b>Chang Liu (刘畅)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;"></div>
         <div class="card_info">2023.09 ~</div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/coder.jpg"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/yuhao.jpg"></div></div>
         <div class="card_name"><b>Yuhao Ouyang (欧阳宇豪)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;"></div>
         <div class="card_info">2023.09 ~</div>
@@ -123,7 +123,7 @@ author_profile: true
         <div class="card_info">Started in 2022</div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/coder.jpg"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/jiahao.jpg"></div></div>
         <div class="card_name"><b>Jiahao Liu (刘嘉豪)</b></div>
         <div class="card_info">Started in 2022</div>
       </td>
