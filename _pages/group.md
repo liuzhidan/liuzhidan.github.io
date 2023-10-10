@@ -53,7 +53,7 @@ author_profile: true
       </td>
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaosi" src="/images/group/xiaosi.jpg"></div></div>
-        <div class="card_name"><b>Xiaosi Liu (刘晓思)</b></div><div class="card_research_direction Master_tr_1" style="height: 25px;">Map matching</div>
+        <div class="card_name"><b>Xiaosi Liu (刘晓思)</b></div><div class="card_research_direction Master_tr_1" style="height: 25px;">Mobility data generation</div>
         <div class="card_info">2022.09 ~ </div>
       </td>
     </tr>
@@ -61,7 +61,7 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhiyu" src="/images/group/zhiyu.jpg"></div></div>
         <div class="card_name"><b>Zhiyu Xia (夏志宇)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Crowdsourcing</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Traffic flow prediction</div>
         <div class="card_info">2022.09 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
@@ -85,7 +85,7 @@ author_profile: true
     </tr>
     <tr class="member_tr" style="vertical-align: top;">
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/xuxiaowen.jpg"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/xuxiaowen.png"></div></div>
         <div class="card_name"><b>Xiaowen Xu (徐小雯)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">IMU data analysis</div>
         <div class="card_info">2023.09 ~ </div>
