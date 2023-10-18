@@ -9,7 +9,7 @@ redirect_from:
 
 <!--简单地从Emojipedia 等来源复制表情符号并将其粘贴到文档中-->
 
-**Zhidan Liu (刘志丹)** is currently an Associate Professor (tenured) in [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/). He received the B.E. degree in Computer Science and Technology from [Northeastern University](http://english.neu.edu.cn/) in June 2009, and the Ph.D. degree in Computer Science and Technology from [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014. Before joining Shenzhen University, he was a postdoctoral research fellow in the School of Computer Science and Engineering, [Nanyang Technological University](), Singapore, where he worked in the Wireless And Networked Distributed Sensing ([WANDS](http://wands.sg/)) group with [Prof. Mo Li](http://www3.ntu.edu.sg/home/limo/). He is now heading the **Big Data and Urban Computing (BDUC)** research group in Shenzhen University. He is a member of IEEE, ACM, and CCF.
+**Zhidan Liu (刘志丹)** is currently an Associate Professor (tenured) in [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/). He received the B.E. degree in Computer Science and Technology from [Northeastern University](http://english.neu.edu.cn/) in June 2009, and the Ph.D. degree in Computer Science and Technology from [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014. Before joining Shenzhen University, he was a postdoctoral research fellow in the School of Computer Science and Engineering, [Nanyang Technological University](), Singapore, where he worked in the Wireless And Networked Distributed Sensing ([WANDS](http://wands.sg/)) group with [Prof. Mo Li](http://www3.ntu.edu.sg/home/limo/). He is now heading the **Big Data and Urban Computing (BDUC)** research group in Shenzhen University. He is a senior member of CCF, a member of IEEE and ACM.
 
 Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](https://csse.szu.edu.cn/pages/user/index?id=762).
 
@@ -32,6 +32,8 @@ p.highlight {
 
 
 ## Recent News:
+* 2023.10 - Selected to be the executive member of [CCF TCIoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/).
+* 2023.07 - Invited to serve on the TPC of [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Please consider submitting. 
 * 2023.06 - Selected to be CCF Senior Member!
 * 2023.04 - Selected to be the executive member of ACM SIGSpatial China.
 * 2022.09 - Selected to be the executive member of [CCF TCPC](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCPC/).

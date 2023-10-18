@@ -12,8 +12,11 @@ author_profile: true
 
 - 2017~Now (Semester-2): Internet Programming (in JAVA)/《互联网编程》
 
-## Selected Teaching Achievements:
+- 2021~Now (Semester-2): Guidance on Academic Writing/(研究生课程)《论文写作指导》
 
+## Selected Teaching Achievements:
+* 2023.09 指导本科生钟昊天、刘嘉豪获得**2023年广东省大学生计算机设计大赛一等奖**
+* 2023.06 获得**深圳大学优秀实习指导教师**称号
 * 2023.06 指导的硕士研究生张鸿权同学获得**深圳大学“2023届优秀毕业研究生”**称号
 * 2023.06 指导的本科生张柏林、徐小雯同学获得“**深圳大学2023届本科优秀毕业生**”称号
 * 2022.06 指导的本科生刘键聪同学获得“**深圳大学2022届本科优秀毕业生**”称号

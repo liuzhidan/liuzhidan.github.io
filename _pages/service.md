@@ -13,6 +13,12 @@ permalink: /service/
 * Senior member of China Computer Federation (**CCF**), since 2020
 * Executive member of ACM SIGSpatial China, since 2023
 * Executive member of Ubiquitous Computing Technical Committee of CCF (CCF普适计算专委会执行委员), since 2022
+* Executive member of Internet of Things Technical Committee of CCF (CCF物联网专委会执行委员), since 2023
+
+
+### Editorial Board:
+* Lead Guest Editor: *Special Issue on Ubiquitous Sensing and Computing for Intelligent Transportation* in [**Data Science for Transportation**](https://www.springer.com/journal/42421)
+
 
 ### Conference Organization Chair:
 * Special session Chair: IEEE CSCWD 2022
@@ -22,6 +28,7 @@ permalink: /service/
 
 
 ### Technical Program Committee Member:
+* 2023: ACM CIKM, IEEE ICPADS
 * 2022: ACM KDD, ACM WSDM, IEEE ICPADS
 * 2021: IEEE ICDCS, IEEE MASS
 * 2020: IEEE ICDCS, IEEE HiPC
