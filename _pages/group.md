@@ -48,7 +48,7 @@ author_profile: true
       </td>
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Jinye" src="/images/group/linjinye.jpg"></div></div>
-        <div class="card_name"><b>Jinye Lin (林锦叶)</b></div><div class="card_research_direction Master_tr_1" style="height: 25px;">Map matching</div>
+        <div class="card_name"><b>Jinye Lin (林锦叶)</b></div><div class="card_research_direction Master_tr_1" style="height: 25px;">Ridesharing</div>
         <div class="card_info">2021.09 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
@@ -93,13 +93,13 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhengze" src="/images/group/liuchang.jpg"></div></div>
         <div class="card_name"><b>Chang Liu (刘畅)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;"></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile charging planning</div>
         <div class="card_info">2023.09 ~</div>
       </td>
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/yuhao.jpg"></div></div>
         <div class="card_name"><b>Yuhao Ouyang (欧阳宇豪)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;"></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile charging planning</div>
         <div class="card_info">2023.09 ~</div>
       </td>
 <!--  <td class="member_card" align="center" style="border: none;">

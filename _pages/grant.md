@@ -28,15 +28,16 @@ author_profile: true
   - <font size=3>2019.01-2020.12, 60K RMB.</font>
 
 * [PI] **<font size=3>Crowdsensing Augmented Urban Traffic Sensing and Computing</font>**  
-  - <font size=3>The 2nd Phase of High-Level University Construction Fund of Shenzhen University (深圳大学高水平大学建设二期项目经费)</font>
-  - <font size=3>No.860/000002110324, 2019.11-2022.10, 140K RMB.</font>
+  - <font size=3>The 2nd Phase of High-Level University Construction Fund of Shenzhen University (深圳大学青年教师科研启动经费)</font>
+  - <font size=3>No.860/000002110324, 2019.11-2022.10, 200K RMB.</font>
 
 * [PI] **<font size=3>Startup Fund for Shenzhen Overseas High-Caliber Personnel (深圳市高层次人才科研启动经费)</font>**  
   - <font size=3>No.827/000344, 2018.01-2020.12, 2700K RMB.</font>
-
+<!--
 * [PI] **Natural Science Foundation of Shenzhen University (深圳大学新引进教师科研启动项目)**  
   - Research on Crowdsensing based Urban Sensing
-  - No.2018061, 2018.01-2020.12, 200K RMB.
+  - No.2018061, 2018.01-2020.12, 60K RMB.
+-->
 
 * [Co-PI] **<font size=3>Multi-dimensional and Deep Perception Information based Social Computing</font>**
   - <font size=3 color=red>National Natural Science Foundation of China (Joint Program) (国家自然科学基金联合重点基金)</font>
