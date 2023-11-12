@@ -16,7 +16,7 @@ Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](h
 
 ## Research Interests:
 
-Internet of Things, Urban Computing, Mobile Computing, Crowdsourcing, Big Data Analytics
+Internet of Things, Urban Computing, Intelligent Transportation, Mobile Computing, Big Data Analytics
 
 <style>
 p.highlight {
@@ -32,6 +32,9 @@ p.highlight {
 
 
 ## Recent News:
+* 2023.11 - Our paper "An Optimized Lossless Graph Summarization for Large-Scale Graphs” has been accepted by [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Congrats to Meiquan.
+* 2023.11 - Our paper "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Biyao.
+* 2023.10 - Selected to be the executive member of [CCF Intelligent Transportation Division](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_JT/).
 * 2023.10 - Selected to be the executive member of [CCF TCIoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/).
 * 2023.07 - Invited to serve on the TPC of [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Please consider submitting. 
 * 2023.06 - Selected to be CCF Senior Member!

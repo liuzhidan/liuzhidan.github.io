@@ -12,8 +12,9 @@ permalink: /service/
 * Member of ACM SIGMOBILE, since 2021
 * Senior member of China Computer Federation (**CCF**), since 2020
 * Executive member of ACM SIGSpatial China, since 2023
-* Executive member of Ubiquitous Computing Technical Committee of CCF (CCF普适计算专委会执行委员), since 2022
-* Executive member of Internet of Things Technical Committee of CCF (CCF物联网专委会执行委员), since 2023
+* Executive member of CCF Ubiquitous Computing Technical Committee (CCF普适计算专委会执行委员), since 2022
+* Executive member of CCF Internet of Things Technical Committee (CCF物联网专委会执行委员), since 2023
+* Executive member of CCF Intelligent Transportation Division (CCF智能交通分会执行委员), since 2023
 
 
 ### Editorial Board:

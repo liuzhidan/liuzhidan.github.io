@@ -17,9 +17,9 @@ author_profile: true
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, Jiancong Liu^, Xiaowen Xu^, Kaishun Wu. "_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2022-TMC-DeepGPS.pdf))
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, Junhong Zheng^, Jinye Lin^, Liang Wang, Kaishun Wu. "_Radar_: Adversarial Driving Style Representation Learning with Data Augmentation", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2022-TMC-Radar.pdf))
-
 * [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, accepted to appear. ([PDF](/files/2022-TBD-AutoCFL.pdf))
+
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, Junhong Zheng^, Jinye Lin^, Liang Wang, Kaishun Wu. "_Radar_: Adversarial Driving Style Representation Learning with Data Augmentation", _IEEE Transactions on Mobile Computing_, Vol. 22, Issue 12, Pages 7070-7085, December 2023. ([PDF](/files/2023-TMC-Radar.pdf))
 
 * [[MONE](https://www.springer.com/journal/11036)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Junfeng Wang, Xiuya Liu. "Adaptive Clustered Federated Learning for Heterogeneous Data in Edge Computing", _Mobile Networks and Applications_, DOI:
 [https://doi.org/10.1007/s11036-022-01978-8](https://doi.org/10.1007/s11036-022-01978-8), 2022. ([PDF](/files/2022-MONE-AdaCFL.pdf))
@@ -42,11 +42,11 @@ author_profile: true
 
 * [[IEEE Network](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65)] <b>Zhidan Liu</b>, Zhenjiang Li, Kaishun Wu, Mo Li. "Urban Traffic Prediction from Mobility Data Using Deep Learning", _IEEE Network Magazine_, Vol. 32, Issue 4, Pages 40-46, August 2018. ([PDF](/files/2018-IEEENet-Deeptraffic.pdf))
 
-* [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Shiqi Jiang, Pengfei Zhou, and Mo Li. "A Participatory Urban Traffic Monitoring System: The Power of Bus Riders", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 18, Issue 10, Pages 2851 - 2864, October 2017. ([PDF](/files/2017-TITS-Bus.pdf))
+* [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Shiqi Jiang, Pengfei Zhou, and Mo Li. "A Participatory Urban Traffic Monitoring System: The Power of Bus Riders", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 18, Issue 10, Pages 2851-2864, October 2017. ([PDF](/files/2017-TITS-Bus.pdf))
 
-* [[TON](http://www.ifp.illinois.edu/ton/)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Path Reconstruction in Dynamic Wireless Sensor Networks Using Compressive Sensing", _IEEE/ACM Transactions on Networking_, Vol. 24, Issue 4, Pages 1948 - 1960, August 2016. ([PDF](/files/2016-TON-CSpath.pdf))
+* [[TON](http://www.ifp.illinois.edu/ton/)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Path Reconstruction in Dynamic Wireless Sensor Networks Using Compressive Sensing", _IEEE/ACM Transactions on Networking_, Vol. 24, Issue 4, Pages 1948-1960, August 2016. ([PDF](/files/2016-TON-CSpath.pdf))
 
-* [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Mining Road Network Correlation for Traffic Estimation via Compressive Sensing", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 17, Issue 7, Pages 1880 - 1893, July 2016. ([PDF](/files/2016-TITS-CStraffic.pdf))
+* [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Mining Road Network Correlation for Traffic Estimation via Compressive Sensing", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 17, Issue 7, Pages 1880-1893, July 2016. ([PDF](/files/2016-TITS-CStraffic.pdf))
 
 <!--[IJDSN] Bo Zeng, Yabo Dong, Zhidan Liu, "A Negotiation-Based TDMA Scheduling with Consecutive Slots Assignment for Wireless Sensor Networks", International Journal of Distributed Sensor Networks, 2014. (PDF)
 

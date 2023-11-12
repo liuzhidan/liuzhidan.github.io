@@ -43,7 +43,7 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Guofeng" src="/images/group/ouyangguofeng.jpg"></div></div>
         <div class="card_name"><b>Guofeng Ouyang (欧阳国峰)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Vehicle dispatching & ridesharing</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Ridesharing</div>
         <div class="card_info">2021.09 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
