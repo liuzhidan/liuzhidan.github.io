@@ -14,7 +14,7 @@ permalink: /service/
 * Executive member of ACM SIGSpatial China, since 2023
 * Executive member of CCF Ubiquitous Computing Technical Committee (CCF普适计算专委会执行委员), since 2022
 * Executive member of CCF Internet of Things Technical Committee (CCF物联网专委会执行委员), since 2023
-* Executive member of CCF Intelligent Transportation Division (CCF智能交通分会执行委员), since 2023
+* Executive member of CCF Intelligent Transportation Division (CCF智慧交通分会执行委员), since 2023
 
 
 ### Editorial Board:
