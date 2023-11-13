@@ -33,11 +33,10 @@ author_profile: true
 
 * [PI] **<font size=3>Startup Fund for Shenzhen Overseas High-Caliber Personnel (深圳市高层次人才科研启动经费)</font>**  
   - <font size=3>No.827/000344, 2018.01-2020.12, 2700K RMB.</font>
-<!--
-* [PI] **Natural Science Foundation of Shenzhen University (深圳大学新引进教师科研启动项目)**  
+
+* [PI] **<font size=3>Natural Science Foundation of Shenzhen University (深圳大学新引进教师科研启动项目)</font>**  
   - Research on Crowdsensing based Urban Sensing
   - No.2018061, 2018.01-2020.12, 60K RMB.
--->
 
 * [Co-PI] **<font size=3>Multi-dimensional and Deep Perception Information based Social Computing</font>**
   - <font size=3 color=red>National Natural Science Foundation of China (Joint Program) (国家自然科学基金联合重点基金)</font>
