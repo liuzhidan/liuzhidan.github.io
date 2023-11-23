@@ -32,13 +32,14 @@ p.highlight {
 
 
 ## Recent News:
-* 2023.11 - Our paper "An Optimized Lossless Graph Summarization for Large-Scale Graphs” has been accepted by [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Congrats to Meiquan.
-* 2023.11 - Our paper "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Biyao.
-* 2023.10 - Selected to be the executive member of [CCF Intelligent Transportation Division](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_JT/).
-* 2023.10 - Selected to be the executive member of [CCF TCIoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/).
+* 2023.11 - Our paper "_Greta_: Towards A General Roadside Unit Deployment Framework” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Xianjing. 🎉
+* 2023.11 - Our paper "An Optimized Lossless Graph Summarization for Large-Scale Graphs” has been accepted by [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Congrats to Meiquan. 🎉
+* 2023.11 - Our paper "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Biyao. 🎉
+* 2023.10 - Selected to be the executive member of [CCF Intelligent Transportation Division](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_JT/). 🤪
+* 2023.10 - Selected to be the executive member of [CCF TCIoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/). 🤪
 * 2023.07 - Invited to serve on the TPC of [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Please consider submitting. 
-* 2023.06 - Selected to be CCF Senior Member!
-* 2023.04 - Selected to be the executive member of ACM SIGSpatial China.
+* 2023.06 - Selected to be CCF Senior Member! 🤪
+* 2023.04 - Selected to be the executive member of ACM SIGSpatial China. 🤪
 * 2022.09 - Selected to be the executive member of [CCF TCPC](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCPC/).
 * 2022.09 - Our paper "Data-Driven Pick-Up Location Recommendation for Ride-Hailing Services" has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Hongquan and Guofeng. 🎉
 * 2022.09 - Our paper "_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons" has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Jiancong and Xiaowen. 🎉
