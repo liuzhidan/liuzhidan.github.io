@@ -13,9 +13,9 @@ author_profile: true
 
 ## Journal Papers
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2023-TMC-HiCFL.pdf))
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Xianjing Wu^, <b>Zhidan Liu\*</b>, Zhenjiang Li, Shengjie Zhao\*. "_Greta_: Towards A General Roadside Unit Deployment Framework", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2023-TMC-HiCFL.pdf))
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Xianjing Wu^, <b>Zhidan Liu*</b>, Zhenjiang Li, Shengjie Zhao*. "_Greta_: Towards A General Roadside Unit Deployment Framework", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2023-TMC-HiCFL.pdf))
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2023-TMC-HiCFL.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, Hongquan Zhang^, Guofeng Ouyang^, Junyang Chen, Kaishun Wu. "Data-Driven Pick-Up Location Recommendation for Ride-Hailing Services", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2022-TMC-MPLRec.pdf))
 
