@@ -33,7 +33,7 @@ p.highlight {
 
 ## Recent News:
 * 2023.11 - Our paper "_Greta_: Towards A General Roadside Unit Deployment Framework” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Xianjing. 🎉
-* 2023.11 - Our paper "An Optimized Lossless Graph Summarization for Large-Scale Graphs” has been accepted by [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Congrats to Meiquan. 🎉
+* 2023.11 - Our paper "An Optimized Lossless Graph Summarization for Large-Scale Graphs” has been accepted by [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Congrats to Meiquan. 
 * 2023.11 - Our paper "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Biyao. 🎉
 * 2023.10 - Selected to be the executive member of [CCF Intelligent Transportation Division](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_JT/). 🤪
 * 2023.10 - Selected to be the executive member of [CCF TCIoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/). 🤪

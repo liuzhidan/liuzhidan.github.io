@@ -11,9 +11,9 @@ author_profile: true
 > ^ refers to the students I have advised or co-advised, * indicates the corresponding author. <br> Please check the full publication list in [Google Scholar](https://scholar.google.com/citations?user=wCzfY2QAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/124/2048.html).
 
 
-## Selected Journal Papers
+## Journal Papers
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Xianjing Wu^, <b>Zhidan Liu</b>*, Zhenjiang Li, Shengjie Zhao*. "_Greta_: Towards A General Roadside Unit Deployment Framework", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2023-TMC-HiCFL.pdf))
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Xianjing Wu^, <b>Zhidan Liu*</b>, Zhenjiang Li, Shengjie Zhao*. "_Greta_: Towards A General Roadside Unit Deployment Framework", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2023-TMC-HiCFL.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2023-TMC-HiCFL.pdf))
 
@@ -24,10 +24,10 @@ author_profile: true
 * [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, accepted to appear. ([PDF](/files/2022-TBD-AutoCFL.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, Junhong Zheng^, Jinye Lin^, Liang Wang, Kaishun Wu. "_Radar_: Adversarial Driving Style Representation Learning with Data Augmentation", _IEEE Transactions on Mobile Computing_, Vol. 22, Issue 12, Pages 7070-7085, December 2023. ([PDF](/files/2023-TMC-Radar.pdf))
-
+<!--
 * [[MONE](https://www.springer.com/journal/11036)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Junfeng Wang, Xiuya Liu. "Adaptive Clustered Federated Learning for Heterogeneous Data in Edge Computing", _Mobile Networks and Applications_, DOI:
 [https://doi.org/10.1007/s11036-022-01978-8](https://doi.org/10.1007/s11036-022-01978-8), 2022. ([PDF](/files/2022-MONE-AdaCFL.pdf))
-
+-->
 * [[CJC](http://cjc.ict.ac.cn/)] <b>Zhidan Liu</b>, Weixin Lin^, Kaishun Wu. "A Spatial Structure Matching Algorithm for Large Spatial-Textual Datasets/ 一种面向大规模空间文本数据的空间结构匹配算法", _Chinese Journal of Computers/计算机学报_,  Vol. 45, Issue 6, Pages 1261-1275, June 2022. ([PDF](/files/2022-CJC-SSM.pdf))
 
 <!--
@@ -56,7 +56,7 @@ author_profile: true
 
 [IJDSN] Zhidan Liu, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multihop Wireless Sensor Networks", International Journal of Distributed Sensor Networks, 2013. (PDF)-->
 
-## Selected Conference Papers
+## Conference Papers
 
 * [[DASFAA'21](http://dm.iis.sinica.edu.tw/DASFAA2021/index.html)] <b>Zhidan Liu</b>, Junhong Zheng^, Zengyang Gong^, Haodi Zhang, Kaishun Wu. "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning", In _DASFAA_, Taipei, Taiwan, April, 2021. ([PDF](/files/2021-DASFAA-Radar.pdf))
 
