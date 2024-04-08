@@ -16,7 +16,7 @@ Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](h
 
 ## Research Interests:
 
-Internet of Things, Urban Computing, Intelligent Transportation, Mobile Computing, Big Data Analytics
+Artificial Internet of Things, Urban Computing, Mobile Computing, Smart Mobility, Big Data Analytics
 
 <style>
 p.highlight {
