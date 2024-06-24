@@ -32,6 +32,7 @@ p.highlight {
 
 
 ## Recent News:
+* 2024.05 - Our paper "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition” has been accepted by [ACM KDD 2024](https://kdd2024.kdd.org/). Congrats to Junru. 🎉
 * 2023.11 - Our paper "_Greta_: Towards A General Roadside Unit Deployment Framework” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Xianjing. 🎉
 * 2023.11 - Our paper "An Optimized Lossless Graph Summarization for Large-Scale Graphs” has been accepted by [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Congrats to Meiquan. 
 * 2023.11 - Our paper "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Biyao. 🎉

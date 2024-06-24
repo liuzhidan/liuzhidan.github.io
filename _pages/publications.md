@@ -13,11 +13,11 @@ author_profile: true
 
 ## Journal Papers
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Xianjing Wu^, <b>Zhidan Liu\*</b>, Zhenjiang Li, Shengjie Zhao\*. "_Greta_: Towards A General Roadside Unit Deployment Framework", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2023-TMC-Greta.pdf))
-
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices", _IEEE Transactions on Mobile Computing_, accepted to appear. ([PDF](/files/2023-TMC-HiCFL.pdf))
-
 * [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, accepted to appear. ([PDF](/files/2022-TBD-AutoCFL.pdf))
+
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Xianjing Wu^, <b>Zhidan Liu\*</b>, Zhenjiang Li, Shengjie Zhao\*. "_Greta_: Towards A General Roadside Unit Deployment Framework", _IEEE Transactions on Mobile Computing_,  Vol. 23, Issue 7, Pages 7602-7617, July 2024. ([PDF](/files/2024-TMC-Greta.pdf))
+
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Biyao Gong^, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices", _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 6, Pages 7148-7164, June 2024. ([PDF](/files/2024-TMC-HiCFL.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, Hongquan Zhang^, Guofeng Ouyang^, Junyang Chen, Kaishun Wu. "Data-Driven Pick-Up Location Recommendation for Ride-Hailing Services", _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 2, Pages 1001-1015, February 2024. ([PDF](/files/2024-TMC-MPLRec.pdf))
 
@@ -60,9 +60,11 @@ author_profile: true
 
 ## Conference Papers
 
-* [[DASFAA'21](http://dm.iis.sinica.edu.tw/DASFAA2021/index.html)] <b>Zhidan Liu</b>, Junhong Zheng^, Zengyang Gong^, Haodi Zhang, Kaishun Wu. "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning", In _DASFAA_, Taipei, Taiwan, April, 2021. ([PDF](/files/2021-DASFAA-Radar.pdf))
+* [[KDD'24](https://kdd2024.kdd.org/)] Junru Zhang, Lang Feng, <b>Zhidan Liu</b>, Yuhan Wu, Yang He, Yabo Dong, Duanqing Xu. "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition", In _ACM KDD_, Barcelona, Spain, August 2024. ([PDF](/files/2024-KDD-DI2SDiff.pdf))
 
-* [[ICPADS'20](https://icpads2020.comp.polyu.edu.hk/)] Baofu Huang^, <b>Zhidan Liu</b>*, Kaishun Wu. "Accelerating PageRank in Shared-Memory for Efficient Social Network Graph Analytics", In IEEE _ICPADS_, HongKong, China, December, 2020. [**Best Paper Award**] ([PDF](/files/2020-ICPADS-APPR.pdf), [Slides](/files/2020-ICPADS-APPR-Slides.pdf))
+* [[DASFAA'21](http://dm.iis.sinica.edu.tw/DASFAA2021/index.html)] <b>Zhidan Liu</b>, Junhong Zheng^, Zengyang Gong^, Haodi Zhang, Kaishun Wu. "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning", In _DASFAA_, Taipei, Taiwan, China, April 2021. ([PDF](/files/2021-DASFAA-Radar.pdf))
+
+* [[ICPADS'20](https://icpads2020.comp.polyu.edu.hk/)] Baofu Huang^, <b>Zhidan Liu</b>*, Kaishun Wu. "Accelerating PageRank in Shared-Memory for Efficient Social Network Graph Analytics", In IEEE _ICPADS_, HongKong, China, December 2020. [**Best Paper Award**] ([PDF](/files/2020-ICPADS-APPR.pdf), [Slides](/files/2020-ICPADS-APPR-Slides.pdf))
 
 <!--* [[HPCC'20]()] Baofu Huang^, Zhidan Liu*, Kaishun Wu, "Structure Preserved Graph Reordering for Fast Graph Processing Without the Pain", In _IEEE HPCC_, Fiji, December, 2020. (Acceptance Rate: 58/379 = 15%) ([PDF]() | [Slides]())
 
