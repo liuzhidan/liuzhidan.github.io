@@ -1,0 +1,34 @@
+# main links links
+main:
+#  - title: "Home"
+#    url: /about/
+
+  - title: "Publications"
+    url: /publications/
+      
+#  - title: "Awards"
+#    url: /awards/   
+    
+  - title: "Grants"
+    url: /grant/
+
+  - title: "Teaching"
+    url: /teaching/     
+        
+  - title: "Services"
+    url: /service/
+  
+  - title: "Team"
+    url: /group/ 
+    
+  - title: "Misc"
+    url: /misc/
+    
+ # - title: "CV"
+ #   url: /cv/
+    
+ # - title: "Software"
+ #   url: /software/
+
+  # - title: "Group"
+  #   url: /people/
