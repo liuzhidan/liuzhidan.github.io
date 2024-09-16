@@ -60,11 +60,13 @@ author_profile: true
 
 ## Conference Papers
 
+* [[ICDM'24](https://kdd2024.kdd.org/)] <b>Zhidan Liu</b>, <u>Jinye Lin</u>, <u>Zhiyu Xia</u>, Chao Chen, and Kaishun Wu. "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism", In _IEEE ICDM_, Abu Dhabi, UAE, December 2024. (Accepted to appear, Acceptance Rate: 66/604 = 11%) ([PDF](/files/2024-KDD-DI2SDiff.pdf))
+
 * [[KDD'24](https://kdd2024.kdd.org/)] Junru Zhang, Lang Feng, <b>Zhidan Liu</b>, Yuhan Wu, Yang He, Yabo Dong, Duanqing Xu. "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition", In _ACM KDD_, Barcelona, Spain, August 2024. ([PDF](/files/2024-KDD-DI2SDiff.pdf))
 
 * [[DASFAA'21](http://dm.iis.sinica.edu.tw/DASFAA2021/index.html)] <b>Zhidan Liu</b>, <u>Junhong Zheng</u>, <u>Zengyang Gong</u>, Haodi Zhang, Kaishun Wu. "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning", In _DASFAA_, Taipei, Taiwan, China, April 2021. ([PDF](/files/2021-DASFAA-Radar.pdf))
 
-* [[ICPADS'20](https://icpads2020.comp.polyu.edu.hk/)] <u>Baofu Huang</u>, <b>Zhidan Liu</b>*, Kaishun Wu. "Accelerating PageRank in Shared-Memory for Efficient Social Network Graph Analytics", In IEEE _ICPADS_, HongKong, China, December 2020. [**Best Paper Award**] ([PDF](/files/2020-ICPADS-APPR.pdf), [Slides](/files/2020-ICPADS-APPR-Slides.pdf))
+* [[ICPADS'20](https://icpads2020.comp.polyu.edu.hk/)] <u>Baofu Huang</u>, <b>Zhidan Liu</b>*, Kaishun Wu. "Accelerating PageRank in Shared-Memory for Efficient Social Network Graph Analytics", In IEEE _ICPADS_, HongKong, China, December 2020. [**Best Paper Award** 🏆]  ([PDF](/files/2020-ICPADS-APPR.pdf), [Slides](/files/2020-ICPADS-APPR-Slides.pdf))
 
 <!--* [[HPCC'20]()] Baofu Huang^, Zhidan Liu*, Kaishun Wu, "Structure Preserved Graph Reordering for Fast Graph Processing Without the Pain", In _IEEE HPCC_, Fiji, December, 2020. (Acceptance Rate: 58/379 = 15%) ([PDF]() | [Slides]())
 
@@ -78,9 +80,9 @@ author_profile: true
 
 * [[IPSN'18](https://ipsn.acm.org/2018/)] Chu Cao, <b>Zhidan Liu</b>, Mo Li, Qin Zheng, Wenqiang Wang. "Walkway Discovery from Large Scale Crowdsensing", In _ACM/IEEE IPSN_, Porto, Portugal, April 2018. (Acceptance Rate: 22/82 = 26%) ([PDF](/files/2018-IPSN-Alley.pdf), [Slides](/files/2018-IPSN-Alley-Slides.pdf))
 
-* [[MobiHoc'14](http://www.sigmobile.org/mobihoc/2014/)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, Dongming Lu. "Path Reconstruction in Dynamic Wireless Sensor Networks using Compressive Sensing", In _ACM MobiHoc_, Philadelphia, USA, August 2014. (Acceptance Rate: 40/211 = 18%) ([PDF](/files/2014-MobiHoc-CSPR.pdf), [Slides](/files/2014-MobiHoc-CSPR-Slides.ppt))
+<!--* [[MobiHoc'14](http://www.sigmobile.org/mobihoc/2014/)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, Dongming Lu. "Path Reconstruction in Dynamic Wireless Sensor Networks using Compressive Sensing", In _ACM MobiHoc_, Philadelphia, USA, August 2014. (Acceptance Rate: 40/211 = 18%) ([PDF](/files/2014-MobiHoc-CSPR.pdf), [Slides](/files/2014-MobiHoc-CSPR-Slides.ppt))
 
-<!--[ICCC'13] Zhidan Liu, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multi-hop Wireless Sensor Networks", In IEEE ICCC, Xi'an, China, August 2013. (PDF)
+[ICCC'13] Zhidan Liu, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multi-hop Wireless Sensor Networks", In IEEE ICCC, Xi'an, China, August 2013. (PDF)
 
 [AINA'13] Zhidan Liu, Wei Xing, Bo Zeng, Yongchao Wang, Dongming Lu, "Distributed Spatial Correlation-based Clustering for Approximate Data Collection in WSNs", In IEEE AINA, Barcelona, Spain, March 2013. (PDF)
 

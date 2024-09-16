@@ -35,16 +35,17 @@ p.highlight {
 </style>
 
 <p class="highlight">
-<b><font color="red">Hiring:</font></b> I'm actively looking for self-motivated PhD students (Spring/Fall 2025), RAs and interns. If you are interested in working with me, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any).
+<b><font color="red">Hiring:</font></b> I'm actively looking for self-motivated PhD students (Fall 2025, and Spring/Fall 2026), RAs and on-site or online interns. If you are interested in working with me, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any).
 </p>
 
 
 ## Recent Highlights:
+* 2024.09 - Our paper "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism” has been accepted as a regular paper by [IEEE ICDM 2024](https://icdm2024.org/). Congrats to Jinye and Zhiyu. 🎉
 * 2024.08 - Challenge accepted! Joining HKUST (GZ) to start a new journey. 🚀
 * 2024.07 - Invited to serve on the TPC of [IEEE MSN 2024](https://ieee-msn.org/2024/). Please consider submitting. 
 * 2024.05 - Our paper "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition” has been accepted by [ACM KDD 2024](https://kdd2024.kdd.org/). Congrats to Junru. 🎉
 * 2023.11 - Our paper "_Greta_: Towards A General Roadside Unit Deployment Framework” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Xianjing. 🎉
-* 2023.11 - Our paper "An Optimized Lossless Graph Summarization for Large-Scale Graphs” has been accepted by [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Congrats to Meiquan. 
+* 2023.11 - Our paper "An Optimized Lossless Graph Summarization for Large-Scale Graphs” has been accepted by [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Congrats to Meiquan. 🎉
 * 2023.11 - Our paper "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Biyao. 🎉
 * 2023.10 - Selected to be the executive member of [CCF Intelligent Transportation Division](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_JT/). 🤪
 * 2023.10 - Selected to be the executive member of [CCF TCIoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/). 🤪

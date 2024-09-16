@@ -29,7 +29,7 @@ permalink: /service/
 
 
 ### Technical Program Committee Member:
-* 2024: IEEE MSN
+* 2024: ACM KDD, IEEE MSN
 * 2023: ACM CIKM, IEEE ICPADS
 * 2022: ACM KDD, ACM WSDM, IEEE ICPADS
 * 2021: IEEE ICDCS, IEEE MASS
@@ -42,14 +42,14 @@ permalink: /service/
 ### Transaction and Journal Reviewer (selected):
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Mobile Computing (TMC)
-* IEEE Transactions on Intelligent Transportation Systems (TITS)
+* IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 * IEEE/ACM Transactions on Networking (TON)
 * ACM Transactions on Spatial Algorithms and Systems (TSAS)
 * IEEE Transactions on Wireless Communications (TWC)
 * IEEE Transactions on Parallel and Distributed Systems (TPDS)
 * ACM Transactions on Sensor Networks (TOSN)
 * IEEE Transactions on Communications (TOC)
-* IEEE Internet of Things Journal (JIOT)
+* IEEE Internet of Things Journal (IOT-J)
 * IEEE Communications Magazine
 * IEEE Computational Intelligence Magazine
 * Elsevier Pervasive and Mobile Computing (PMC)
