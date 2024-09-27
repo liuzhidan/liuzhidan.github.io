@@ -60,9 +60,9 @@ author_profile: true
 
 ## Conference Papers
 
-* [[ICDM'24](https://kdd2024.kdd.org/)] <b>Zhidan Liu</b>, <u>Jinye Lin</u>, <u>Zhiyu Xia</u>, Chao Chen, and Kaishun Wu. "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism", In _IEEE ICDM_, Abu Dhabi, UAE, December 2024. (Accepted to appear, Acceptance Rate: 66/604 = 11%) ([PDF](/files/2024-KDD-DI2SDiff.pdf))
+* [[ICDM'24](https://icdm2024.org/)] <b>Zhidan Liu</b>, <u>Jinye Lin</u>, <u>Zhiyu Xia</u>, Chao Chen, and Kaishun Wu. "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism", In _IEEE ICDM_, Abu Dhabi, UAE, December 2024. (Accepted to appear, Acceptance Rate: 66/604 = 11%) ([PDF](/files/2024-ICDM-PreMR.pdf))
 
-* [[KDD'24](https://kdd2024.kdd.org/)] Junru Zhang, Lang Feng, <b>Zhidan Liu</b>, Yuhan Wu, Yang He, Yabo Dong, Duanqing Xu. "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition", In _ACM KDD_, Barcelona, Spain, August 2024. ([PDF](/files/2024-KDD-DI2SDiff.pdf))
+* [[KDD'24](https://kdd2024.kdd.org/)] Junru Zhang, Lang Feng, <b>Zhidan Liu</b>, Yuhan Wu, Yang He, Yabo Dong, Duanqing Xu. "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition", In _ACM KDD_, Barcelona, Spain, August 2024. (Acceptance Rate: ~20%) ([PDF](/files/2024-KDD-DI2SDiff.pdf))
 
 * [[DASFAA'21](http://dm.iis.sinica.edu.tw/DASFAA2021/index.html)] <b>Zhidan Liu</b>, <u>Junhong Zheng</u>, <u>Zengyang Gong</u>, Haodi Zhang, Kaishun Wu. "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning", In _DASFAA_, Taipei, Taiwan, China, April 2021. ([PDF](/files/2021-DASFAA-Radar.pdf))
 
@@ -76,7 +76,7 @@ author_profile: true
 
 <!--[MSN'19] <b>Zhidan Liu</b>, Mingliang Huang^, Zhi Ye^, Kaishun Wu, "DeepRTP: A Deep Spatio-Temporal Residual Network for Regional Traffic Prediction", In IEEE MSN, Hong Kong, China, December 2019. (Invited paper) (PDF)-->
 
-* [[MobiSys'19](https://www.sigmobile.org/mobisys/2019)] Yang Liu, Zhenjiang Li, <b>Zhidan Liu</b>, Kaishun Wu. "Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors", In _ACM MobiSys_, Seoul, Republic of Korea, June 2019. (Acceptance Rate: 40/174 = 22%) ([PDF](/files/2019-MobiSys-ArmTroi.pdf), [Slides](/files/2019-MobiSys-ArmTroi-Slides.pdf))
+* [[MobiSys'19](https://www.sigmobile.org/mobisys/2019)] Yang Liu, Zhenjiang Li, <b>Zhidan Liu</b>, Kaishun Wu. "Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors", In _ACM MobiSys_, Seoul, Republic of Korea, June 2019. (Acceptance Rate: 40/174 = 22%) (Acceptance Rate: 40/172 = 23%) ([PDF](/files/2019-MobiSys-ArmTroi.pdf), [Slides](/files/2019-MobiSys-ArmTroi-Slides.pdf))
 
 * [[IPSN'18](https://ipsn.acm.org/2018/)] Chu Cao, <b>Zhidan Liu</b>, Mo Li, Qin Zheng, Wenqiang Wang. "Walkway Discovery from Large Scale Crowdsensing", In _ACM/IEEE IPSN_, Porto, Portugal, April 2018. (Acceptance Rate: 22/82 = 26%) ([PDF](/files/2018-IPSN-Alley.pdf), [Slides](/files/2018-IPSN-Alley-Slides.pdf))
 
