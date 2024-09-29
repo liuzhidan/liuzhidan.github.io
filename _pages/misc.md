@@ -27,10 +27,11 @@ permalink: /misc/
 [The Elements of Style](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf), William Strunk Jr.
 
 
-
+<!--
 <br />
 <br />
 
 <div style="float:right">
 <a href="https://clustrmaps.com/site/1bqeu"  title="Visit tracker" ><img src="//www.clustrmaps.com/map_v2.png?d=28WI0twzaQdhIK84jFxPVamYvQvzwJHcf7aDEG_2Tts&cl=ffffff" /></a>
 </div>
+-->
