@@ -42,6 +42,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2024.10 - Our paper "Learning Road Network Index Structure for Efficient Map Matching” has been accepted by [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). Congrats to Yingqian and Xiaosi. Welcome to explore our advanced map matching method, _LiMM_, now publicly available at [github](https://github.com/BDUC-MobiX/LiMM). 🎉
 * 2024.09 - Our paper "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism” has been accepted as a regular paper by [IEEE ICDM 2024](https://icdm2024.org/). Congrats to Jinye and Zhiyu. 🎉
 * 2024.08 - Challenge accepted! Joining HKUST (GZ) to start a new journey. 🚀
 * 2024.07 - Invited to serve on the TPC of [IEEE MSN 2024](https://ieee-msn.org/2024/). Please consider submitting. 

@@ -13,6 +13,8 @@ author_profile: true
 
 ## Journal Papers
 
+* [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, accepted to appear. ([PDF](/files/2024-TKDE-LiMM.pdf), [Code](https://github.com/BDUC-MobiX/LiMM))
+
 * [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, accepted to appear. ([PDF](/files/2022-TBD-AutoCFL.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Xianjing Wu, <b>Zhidan Liu\*</b>, Zhenjiang Li, Shengjie Zhao\*. "_Greta_: Towards A General Roadside Unit Deployment Framework", _IEEE Transactions on Mobile Computing_,  Vol. 23, Issue 7, Pages 7602-7617, July 2024. ([PDF](/files/2024-TMC-Greta.pdf))
