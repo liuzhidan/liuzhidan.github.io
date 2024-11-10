@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 {% include toc %}
 
-> [Google Scholar](https://scholar.google.com/citations?user=wCzfY2QAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/124/2048.html) <br> \* Corresponding author, <u>Students/RAs</u> under my supervision.  
+> [Google Scholar](https://scholar.google.com/citations?user=wCzfY2QAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/124/2048.html) <br> \* Corresponding author, <u>Students/RAs</u> under my supervision.  
 
 
 ### 2024
@@ -34,7 +34,7 @@ author_profile: true
 
 ### 2023 and before
 
-#### >> Journal Papers
+### >> Journal Papers
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Junhong Zheng</u>, <u>Jinye Lin</u>, Liang Wang, Kaishun Wu. "_Radar_: Adversarial Driving Style Representation Learning with Data Augmentation", _IEEE Transactions on Mobile Computing_, Vol. 22, Issue 12, Pages 7070-7085, December 2023. ([PDF](/files/2023-TMC-Radar.pdf))
 
@@ -62,7 +62,7 @@ author_profile: true
 
 * [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Mining Road Network Correlation for Traffic Estimation via Compressive Sensing", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 17, Issue 7, Pages 1880-1893, July 2016. ([PDF](/files/2016-TITS-CStraffic.pdf))
 
-#### >> Conference Papers
+### >> Conference Papers
 
 * [[DASFAA'21](http://dm.iis.sinica.edu.tw/DASFAA2021/index.html)] <b>Zhidan Liu</b>, <u>Junhong Zheng</u>, <u>Zengyang Gong</u>, Haodi Zhang, Kaishun Wu. "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning", In _DASFAA_, Taipei, Taiwan, China, April 2021. ([PDF](/files/2021-DASFAA-Radar.pdf))
 
@@ -70,13 +70,13 @@ author_profile: true
 
 * [[ICPADS'20](https://icpads2020.comp.polyu.edu.hk/)] <u>Baofu Huang</u>, <b>Zhidan Liu</b>*, Kaishun Wu. "Accelerating PageRank in Shared-Memory for Efficient Social Network Graph Analytics", In IEEE _ICPADS_, HongKong, China, December 2020. [**Best Paper Award** 🏆]  ([PDF](/files/2020-ICPADS-APPR.pdf), [Slides](/files/2020-ICPADS-APPR-Slides.pdf))
 
-* [[HPCC'20]](https://www.ieee-hpcc.org/2020/#:~:text=Given%20the%20COVID%2D19%20pandemic,presented%20at%20the%20virtual%20conference.) <u>Baofu Huang</u>, Zhidan Liu*, Kaishun Wu, "Structure Preserved Graph Reordering for Fast Graph Processing Without the Pain", In _IEEE HPCC_, Fiji, December, 2020. (Acceptance Rate: 58/379 = 15%) ([PDF]() | [Slides]())
+* [[HPCC'20]](https://www.ieee-hpcc.org/2020) <u>Baofu Huang</u>, Zhidan Liu*, Kaishun Wu, "Structure Preserved Graph Reordering for Fast Graph Processing Without the Pain", In _IEEE HPCC_, Fiji, December, 2020. (Acceptance Rate: 58/379 = 15%) ([PDF](/files/2020-HPCC-Sorder.pdf))
 
-* [[ICCCN'20]](https://ieeexplore.ieee.org/xpl/conhome/9205796/proceeding) <u>Zengyang Gong</u>, Bo Du, Zhidan Liu, Wei Zeng, Pascal Perez, Kaishun Wu, "SD-seq2seq : A Deep Learning Model for Bus Bunching Prediction Based on Smart Card Data", In IEEE ICCCN, Honolulu, Hawaii, USA, August 2020. (PDF) 
+* [[ICCCN'20]](https://ieeexplore.ieee.org/xpl/conhome/9205796/proceeding) <u>Zengyang Gong</u>, Bo Du, Zhidan Liu, Wei Zeng, Pascal Perez, Kaishun Wu, "SD-seq2seq : A Deep Learning Model for Bus Bunching Prediction Based on Smart Card Data", In IEEE ICCCN, Honolulu, Hawaii, USA, August 2020. ([PDF](/files/2020-ICCCN-SD.pdf))
 
 * [[MobiSys'19](https://www.sigmobile.org/mobisys/2019)] Yang Liu, Zhenjiang Li, <b>Zhidan Liu</b>, Kaishun Wu. "Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors", In _ACM MobiSys_, Seoul, Republic of Korea, June 2019. (Acceptance Rate: 40/174 = 22%) (Acceptance Rate: 40/172 = 23%) ([PDF](/files/2019-MobiSys-ArmTroi.pdf), [Slides](/files/2019-MobiSys-ArmTroi-Slides.pdf))
 
-* [[MSN'19]](https://ieeexplore.ieee.org/xpl/conhome/9050568/proceeding) <b>Zhidan Liu</b>, <u>Mingliang Huang</u>, <u>Zhi Ye</u>, Kaishun Wu, "DeepRTP: A Deep Spatio-Temporal Residual Network for Regional Traffic Prediction", In IEEE MSN, Hong Kong, China, December 2019. (Invited paper) (PDF)
+* [[MSN'19]](https://ieeexplore.ieee.org/xpl/conhome/9050568/proceeding) <b>Zhidan Liu</b>, <u>Mingliang Huang</u>, <u>Zhi Ye</u>, Kaishun Wu, "DeepRTP: A Deep Spatio-Temporal Residual Network for Regional Traffic Prediction", In IEEE MSN, Hong Kong, China, December 2019. (Invited paper) ([PDF](/files/2019-MSN-DeepRTP.pdf))
 
 * [[IPSN'18](https://ipsn.acm.org/2018/)] Chu Cao, <b>Zhidan Liu</b>, Mo Li, Qin Zheng, Wenqiang Wang. "Walkway Discovery from Large Scale Crowdsensing", In _ACM/IEEE IPSN_, Porto, Portugal, April 2018. (Acceptance Rate: 22/82 = 26%) ([PDF](/files/2018-IPSN-Alley.pdf), [Slides](/files/2018-IPSN-Alley-Slides.pdf))
 
