@@ -15,7 +15,7 @@ author_profile: true
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu\*</b>, <u>Guofeng Ouyang</u>, <u>Bolin Zhang</u>, Bo Du, Chao Chen, Kaishun Wu. "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing", _IEEE Transactions on Mobile Computing_, Vol. 1, Issue 1, Pages 1-16, November 2024 [Accepted to appear]. ([PDF](/files/2024-TMC-JODR.pdf))
 
-* [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, Vol. 1, Issue 1, Pages 1-15, October 2024 [Accepted to appear]. ([PDF](/files/2024-TKDE-LiMM.pdf), [Code](https://github.com/BDUC-MobiX/LiMM))
+* [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, Vol. 1, Issue 1, Pages 1-15, October 2024 [Accepted to appear]. ([PDF](/files/2024-TKDE-LiMM.pdf), [Codes](https://github.com/BDUC-MobiX/LiMM))
 
 * [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, Vol. 1, Issue 1, Pages 1-15, April 2022 [Accepted to appear]. ([PDF](/files/2022-TBD-AutoCFL.pdf))
 
