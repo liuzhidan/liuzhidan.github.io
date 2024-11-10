@@ -299,11 +299,13 @@ nav {
   ul li,
   ol li {
     margin-bottom: 0;
+    line-height: 1.1; // added by lzd
   }
 
   li ul,
   li ol {
     margin-top: 0;
+    line-height: 1.1; // added by lzd
   }
 }
 
