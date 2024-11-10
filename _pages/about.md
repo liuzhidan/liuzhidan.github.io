@@ -71,7 +71,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * <b>Zhidan Liu</b>, <u>Zengyang Gong</u>, <u>Jiangzhou Li</u>, Kaishun Wu. [Mobility-Aware Dynamic Taxi Ridesharing](/files/2020-ICDE-mTShare.pdf), in _IEEE ICDE_, Dallas, Texas, USA, April 2020. 
   - ><p style="color:#8A2BE2">Exploiting mobility information to efficiently serve both online and offline riders in dynamic ridesharing</p>
 
-* <b>Zhidan Liu</b>, Pengfei Zhou, Zhenjiang Li, Mo Li. [Think Like A Graph: Real-Time Traffic Estimation at City-Scale][PDF](/files/2019-TMC-GPTE.pdf), _IEEE Transactions on Mobile Computing_, Vol. 18, Issue 10, Pages 2446-2459, October 2019.
+* <b>Zhidan Liu</b>, Pengfei Zhou, Zhenjiang Li, Mo Li. [Think Like A Graph: Real-Time Traffic Estimation at City-Scale](/files/2019-TMC-GPTE.pdf), _IEEE Transactions on Mobile Computing_, Vol. 18, Issue 10, Pages 2446-2459, October 2019.
   - ><p style="color:#8A2BE2">Leveraging graph-parallel computing for precise, timely, and scalable traffic estimations through Apache Spark implementation</p>
 
 * <b>Zhidan Liu</b>, Zhenjiang Li, Kaishun Wu, Mo Li. [Urban Traffic Prediction from Mobility Data Using Deep Learning](/files/2018-IEEENet-Deeptraffic.pdf), _IEEE Network_, Vol. 32, Issue 4, Pages 40-46, August 2018.
