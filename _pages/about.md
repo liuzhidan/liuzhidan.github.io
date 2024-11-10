@@ -21,10 +21,7 @@ Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](h
 
 ## Research Interests:
 
-* Urban Computing and Smart Mobility
-* Internet of Things (IoT) and AIoT
-* Crowdsensing and Mobile Computing
-* Spatio-Temporal Data Mining and Analytics
+Urban Computing and Smart Mobility; Internet of Things (IoT) and AIoT; Crowdsensing and Mobile Computing; Spatio-Temporal Data Mining and Analytics
 
 <style>
 p.highlight {
@@ -41,7 +38,6 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 </p>
 
 
-
 ## Selected Publications:
 
 <style>
@@ -53,8 +49,7 @@ p.emphasis {
 </style>
 
 * [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. [Learning Road Network Index Structure for Efficient Map Matching](/files/2024-TKDE-LiMM.pdf), _IEEE Transactions on Knowledge and Data Engineering_, accepted to appear. ([Code](https://github.com/BDUC-MobiX/LiMM)) 
-
-<p><font color=#fa9b39, size=2>test Enhancing various HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement (open source)</font></p>
+<p style="color:#fa9b39">Enhancing various HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement (open source)</p>
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Jiancong Liu</u>, <u>Xiaowen Xu</u>, Kaishun Wu. [_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons](/files/2024-TMC-DeepGPS.pdf), _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 1, Pages 376-392, January 2024. ([Code](https://github.com/bducgroup/DeepGPS)) 
 &emsp;&emsp;<p class="emphasis"> Harnessing deep learning to decode the correlation between positioning contexts and GPS estimations in urban canyons (open source)</p>
@@ -69,7 +64,7 @@ p.emphasis {
 &emsp;&emsp;<p class="emphasis"> Leveraging graph-parallel computing for precise, timely, and scalable traffic estimations through Apache Spark implementation</p>
 
 * [[IEEE Network](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65)] <b>Zhidan Liu</b>, Zhenjiang Li, Kaishun Wu, Mo Li. [Urban Traffic Prediction from Mobility Data Using Deep Learning](/files/2018-IEEENet-Deeptraffic.pdf), _IEEE Network Magazine_, Vol. 32, Issue 4, Pages 40-46, August 2018.
-&emsp;&emsp;<p class="emphasis"> Unveiling the promise and broad-ranging applications of deep learning in forecasting diverse traffic metrics</p>
+    - > Unveiling the promise and broad-ranging applications of deep learning in forecasting diverse traffic metrics
 
 
 ## Recent Highlights:
