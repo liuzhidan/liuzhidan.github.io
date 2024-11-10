@@ -59,8 +59,8 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 ## Selected Publications:
 
-[[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. [Learning Road Network Index Structure for Efficient Map Matching](/files/2024-TKDE-LiMM.pdf), _IEEE Transactions on Knowledge and Data Engineering_, accepted to appear. ([Code](https://github.com/BDUC-MobiX/LiMM))
-<p style="color:#007FFF">Enhancing various HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement</p>
+* [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. [Learning Road Network Index Structure for Efficient Map Matching](/files/2024-TKDE-LiMM.pdf), _IEEE Transactions on Knowledge and Data Engineering_, accepted to appear. ([Code](https://github.com/BDUC-MobiX/LiMM))
+  - ><p style="color:#007FFF">Enhancing various HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement</p>
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Jiancong Liu</u>, <u>Xiaowen Xu</u>, Kaishun Wu. [_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons](/files/2024-TMC-DeepGPS.pdf), _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 1, Pages 376-392, January 2024. ([Code](https://github.com/bducgroup/DeepGPS))
   - ><p style="color:#007FFF">Exploiting deep learning to decode the correlation between positioning contexts and GPS estimations in urban canyons</p>
