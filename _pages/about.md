@@ -53,16 +53,16 @@ p.emphasis {
 </style>
 
 * [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. [Learning Road Network Index Structure for Efficient Map Matching](/files/2024-TKDE-LiMM.pdf), _IEEE Transactions on Knowledge and Data Engineering_, Vol. xx, Issue xx, Pages xxxx-xxxx, October 2024 [Accepted to appear]. ([Code](https://github.com/BDUC-MobiX/LiMM)) 
-&emsp;&emsp;<p class="emphasis"> Enhancing various HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement (open source)</p>
+  - > <font color=#fa9b39, size=2>Enhancing various HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement (open source)</font>
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Jiancong Liu</u>, <u>Xiaowen Xu</u>, Kaishun Wu. [_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons](/files/2024-TMC-DeepGPS.pdf), _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 1, Pages 376-392, January 2024. ([Code](https://github.com/bducgroup/DeepGPS)) 
 &emsp;&emsp;<p class="emphasis"> Harnessing deep learning to decode the correlation between positioning contexts and GPS estimations in urban canyons (open source)</p>
 
 * [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, <u>Jiangzhou Li</u>, Kaishun Wu. [Context-Aware Taxi Dispatching at City-Scale Using Deep Reinforcement Learning](/files/2022-TITS-COX.pdf), _IEEE Transactions on Intelligent Transportation Systems_, Vol. 23, Issue 3, Pages 1996-2009, March 2022. ([Code](https://github.com/szlhl1040/Simulator))
-&emsp;&emsp;<p class="emphasis"> Pioneering the application of deep reinforcement learning in large-scale vehicle dispatching (open source, ESI highly cited paper)</p>
+<br>&emsp;&emsp;<p class="emphasis"> Pioneering the application of deep reinforcement learning in large-scale vehicle dispatching (open source, ESI highly cited paper)</p>
 
 * [[ICDE](https://www.utdallas.edu/icde/)] <b>Zhidan Liu</b>, <u>Zengyang Gong</u>, <u>Jiangzhou Li</u>, Kaishun Wu. [Mobility-Aware Dynamic Taxi Ridesharing](/files/2020-ICDE-mTShare.pdf), in _IEEE ICDE_, Dallas, Texas, USA, April 2020. 
-&emsp;&emsp;<p class="emphasis"> Fully exploiting mobility information to serve both online and offline riders in dynamic ridesharing</p>
+&emsp;&emsp;<p style="background-color: rgba(250, 127, 111, 0.1); padding: 1em; border-radius: 10px;"> Fully exploiting mobility information to serve both online and offline riders in dynamic ridesharing</p>
 
 * [[TMC](https://www.computer.org/web/tmc)] <b>Zhidan Liu</b>, Pengfei Zhou, Zhenjiang Li, Mo Li. [Think Like A Graph: Real-Time Traffic Estimation at City-Scale][PDF](/files/2019-TMC-GPTE.pdf), _IEEE Transactions on Mobile Computing_, Vol. 18, Issue 10, Pages 2446-2459, October 2019.
 &emsp;&emsp;<p class="emphasis"> Leveraging graph-parallel computing for precise, timely, and scalable traffic estimations through Apache Spark implementation</p>
