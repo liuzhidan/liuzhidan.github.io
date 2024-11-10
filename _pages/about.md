@@ -59,14 +59,14 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 ## Selected Publications:
 
-* [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. [Learning Road Network Index Structure for Efficient Map Matching](/files/2024-TKDE-LiMM.pdf), _IEEE Transactions on Knowledge and Data Engineering_, accepted to appear.
-  - ><p style="color:#007FFF">Enhancing various HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement [open source](https://github.com/BDUC-MobiX/LiMM)</p>
+[[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. [Learning Road Network Index Structure for Efficient Map Matching](/files/2024-TKDE-LiMM.pdf), _IEEE Transactions on Knowledge and Data Engineering_, accepted to appear. ([Code](https://github.com/BDUC-MobiX/LiMM))
+<p style="color:#007FFF">Enhancing various HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement</p>
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Jiancong Liu</u>, <u>Xiaowen Xu</u>, Kaishun Wu. [_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons](/files/2024-TMC-DeepGPS.pdf), _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 1, Pages 376-392, January 2024. 
-  - ><p style="color:#007FFF">Exploiting deep learning to decode the correlation between positioning contexts and GPS estimations in urban canyons [open source](https://github.com/bducgroup/DeepGPS)</p>
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Jiancong Liu</u>, <u>Xiaowen Xu</u>, Kaishun Wu. [_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons](/files/2024-TMC-DeepGPS.pdf), _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 1, Pages 376-392, January 2024. ([Code](https://github.com/bducgroup/DeepGPS))
+  - ><p style="color:#007FFF">Exploiting deep learning to decode the correlation between positioning contexts and GPS estimations in urban canyons</p>
 
-* [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, <u>Jiangzhou Li</u>, Kaishun Wu. [Context-Aware Taxi Dispatching at City-Scale Using Deep Reinforcement Learning](/files/2022-TITS-COX.pdf), _IEEE Transactions on Intelligent Transportation Systems_, Vol. 23, Issue 3, Pages 1996-2009, March 2022.
-  - ><p style="color:#007FFF">An ESI highly cited paper, which innovates in applying deep reinforcement learning for large-scale vehicle dispatching [open source](https://github.com/szlhl1040/Simulator)</p>
+* [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, <u>Jiangzhou Li</u>, Kaishun Wu. [Context-Aware Taxi Dispatching at City-Scale Using Deep Reinforcement Learning](/files/2022-TITS-COX.pdf), _IEEE Transactions on Intelligent Transportation Systems_, Vol. 23, Issue 3, Pages 1996-2009, March 2022. ([code](https://github.com/szlhl1040/Simulator))
+  - ><p style="color:#007FFF">An ESI highly cited paper, which innovates in applying deep reinforcement learning for large-scale vehicle dispatching</p>
 
 * [[ICDE](https://www.utdallas.edu/icde/)] <b>Zhidan Liu</b>, <u>Zengyang Gong</u>, <u>Jiangzhou Li</u>, Kaishun Wu. [Mobility-Aware Dynamic Taxi Ridesharing](/files/2020-ICDE-mTShare.pdf), in _IEEE ICDE_, Dallas, Texas, USA, April 2020. 
   - ><p style="color:#007FFF">Fully exploiting mobility information to serve both online and offline riders in dynamic ridesharing</p>
