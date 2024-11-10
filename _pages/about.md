@@ -21,7 +21,7 @@ Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](h
 
 ## Research Interests:
 
-Urban Computing and Smart Mobility; Internet of Things (IoT) and AIoT; Crowdsensing and Mobile Computing; Spatio-Temporal Data Mining and Analytics
+* Urban Computing and Smart Mobility; Internet of Things (IoT) and AIoT; Crowdsensing and Mobile Computing; Spatio-Temporal Data Mining and Analytics
 
 <style>
 p.highlight {
@@ -52,7 +52,7 @@ p.emphasis {
 <p style="color:#cb2027">Enhancing various HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement</p>
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Jiancong Liu</u>, <u>Xiaowen Xu</u>, Kaishun Wu. [_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons](/files/2024-TMC-DeepGPS.pdf), _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 1, Pages 376-392, January 2024. ([Code](https://github.com/bducgroup/DeepGPS)) 
-&emsp;&emsp;<p style="color:#1769FF;font-size=1.6">test Harnessing deep learning to decode the correlation between positioning contexts and GPS estimations in urban canyons (open source)</p>
+&emsp;&emsp;<p style="color:#1769FF">test Harnessing deep learning to decode the correlation between positioning contexts and GPS estimations in urban canyons (open source)</p>
 
 * [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, <u>Jiangzhou Li</u>, Kaishun Wu. [Context-Aware Taxi Dispatching at City-Scale Using Deep Reinforcement Learning](/files/2022-TITS-COX.pdf), _IEEE Transactions on Intelligent Transportation Systems_, Vol. 23, Issue 3, Pages 1996-2009, March 2022. ([Code](https://github.com/szlhl1040/Simulator))
 <br>&emsp;&emsp;<p class="emphasis"> Pioneering the application of deep reinforcement learning in large-scale vehicle dispatching (open source, ESI highly cited paper)</p>
