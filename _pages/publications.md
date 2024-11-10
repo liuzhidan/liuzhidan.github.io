@@ -34,7 +34,7 @@ author_profile: true
 
 ### 2023 and before
 
-#### >> Journal Papers
+### >> Journal Papers
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Junhong Zheng</u>, <u>Jinye Lin</u>, Liang Wang, Kaishun Wu. "_Radar_: Adversarial Driving Style Representation Learning with Data Augmentation", _IEEE Transactions on Mobile Computing_, Vol. 22, Issue 12, Pages 7070-7085, December 2023. ([PDF](/files/2023-TMC-Radar.pdf))
 
@@ -62,7 +62,7 @@ author_profile: true
 
 * [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Mining Road Network Correlation for Traffic Estimation via Compressive Sensing", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 17, Issue 7, Pages 1880-1893, July 2016. ([PDF](/files/2016-TITS-CStraffic.pdf))
 
-#### >> Conference Papers
+### >> Conference Papers
 
 * [[DASFAA'21](http://dm.iis.sinica.edu.tw/DASFAA2021/index.html)] <b>Zhidan Liu</b>, <u>Junhong Zheng</u>, <u>Zengyang Gong</u>, Haodi Zhang, Kaishun Wu. "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning", In _DASFAA_, Taipei, Taiwan, China, April 2021. ([PDF](/files/2021-DASFAA-Radar.pdf))
 
@@ -98,7 +98,7 @@ author_profile: true
 [WiCom'12] Zhidan Liu, Wei Xing, Yongchao Wang, Dongming Lu, "Adaptive Data Storage for Querying in Wireless Sensor Networks", In IEEE WiCom, Shanghai, China, September 2012. (PDF)-->
 
 
-#### >> Books/Chapters, Posters and Demos
+### >> Books/Chapters, Posters and Demos
 
 * [[Book](https://www.springer.com/gp/book/9789811622403)] <b>Zhidan Liu</b>, Kaishun Wu. "Mobility Data-Driven Urban Traffic Monitoring", Springer Singapore, May 2021.
 
