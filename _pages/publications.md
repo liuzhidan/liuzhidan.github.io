@@ -11,7 +11,7 @@ author_profile: true
 > [Google Scholar](https://scholar.google.com/citations?user=wCzfY2QAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/124/2048.html) <br> \* Corresponding author, <u>Students/RAs</u> under my supervision.  
 
 
-### 2024
+## 2024
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu\*</b>, <u>Guofeng Ouyang</u>, <u>Bolin Zhang</u>, Bo Du, Chao Chen, Kaishun Wu. "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing", _IEEE Transactions on Mobile Computing_, Vol. 1, Issue 1, Pages 1-16, November 2024 [Accepted to appear]. ([PDF](/files/2024-TMC-JODR.pdf))
 
@@ -32,7 +32,7 @@ author_profile: true
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Jiancong Liu</u>, <u>Xiaowen Xu</u>, Kaishun Wu. "_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons", _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 1, Pages 376-392, January 2024. ([PDF](/files/2024-TMC-DeepGPS.pdf), [Codes](https://github.com/bducgroup/DeepGPS))
 
 
-### 2023 and before
+## 2023 and before
 
 ### >> Journal Papers
 
