@@ -42,7 +42,9 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2024.12 - Elevated to the grade of IEEE Senior member! 🤪
 * 2024.11 - Our paper "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Guofeng and Bolin. 🎉
+* 2024.10 - Invited to join the [ACM CSCW 2025](https://cscw.acm.org/2025/) Program Committee as an Associate Chair.
 * 2024.10 - Our paper "Learning Road Network Index Structure for Efficient Map Matching” has been accepted by [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). Congrats to Yingqian and Xiaosi. Welcome to explore our advanced map matching method, _LiMM_, now publicly available at [github](https://github.com/BDUC-MobiX/LiMM). 🎉
 * 2024.09 - Our paper "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism” has been accepted as a regular paper by [IEEE ICDM 2024](https://icdm2024.org/). Congrats to Jinye and Zhiyu. 🎉
 * 2024.08 - Challenge accepted! Joining HKUST (GZ) to start a new journey. 🚀
@@ -54,7 +56,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * 2023.10 - Selected to be the executive member of [CCF Intelligent Transportation Division](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_JT/). 🤪
 * 2023.10 - Selected to be the executive member of [CCF TCIoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/). 🤪
 * 2023.07 - Invited to serve on the TPC of [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Please consider submitting. 
-* 2023.06 - Selected to be CCF Senior Member! 🤪
+* 2023.06 - Elevated to be CCF Senior Member! 🤪
 * 2023.04 - Selected to be the executive member of ACM SIGSpatial China. 🤪
 
 ## Selected Publications:
