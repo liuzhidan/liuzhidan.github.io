@@ -62,7 +62,13 @@ author_profile: true
 
 * [[TITS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Mining Road Network Correlation for Traffic Estimation via Compressive Sensing", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 17, Issue 7, Pages 1880-1893, July 2016. ([PDF](/files/2016-TITS-CStraffic.pdf))
 
+* [IJDSN] Bo Zeng, Yabo Dong, Zhidan Liu, "A Negotiation-Based TDMA Scheduling with Consecutive Slots Assignment for Wireless Sensor Networks", International Journal of Distributed Sensor Networks, 2014.
+
+* [IJDSN] Zhidan Liu, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multihop Wireless Sensor Networks", International Journal of Distributed Sensor Networks, 2013. 
+
 ### >> Conference Papers
+
+* [[ICPADS'23](https://ieeexplore.ieee.org/xpl/conhome/10475889/proceeding)] <u>Meiquan Lai</u>, <u>Yaqi Huang</u>, <b>Zhidan Liu</b>*, Kaishun Wu. "An Optimized Lossless Graph Summarization for Large-Scale Graphs", In IEEE _ICPADS_, Ocean Flower Island, Hainan, China, December 2023.  ([PDF](/files/2023-ICPADS-optGS.pdf))
 
 * [[DASFAA'21](http://dm.iis.sinica.edu.tw/DASFAA2021/index.html)] <b>Zhidan Liu</b>, <u>Junhong Zheng</u>, <u>Zengyang Gong</u>, Haodi Zhang, Kaishun Wu. "Exploiting Multi-Source Data for Adversarial Driving Style Representation Learning", In _DASFAA_, Taipei, Taiwan, China, April 2021. ([PDF](/files/2021-DASFAA-Radar.pdf))
 
@@ -79,10 +85,6 @@ author_profile: true
 * [[MSN'19]](https://ieeexplore.ieee.org/xpl/conhome/9050568/proceeding) <b>Zhidan Liu</b>, <u>Mingliang Huang</u>, <u>Zhi Ye</u>, Kaishun Wu, "DeepRTP: A Deep Spatio-Temporal Residual Network for Regional Traffic Prediction", In IEEE MSN, Hong Kong, China, December 2019. (Invited paper) ([PDF](/files/2019-MSN-DeepRTP.pdf))
 
 * [[IPSN'18](https://ipsn.acm.org/2018/)] Chu Cao, <b>Zhidan Liu</b>, Mo Li, Qin Zheng, Wenqiang Wang. "Walkway Discovery from Large Scale Crowdsensing", In _ACM/IEEE IPSN_, Porto, Portugal, April 2018. (Acceptance Rate: 22/82 = 26%) ([PDF](/files/2018-IPSN-Alley.pdf), [Slides](/files/2018-IPSN-Alley-Slides.pdf))
-
-<!--[IJDSN] Bo Zeng, Yabo Dong, Zhidan Liu, "A Negotiation-Based TDMA Scheduling with Consecutive Slots Assignment for Wireless Sensor Networks", International Journal of Distributed Sensor Networks, 2014. (PDF)
-
-[IJDSN] Zhidan Liu, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multihop Wireless Sensor Networks", International Journal of Distributed Sensor Networks, 2013. (PDF)-->
 
 * [[MobiHoc'14](http://www.sigmobile.org/mobihoc/2014/)] <b>Zhidan Liu</b>, Zhenjiang Li, Mo Li, Wei Xing, Dongming Lu. "Path Reconstruction in Dynamic Wireless Sensor Networks using Compressive Sensing", In _ACM MobiHoc_, Philadelphia, USA, August 2014. (Acceptance Rate: 40/211 = 18%) ([PDF](/files/2014-MobiHoc-CSPR.pdf), [Slides](/files/2014-MobiHoc-CSPR-Slides.ppt))
 
