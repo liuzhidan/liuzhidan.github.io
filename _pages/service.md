@@ -18,8 +18,8 @@ permalink: /service/
 
 
 ### Editorial Board:
-* Lead Guest Editor: *Special Issue on Ubiquitous Sensing and Computing for Intelligent Transportation* in [**Data Science for Transportation**](https://www.springer.com/journal/42421)
 * Young Editorial Board Member of [Journal of Social Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8964404), 2024.02 - Now
+* Lead Guest Editor: *Special Issue on Ubiquitous Sensing and Computing for Intelligent Transportation* in [**Data Science for Transportation**](https://www.springer.com/journal/42421)
 
 ### Conference Organization Chair:
 * Special session Chair: IEEE CSCWD 2022
@@ -29,7 +29,7 @@ permalink: /service/
 
 
 ### Technical Program Committee Member:
-* 2025: ACM CSCW (Associate Chair)
+* 2025: ACM CSCW (Associate Chair), ACM KDD (Outstanding Reviewer for August Cycle)
 * 2024: ACM KDD, IEEE MSN
 * 2023: ACM CIKM, IEEE ICPADS
 * 2022: ACM KDD, ACM WSDM, IEEE ICPADS

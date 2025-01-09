@@ -42,6 +42,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2024.12 - Glad to receive the OUTSTANDING REVIEWER recognition from [ACM KDD 2025](https://kdd2025.kdd.org/) (August Cycle)! 🤪
 * 2024.12 - Elevated to the grade of IEEE Senior member! 🤪
 * 2024.11 - Our paper "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Guofeng and Bolin. 🎉
 * 2024.10 - Invited to join the [ACM CSCW 2025](https://cscw.acm.org/2025/) Program Committee as an Associate Chair.
@@ -50,6 +51,8 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * 2024.08 - Challenge accepted! Joining HKUST (GZ) to start a new journey. 🚀
 * 2024.07 - Invited to serve on the TPC of [IEEE MSN 2024](https://ieee-msn.org/2024/). Please consider submitting. 
 * 2024.05 - Our paper "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition” has been accepted by [ACM KDD 2024](https://kdd2024.kdd.org/). Congrats to Junru. 🎉
+
+<!--
 * 2023.11 - Our paper "_Greta_: Towards A General Roadside Unit Deployment Framework” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Xianjing. 🎉
 * 2023.11 - Our paper "An Optimized Lossless Graph Summarization for Large-Scale Graphs” has been accepted by [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Congrats to Meiquan. 🎉
 * 2023.11 - Our paper "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Biyao. 🎉
@@ -58,10 +61,11 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * 2023.07 - Invited to serve on the TPC of [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Please consider submitting. 
 * 2023.06 - Elevated to be CCF Senior Member! 🤪
 * 2023.04 - Selected to be the executive member of ACM SIGSpatial China. 🤪
+-->
 
 ## Selected Publications:
 
-* <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. [Learning Road Network Index Structure for Efficient Map Matching](/files/2024-TKDE-LiMM.pdf), _IEEE Transactions on Knowledge and Data Engineering_, accepted to appear. ([codes](https://github.com/BDUC-MobiX/LiMM))
+* <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. [Learning Road Network Index Structure for Efficient Map Matching](/files/2025-TKDE-LiMM.pdf), _IEEE Transactions on Knowledge and Data Engineering_, Vol. 37, Issue 1, Pages 423-437, January 2025. ([codes](https://github.com/BDUC-MobiX/LiMM))
   - ><p style="color:#8A2BE2">Enhancing HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement</p>
 
 * <b>Zhidan Liu</b>, <u>Jiancong Liu</u>, <u>Xiaowen Xu</u>, Kaishun Wu. [_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons](/files/2024-TMC-DeepGPS.pdf), _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 1, Pages 376-392, January 2024. ([codes](https://github.com/bducgroup/DeepGPS))

@@ -11,13 +11,15 @@ author_profile: true
 > [Google Scholar](https://scholar.google.com/citations?user=wCzfY2QAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/124/2048.html) <br> \* Corresponding author, <u>Students/RAs</u> under my supervision.  
 
 
+## 2025
+
+* [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, Vol. 37, Issue 1, Pages 423-437, January 2025. ([PDF](/files/2025-TKDE-LiMM.pdf), [Codes](https://github.com/BDUC-MobiX/LiMM))
+
 ## 2024
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu\*</b>, <u>Guofeng Ouyang</u>, <u>Bolin Zhang</u>, Bo Du, Chao Chen, Kaishun Wu. "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing", _IEEE Transactions on Mobile Computing_, Vol. 1, Issue 1, Pages 1-16, November 2024 [Accepted to appear]. ([PDF](/files/2024-TMC-JODR.pdf))
 
-* [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, Vol. 1, Issue 1, Pages 1-15, October 2024 [Accepted to appear]. ([PDF](/files/2024-TKDE-LiMM.pdf), [Codes](https://github.com/BDUC-MobiX/LiMM))
-
-* [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, Vol. 1, Issue 1, Pages 1-15, April 2022 [Accepted to appear]. ([PDF](/files/2022-TBD-AutoCFL.pdf))
+* [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, Vol. 10, Issue 6, Pages 1051-1065, December 2024. ([PDF](/files/2024-TBD-AutoCFL.pdf))
 
 * [[ICDM](https://icdm2024.org/)] <b>Zhidan Liu</b>, <u>Jinye Lin</u>, <u>Zhiyu Xia</u>, Chao Chen, and Kaishun Wu. "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism", In _IEEE ICDM_, Abu Dhabi, UAE, December 2024. (Accepted to appear, Acceptance Rate: 66/604 = 11%) ([PDF](/files/2024-ICDM-PreMR.pdf))
 
