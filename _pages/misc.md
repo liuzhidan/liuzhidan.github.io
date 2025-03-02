@@ -10,6 +10,7 @@ permalink: /misc/
 * 2018 Shenzhen Nanshan District Pilot Talent Award (深圳市南山区“领航人才”)
 
 ## Invited Talks
+* _The New Era of Artificial Intelligence: Opportunities and Challenges_, Guangzhou Foreign Language School, Guangzhou, February 2025
 * _Data-Driven Pick-Up Location Recommendation for Ride-Hailing Services_, CCF HHME 2024,Taiyuan, China, August 2024 
 * _Deep Learning Enhanced GPS Positioning in Urban Canyons_, Embedded AI Summit 2024, Dunhuang, China, August 2024 
 * _Trajectory Data Driven Smart Mobility: Sensing, Computing_, and Applications, HKUST (GZ), Guangzhou, China, September 2023  

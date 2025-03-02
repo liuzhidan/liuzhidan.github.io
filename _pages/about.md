@@ -35,9 +35,13 @@ p.highlight {
 </style>
 
 <p class="highlight">
-<b><font color="red">Recruiting:</font></b> I'm actively seeking self-motivated Ph.D. students (Fall 2025, and Spring/Fall 2026), Research Assistants, and Postdoc. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
+<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated Ph.D. students (Fall 2025, and Spring/Fall 2026), Research Assistants, and Postdoc. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
 <br>
 Please read this <a href="/files/recruitment.pdf">file</a> for more details (in Chinese). 招聘详情请参考<a href="/files/recruitment.pdf">此文件</a>以及<a href="https://mp.weixin.qq.com/s/kGbDvr4dETnFxBlCPOQ3vg">公众号文章</a>. 
+<br><br>
+We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for appointmenting an offline meeting. 
+<br>
+<b>For prospective RBM students</b>, If you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. 
 </p>
 
 

@@ -46,6 +46,13 @@ author_profile: true
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobility data analytics</div>
         <div class="card_info">Started 2024 Fall</div>
       </td>
+      <td class="member_card" align="left" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/wangjiyu.jpg"></div></div>
+        <div class="card_name"><b>Jiyu Wang (王纪禹)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from SYSU)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobility management</div>
+        <div class="card_info">Started 2025 Spring</div>
+      </td>
       </tr>    
   </table>
 </div>
