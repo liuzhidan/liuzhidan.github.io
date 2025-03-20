@@ -13,15 +13,15 @@ author_profile: true
 
 ## 2025
 
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu\*</b>, <u>Guofeng Ouyang</u>, <u>Bolin Zhang</u>, Bo Du, Chao Chen, Kaishun Wu. "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing", _IEEE Transactions on Mobile Computing_, Vol. 24, Issue 4, Pages 2628-2643, April 2025. ([PDF](/files/2025-TMC-JODR.pdf))
+
 * [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, Vol. 37, Issue 1, Pages 423-437, January 2025. ([PDF](/files/2025-TKDE-LiMM.pdf), [Codes](https://github.com/BDUC-MobiX/LiMM))
 
 ## 2024
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu\*</b>, <u>Guofeng Ouyang</u>, <u>Bolin Zhang</u>, Bo Du, Chao Chen, Kaishun Wu. "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing", _IEEE Transactions on Mobile Computing_, Vol. 1, Issue 1, Pages 1-16, November 2024 [Accepted to appear]. ([PDF](/files/2024-TMC-JODR.pdf))
-
 * [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, Vol. 10, Issue 6, Pages 1051-1065, December 2024. ([PDF](/files/2024-TBD-AutoCFL.pdf))
 
-* [[ICDM](https://icdm2024.org/)] <b>Zhidan Liu</b>, <u>Jinye Lin</u>, <u>Zhiyu Xia</u>, Chao Chen, and Kaishun Wu. "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism", In _IEEE ICDM_, Abu Dhabi, UAE, December 2024. (Accepted to appear, Acceptance Rate: 66/604 = 11%) ([PDF](/files/2024-ICDM-PreMR.pdf), [Slides](/files/2024-ICDM-PreMR-Slides.pptx))
+* [[ICDM](https://icdm2024.org/)] <b>Zhidan Liu</b>, <u>Jinye Lin</u>, <u>Zhiyu Xia</u>, Chao Chen, and Kaishun Wu. "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism", In _IEEE ICDM_, Abu Dhabi, UAE, December 2024. (Acceptance Rate: 66/604 = 11%) ([PDF](/files/2024-ICDM-PreMR.pdf), [Slides](/files/2024-ICDM-PreMR-Slides.pptx))
 
 * [[KDD](https://kdd2024.kdd.org/)] Junru Zhang, Lang Feng, <b>Zhidan Liu</b>, Yuhan Wu, Yang He, Yabo Dong, Duanqing Xu. "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition", In _ACM KDD_, Barcelona, Spain, August 2024. (Acceptance Rate: ~20%) ([PDF](/files/2024-KDD-DI2SDiff.pdf))
 
