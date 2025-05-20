@@ -5,7 +5,7 @@ permalink: /grant/
 author_profile: true
 ---
 
-> Our research is supported by funds granted by NSF of China, NSF of Guangdong, Shenzhen University, and etc, with total project funding ~4000K RMB. 
+> Our research is supported by funds granted by NSF of China, NSF of Guangdong, HKUST (GZ), Shenzhen University, and etc, with total project funding ~4000K RMB. 
 
 * [PI] **<font size=3>Research on the Key Technologies of Mobility Context Aware Personalized Ridesharing</font>**  
   - <font size=3 color=red> National Natural Science Foundation of China (General Program) (国家自然科学基金面上项目)</font>

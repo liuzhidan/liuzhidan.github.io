@@ -42,10 +42,13 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for appointmenting an offline meeting. 
 <br>
 <b>For prospective RBM students</b>, If you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. 
+
+<b><font color="red">We still have 1~2 Ph.D. positions available for Fall 2025. Welcome to apply. [Update: 20 May, 2025]</font></b>
 </p>
 
 
 ## Recent Highlights:
+* 2025.05 - Our paper "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Junru. 🎉
 * 2024.12 - Glad to receive the OUTSTANDING REVIEWER recognition from [ACM KDD 2025](https://kdd2025.kdd.org/) (August Cycle)! 🤪
 * 2024.12 - Elevated to the grade of IEEE Senior member! 🤪
 * 2024.11 - Our paper "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Guofeng and Bolin. 🎉

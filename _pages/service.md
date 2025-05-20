@@ -7,8 +7,8 @@ permalink: /service/
 <!--{% include toc %}-->
 
 ### Membership:
-* Senior Member of The Institute of Electrical and Electronics Engineers (**IEEE**), since 2024
-* Senior member of China Computer Federation (**CCF**), since 2023
+* **Senior Member** of The Institute of Electrical and Electronics Engineers (**IEEE**), since 2024
+* **Senior member** of China Computer Federation (**CCF**), since 2023
 * Member of The Association for Computing Machinery (**ACM**), since 2018
 * Member of ACM SIGMOBILE, since 2021
 * Executive member of ACM SIGSpatial China, since 2023

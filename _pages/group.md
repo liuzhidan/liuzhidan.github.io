@@ -42,15 +42,15 @@ author_profile: true
       <td class="member_card" align="left" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/xuxiaowen.png"></div></div>
         <div class="card_name"><b>Xiaowen Xu (徐小雯)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from SZU)</div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobility data analytics</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from Shenzhen University)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Mobile Computing</div>
         <div class="card_info">Started 2024 Fall</div>
       </td>
       <td class="member_card" align="left" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/wangjiyu.jpg"></div></div>
         <div class="card_name"><b>Jiyu Wang (王纪禹)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from SYSU)</div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobility management</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from Sun Yat-sen University)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Mobility Management</div>
         <div class="card_info">Started 2025 Spring</div>
       </td>
       </tr>    
