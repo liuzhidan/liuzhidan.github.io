@@ -13,7 +13,7 @@ author_profile: true
 
 ## 2025
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Junru Zhang, Cheng Peng, <b>Zhidan Liu\*</b>, Lang Feng, Yuhan Wu, Yabo Dong, Duanqing Xu. "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition", _IEEE Transactions on Mobile Computing_, accepted to appear, May 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Junru Zhang, Cheng Peng, <b>Zhidan Liu</b>, Lang Feng, Yuhan Wu, Yabo Dong, Duanqing Xu. "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition", _IEEE Transactions on Mobile Computing_, accepted to appear, May 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu\*</b>, <u>Guofeng Ouyang</u>, <u>Bolin Zhang</u>, Bo Du, Chao Chen, Kaishun Wu. "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing", _IEEE Transactions on Mobile Computing_, Vol. 24, Issue 4, Pages 2628-2643, April 2025. ([PDF](/files/2025-TMC-JODR.pdf))
 
