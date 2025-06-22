@@ -92,34 +92,7 @@ author_profile: true
 
 <div id="Master">
 <table id="person_table_Master" align="center" cellspacing="25" frame=void style="border: none;">
-<!--
-    <tr class="member_tr" style="vertical-align: top;">
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaosi" src="/images/group/xiaosi.jpg"></div></div>
-        <div class="card_name"><b>Xiaosi Liu (刘晓思)</b></div><div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile data generation</div>
-        <div class="card_info">2022.09 ~ </div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhiyu" src="/images/group/zhiyu.jpg"></div></div>
-        <div class="card_name"><b>Zhiyu Xia (夏志宇)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">GNN & Traffic prediction</div>
-        <div class="card_info">2022.09 ~ </div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhengze" src="/images/group/zhengze.jpg"></div></div>
-        <div class="card_name"><b>Zhengze Sun (孙政泽)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Traffic flow prediction</div>
-        <div class="card_info">2022.09 ~ </div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/zhenyu.jpg"></div></div>
-        <div class="card_name"><b>Zhenyu Yang (杨振宇)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile computing</div>
-        <div class="card_info">2022.09 ~ </div>
-      </td>
-    </tr>
--->
-    <tr class="member_tr" style="vertical-align: top;">
+   <tr class="member_tr" style="vertical-align: top;">
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Bolin" src="/images/group/bolin.jpg"></div></div>
         <div class="card_name"><b>Bolin Zhang (张柏林)</b></div>        
@@ -142,26 +115,6 @@ author_profile: true
   </table>
 </div>
 
-<!--
-### Undergraduate Students @ SZU
-
-<div id="Undergraduate">
-  <table id="person_table_Undergraduate" align="left" cellspacing="25" frame=void style="border: none;">
-   <tr class="member_tr" style="vertical-align: top;">
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Haotian" src="/images/group/haotian.jpg"></div></div>
-        <div class="card_name"><b>Haotian Zhong (钟昊天)</b></div>
-        <div class="card_info">Started in 2022</div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/jiahao.jpg"></div></div>
-        <div class="card_name"><b>Jiahao Liu (刘嘉豪)</b></div>
-        <div class="card_info">Started in 2022</div>
-      </td>
-    </tr>    
-  </table>
-</div>
--->
 
 ## Alumni of SZU
 
@@ -245,7 +198,7 @@ author_profile: true
         <div class="card_info">B.S. 2020-2022</div>
       </td>
     </tr>
-        <tr class="member_tr" style="vertical-align: top;">
+    <tr class="member_tr" style="vertical-align: top;">
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Yaqi" src="/images/group/yaqi.jpg"></div></div>
         <div class="card_name"><b>Yaqi Huang (黄雅琪)</b></div>
@@ -271,7 +224,7 @@ author_profile: true
         <div class="card_info">B.S. 2022-2025</div>
       </td> 
     </tr>
-        <tr class="member_tr" style="vertical-align: top;">
+    <tr class="member_tr" style="vertical-align: top;">
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaosi" src="/images/group/xiaosi.jpg"></div></div>
         <div class="card_name"><b>Xiaosi Liu (刘晓思)</b>
@@ -296,6 +249,4 @@ author_profile: true
         <div class="card_research_direction Master_tr_0" style="height: 25px;">Now Research Assistant at <a href="https://www.hkust-gz.edu.cn/">HKUST (GZ)</a></div>
         <div class="card_info">M.S. 2022-2025</div>
       </td>
-    </tr>
-</table>
 </div>
