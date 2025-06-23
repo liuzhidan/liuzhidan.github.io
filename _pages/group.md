@@ -249,4 +249,6 @@ author_profile: true
         <div class="card_research_direction Master_tr_0" style="height: 25px;">Now Research Assistant at <a href="https://www.hkust-gz.edu.cn/">HKUST (GZ)</a></div>
         <div class="card_info">M.S. 2022-2025</div>
       </td>
+    </tr>
+  </table>
 </div>
