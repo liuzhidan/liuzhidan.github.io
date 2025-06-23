@@ -39,14 +39,14 @@ author_profile: true
 <div id="PhD">
   <table id="person_table_Master" align="left" cellspacing="25" frame=void style="border: none;">
     <tr class="member_tr" style="vertical-align: top;">
-      <td class="member_card" align="left" style="border: none;">
+      <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/xuxiaowen.png"></div></div>
         <div class="card_name"><b>Xiaowen Xu (徐小雯)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from Shenzhen University)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Mobile Computing</div>
         <div class="card_info">Started 2024 Fall</div>
       </td>
-      <td class="member_card" align="left" style="border: none;">
+      <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/wangjiyu.jpg"></div></div>
         <div class="card_name"><b>Jiyu Wang (王纪禹)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from Sun Yat-sen University)</div>
@@ -220,21 +220,21 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;"> 
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Haotian" src="/images/group/haotian.jpg"></div></div>
         <div class="card_name"><b>Haotian Zhong (钟昊天)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Now PhD Student at<a href="http://www.cs.zju.edu.cn/">浙江大学</a></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Now PhD Student at <a href="http://www.cs.zju.edu.cn/">浙江大学</a></div>
         <div class="card_info">B.S. 2022-2025</div>
       </td> 
     </tr>
     <tr class="member_tr" style="vertical-align: top;">
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaosi" src="/images/group/xiaosi.jpg"></div></div>
-        <div class="card_name"><b>Xiaosi Liu (刘晓思)</b>
+        <div class="card_name"><b>Xiaosi Liu (刘晓思)</b></div>
         <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in <a href="https://www.byd.com/">比亚迪</a></div>
         <div class="card_info">M.S. 2022-2025</div>
       </td>
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhiyu" src="/images/group/zhiyu.jpg"></div></div>
         <div class="card_name"><b>Zhiyu Xia (夏志宇)</b></div>
-        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in <a href="https://www.byd.com/">比亚迪</a></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in <a href="https://www.hsbc.com/">汇丰</a></div>
         <div class="card_info">M.S. 2022-2025</div>
       </td>
       <td class="member_card" align="center" style="border: none;">
