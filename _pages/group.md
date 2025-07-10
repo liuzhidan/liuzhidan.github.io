@@ -42,14 +42,14 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/xuxiaowen.png"></div></div>
         <div class="card_name"><b>Xiaowen Xu (徐小雯)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from Shenzhen University)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from <a href="https://www.szu.edu.cn/">Shenzhen University</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Mobile Computing</div>
         <div class="card_info">Started 2024 Fall</div>
       </td>
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaowen" src="/images/group/wangjiyu.jpg"></div></div>
         <div class="card_name"><b>Jiyu Wang (王纪禹)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from Sun Yat-sen University)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Mobility Management</div>
         <div class="card_info">Started 2025 Spring</div>
       </td>
@@ -65,21 +65,21 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/zhenyu.jpg"></div></div>
         <div class="card_name"><b>Zhenyu Yang (杨振宇)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from Shenzhen University)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from <a href="https://www.szu.edu.cn/">Shenzhen University</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile computing</div>
         <div class="card_info">2025.07 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaosi" src="/images/group/jinsong.png"></div></div>
         <div class="card_name"><b>Jinsong Luo (罗晋松)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from Central South University)</div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM in healthcare</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from <a href="https://www.csu.edu.cn/">Central South University</a>)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Urban computing</div>
         <div class="card_info">2025.07 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhiyu" src="/images/group/girl.png"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhiyu" src="/images/group/yuzitong.jpg"></div></div>
         <div class="card_name"><b>Zitong Yu (于子彤)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from China University of Geosciences, Wuhan)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from <a href="https://www.cug.edu.cn/">CUG (Wuhan)</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Spatiotemporal data analytics</div>
         <div class="card_info">2025.07 ~ </div>
       </td>     
@@ -124,7 +124,7 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zengyang" src="/images/group/zengyanggong.jpg"></div></div>
         <div class="card_name"><b>Zengyang Gong (龚增阳)</b></div>
-        <div class="card_research_direction Master_tr_0" style="height: 25px;">Now PhD student at <a href="https://www.cse.ust.hk/">HKUST</a></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">Now PhD student at <a href="https://www.cse.ust.hk/">港科大</a></div>
         <div class="card_info">M.S. 2017-2020</div>
       </td>
       <td class="member_card" align="center" style="border: none;">
@@ -162,13 +162,13 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Jiancong" src="/images/group/liujiancong.jpg"></div></div>
         <div class="card_name"><b>Jiancong Liu (刘键聪)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Now Master student at <a href="https://www.hitsz.edu.cn/index.html">HITSZ</a></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Now Master student at <a href="https://www.hitsz.edu.cn/index.html">哈工大(深圳)</a></div>
         <div class="card_info">B.S. 2018-2022</div>
       </td>
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Meiquan" src="/images/group/meiquan.jpg"></div></div>
         <div class="card_name"><b>Meiquan Lai (赖美全)</b></div>
-        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in <a href="https://en.sics.ac.cn/">SICS</a></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in <a href="https://en.sics.ac.cn/">深算院</a></div>
         <div class="card_info">M.S. 2020-2023</div>
       </td>
     </tr>
@@ -194,7 +194,7 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Wenxuan" src="/images/group/wenxuan.jpg"></div></div>
         <div class="card_name"><b>Wenxuan Xia (夏文轩)</b></div>
-        <div class="card_research_direction Master_tr_0" style="height: 25px;">Now PhD student at <a href="https://www.hkust-gz.edu.cn/">HKUST (GZ)</a></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">Now PhD student at <a href="https://www.hkust-gz.edu.cn/">港科大(广州)</a></div>
         <div class="card_info">B.S. 2020-2022</div>
       </td>
     </tr>
@@ -246,7 +246,7 @@ author_profile: true
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/zhenyu.jpg"></div></div>
         <div class="card_name"><b>Zhenyu Yang (杨振宇)</b></div>
-        <div class="card_research_direction Master_tr_0" style="height: 25px;">Now Research Assistant at <a href="https://www.hkust-gz.edu.cn/">HKUST (GZ)</a></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">Now Research Assistant at <a href="https://www.hkust-gz.edu.cn/">港科大(广州)</a></div>
         <div class="card_info">M.S. 2022-2025</div>
       </td>
     </tr>

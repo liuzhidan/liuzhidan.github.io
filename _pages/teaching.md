@@ -14,13 +14,13 @@ author_profile: true
 
 ## Teaching Courses:
 
-- 2023~Now (Semester-1): Intelligent Networking and Computing/(本科生课程)《智能网络与计算》 
+- 2023~2024 (Semester-1): Intelligent Networking and Computing/(本科生课程)《智能网络与计算》 
 
-- 2017~Now (Semester-2): Internet Programming (in JAVA)/(本科生课程)《互联网编程》
+- 2017~2023 (Semester-2): Internet Programming (in JAVA)/(本科生课程)《互联网编程》
 
 - 2017~2022 (Semester-1): Introduction to Wireless Sensor Networks/(本科生课程)《无线传感器网络》 
 
-- 2021~Now (Semester-2): Guidance on Academic Writing/(研究生课程)《论文写作指导》
+- 2021~2023 (Semester-2): Guidance on Academic Writing/(研究生课程)《论文写作指导》
 
 ## Selected Teaching Achievements:
 * 2023.09 指导本科生钟昊天、刘嘉豪获得**2023年广东省大学生计算机设计大赛一等奖**

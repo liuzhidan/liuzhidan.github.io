@@ -21,10 +21,12 @@ Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](h
 
 ## Research Interests:
 
-* Urban Computing and Smart Mobility; 
-* Internet of Things (IoT) and AIoT; 
-* Crowdsensing and Mobile Computing; 
+* Urban Computing and Smart Mobility
+* Artificial Internet of Things (AIoT)
+* Wearable and Mobile Computing
+* Crowdsensing and Crowdsourcing
 * Spatio-Temporal Data Mining and Analytics
+* Federated Learning
 
 <style>
 p.highlight {
@@ -35,19 +37,18 @@ p.highlight {
 </style>
 
 <p class="highlight">
-<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated Ph.D. students (Fall 2025, and Spring/Fall 2026), Research Assistants, and Postdoc. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
+<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated Ph.D. students (<font color="red">2026 Fall/2027 Spring</font></b>), Research Assistants, and Postdoc. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
 <br>
 Please read this <a href="/files/recruitment.pdf">file</a> for more details (in Chinese). 招聘详情请参考<a href="/files/recruitment.pdf">此文件</a>以及<a href="https://mp.weixin.qq.com/s/kGbDvr4dETnFxBlCPOQ3vg">公众号文章</a>. 
 <br><br>
-We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for appointmenting an offline meeting. 
-<br>
-<b>For prospective RBM students</b>, If you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. 
+We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for appointmenting an offline meeting. <b>For prospective RBM students</b>, If you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. 
 
-<b><font color="red">We still have 1~2 Ph.D. positions available for Fall 2025. Welcome to apply. [Update: 20 May, 2025]</font></b>
+<!--<b><font color="red">We still have 1~2 Ph.D. positions available for Fall 2025. Welcome to apply. [Update: 20 May, 2025]</font></b>-->
 </p>
 
 
 ## Recent Highlights:
+* 2025.07 - Our paper "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zixiao. 🎉
 * 2025.05 - Our paper "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Junru. 🎉
 * 2024.12 - Glad to receive the OUTSTANDING REVIEWER recognition from [ACM KDD 2025](https://kdd2025.kdd.org/) (August Cycle)! 🤪
 * 2024.12 - Elevated to the grade of IEEE Senior member! 🤪

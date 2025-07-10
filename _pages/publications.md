@@ -13,9 +13,11 @@ author_profile: true
 
 ## 2025
 
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Zixiao Wang, Qi Dong, Tianzhang Xing\*, <b>Zhidan Liu\*</b>, Zhenjiang Li, Xiaojiang Chen. "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications", _IEEE Transactions on Mobile Computing_, accepted to appear, July 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
+
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Junru Zhang, Cheng Peng, <b>Zhidan Liu</b>, Lang Feng, Yuhan Wu, Yabo Dong, Duanqing Xu. "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition", _IEEE Transactions on Mobile Computing_, accepted to appear, May 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu\*</b>, <u>Guofeng Ouyang</u>, <u>Bolin Zhang</u>, Bo Du, Chao Chen, Kaishun Wu. "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing", _IEEE Transactions on Mobile Computing_, Vol. 24, Issue 4, Pages 2628-2643, April 2025. ([PDF](/files/2025-TMC-JODR.pdf))
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Guofeng Ouyang</u>, <u>Bolin Zhang</u>, Bo Du, Chao Chen, Kaishun Wu. "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing", _IEEE Transactions on Mobile Computing_, Vol. 24, Issue 4, Pages 2628-2643, April 2025. ([PDF](/files/2025-TMC-JODR.pdf))
 
 * [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, Vol. 37, Issue 1, Pages 423-437, January 2025. ([PDF](/files/2025-TKDE-LiMM.pdf), [Codes](https://github.com/BDUC-MobiX/LiMM))
 
