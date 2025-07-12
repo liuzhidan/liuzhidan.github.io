@@ -13,7 +13,7 @@ author_profile: true
 
 ## 2025
 
-* [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Zhengze Sun, Junru Zhang, Bolin Zhang, Panrong Tong. "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation", _IEEE Transactions on Intelligent Transportation Systems_, accepted to appear, July 2025. ([PDF](/files/2025-TITS-SERT.pdf))
+* [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Zhengze Sun, Junru Zhang, Bolin Zhang, Panrong Tong. "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation", _IEEE Transactions on Intelligent Transportation Systems_, accepted to appear, July 2025. ([PDF](/files/2025-TITS-SERT.pdf)， [Codes](https://github.com/MobiXg/SERT))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Zixiao Wang, Qi Dong, Tianzhang Xing\*, <b>Zhidan Liu\*</b>, Zhenjiang Li, Xiaojiang Chen. "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications", _IEEE Transactions on Mobile Computing_, accepted to appear, July 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
 
@@ -21,7 +21,7 @@ author_profile: true
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Guofeng Ouyang</u>, <u>Bolin Zhang</u>, Bo Du, Chao Chen, Kaishun Wu. "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing", _IEEE Transactions on Mobile Computing_, Vol. 24, Issue 4, Pages 2628-2643, April 2025. ([PDF](/files/2025-TMC-JODR.pdf))
 
-* [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, Vol. 37, Issue 1, Pages 423-437, January 2025. ([PDF](/files/2025-TKDE-LiMM.pdf), [Codes](https://github.com/BDUC-MobiX/LiMM))
+* [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, Vol. 37, Issue 1, Pages 423-437, January 2025. ([PDF](/files/2025-TKDE-LiMM.pdf), [Codes](https://github.com/MobiXg/LiMM))
 
 ## 2024
 
