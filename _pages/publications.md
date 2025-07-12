@@ -13,6 +13,8 @@ author_profile: true
 
 ## 2025
 
+* [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, Zhengze Sun, Junru Zhang, Bolin Zhang, Panrong Tong. "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation", _IEEE Transactions on Intelligent Transportation Systems_, accepted to appear, July 2025. ([PDF](/files/2025-TITS-SERT.pdf))
+
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Zixiao Wang, Qi Dong, Tianzhang Xing\*, <b>Zhidan Liu\*</b>, Zhenjiang Li, Xiaojiang Chen. "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications", _IEEE Transactions on Mobile Computing_, accepted to appear, July 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Junru Zhang, Cheng Peng, <b>Zhidan Liu</b>, Lang Feng, Yuhan Wu, Yabo Dong, Duanqing Xu. "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition", _IEEE Transactions on Mobile Computing_, accepted to appear, May 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
