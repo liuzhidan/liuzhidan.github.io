@@ -48,6 +48,7 @@ We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for 
 
 
 ## Recent Highlights:
+* 2025.07 - Our paper "Spatio-Temporal Diffusion Model for Cellular Traffic Generation” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Xiaosi and Xiaowen. 🎉
 * 2025.07 - Our paper "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation” has been accepted by [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979). Congrats to Zhengze and Bolin. 🎉
 * 2025.07 - Our paper "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zixiao. 🎉
 * 2025.05 - Our paper "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Junru. 🎉
