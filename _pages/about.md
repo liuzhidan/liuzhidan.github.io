@@ -37,12 +37,11 @@ p.highlight {
 </style>
 
 <p class="highlight">
-<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated <b>Ph.D. students</b> (<font color="red">2026 Fall/2027 Spring</font>), <b>Research Assistants</b>, and <b>Postdoc</b>. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
-<br>
-Please read this <a href="/files/recruitment.pdf">file</a> for more details (in Chinese). 招聘详情请参考<a href="/files/recruitment.pdf">此文件</a>以及<a href="https://mp.weixin.qq.com/s/kGbDvr4dETnFxBlCPOQ3vg">公众号文章</a>. 
+<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated <b>Ph.D. students</b> (<font color="red">recent opennings for 2026 Spring/Fall</font>), <b>Research Assistants</b>, and <b>Postdoc</b>. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
 <br><br>
-We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for appointmenting an offline meeting. <b>For prospective RBM students</b>, If you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. 
-
+We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for appointmenting an offline meeting. <b>For prospective RBM students</b>, if you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. 
+<br><br>
+Please read this <a href="/files/recruitment.pdf">file</a> for more details (in Chinese). 招聘详情请参考<a href="/files/recruitment.pdf">此文件</a>以及<a href="https://mp.weixin.qq.com/s/kGbDvr4dETnFxBlCPOQ3vg">公众号文章</a>. 
 <!--<b><font color="red">We still have 1~2 Ph.D. positions available for Fall 2025. Welcome to apply. [Update: 20 May, 2025]</font></b>-->
 </p>
 
