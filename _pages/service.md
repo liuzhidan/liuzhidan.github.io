@@ -29,7 +29,7 @@ permalink: /service/
 
 
 ### Technical Program Committee Member:
-* 2025: ACM CSCW (Associate Chair), ACM KDD (Outstanding Reviewer for August Cycle)
+* 2025: ACM CSCW (Associate Chair), ACM KDD (Outstanding Reviewer for August Cycle), IEEE MSN
 * 2024: ACM KDD, IEEE MSN
 * 2023: ACM CIKM, IEEE ICPADS
 * 2022: ACM KDD, ACM WSDM, IEEE ICPADS

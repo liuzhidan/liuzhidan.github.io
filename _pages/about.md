@@ -37,7 +37,7 @@ p.highlight {
 </style>
 
 <p class="highlight">
-<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated <b>Ph.D. students</b> (<font color="red">recent opennings for 2026 Spring/Fall</font>), <b>Research Assistants</b>, and <b>Postdoc</b>. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
+<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated <b>Ph.D. students</b> (<font color="red">recent opennings for 2025-2026 Spring/2026-2027 Fall</font>), <b>Research Assistants</b>, and <b>Postdoc</b>. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
 <br><br>
 We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for appointmenting an offline meeting. <b>For prospective RBM students</b>, if you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. 
 <br><br>
@@ -47,6 +47,8 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2025.08 - Our paper "DSETA: Driving Style-Aware Estimated Time of Arrival” has been accepted by [ACM CIKM 2025](https://cikm2025.org/). Congrats to Bolin. 🎉
+* 2025.08 - Invited to serve on the TPC of [IEEE MSN 2025](https://ieee-msn.org/2025/). Please consider submitting. 
 * 2025.07 - Our paper "Spatio-Temporal Diffusion Model for Cellular Traffic Generation” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Xiaosi and Xiaowen. 🎉
 * 2025.07 - Our paper "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation” has been accepted by [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979). Congrats to Zhengze and Bolin. 🎉
 * 2025.07 - Our paper "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zixiao. 🎉
