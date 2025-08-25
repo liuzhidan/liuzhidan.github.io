@@ -47,6 +47,8 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2025.08 - Great honor to receive the _Best Reviewer Award_ from [CCF Transactions on Pervasive Computing and Interaction](https://link.springer.com/journal/42486)! 🤪
+* 2025.08 - Invited to serve on the TPC of [Australasian Database Conference (ADC) 2025](https://adc-conference.github.io/2025/). Please consider submitting.
 * 2025.08 - Our paper "DSETA: Driving Style-Aware Estimated Time of Arrival” has been accepted by [ACM CIKM 2025](https://cikm2025.org/). Congrats to Bolin. 🎉
 * 2025.08 - Invited to serve on the TPC of [IEEE MSN 2025](https://ieee-msn.org/2025/). Please consider submitting. 
 * 2025.07 - Our paper "Spatio-Temporal Diffusion Model for Cellular Traffic Generation” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Xiaosi and Xiaowen. 🎉

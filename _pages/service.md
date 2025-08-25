@@ -22,6 +22,7 @@ permalink: /service/
 * Lead Guest Editor: *Special Issue on Ubiquitous Sensing and Computing for Intelligent Transportation* in [**Data Science for Transportation**](https://www.springer.com/journal/42421)
 
 ### Conference Organization Chair:
+* Pannel Chair: EAI ICECI 2025
 * Special session Chair: IEEE CSCWD 2022
 * Local Chair: EAI ICECI 2021
 * Conference Finance Chair: IEEE ICPADS 2017
@@ -29,7 +30,7 @@ permalink: /service/
 
 
 ### Technical Program Committee Member:
-* 2025: ACM CSCW (Associate Chair), ACM KDD (Outstanding Reviewer for August Cycle), IEEE MSN
+* 2025: ACM CSCW (Associate Chair), ACM KDD (Outstanding Reviewer for August Cycle), IEEE MSN, Australasian Database Conference (ADC)
 * 2024: ACM KDD, IEEE MSN
 * 2023: ACM CIKM, IEEE ICPADS
 * 2022: ACM KDD, ACM WSDM, IEEE ICPADS

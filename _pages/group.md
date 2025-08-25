@@ -70,19 +70,58 @@ author_profile: true
         <div class="card_info">2025.07 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Xiaosi" src="/images/group/jinsong.png"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Jinsong" src="/images/group/jinsong.png"></div></div>
         <div class="card_name"><b>Jinsong Luo (罗晋松)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from <a href="https://www.csu.edu.cn/">Central South University</a>)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.E. from <a href="https://www.csu.edu.cn/">Central South University</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Urban computing</div>
         <div class="card_info">2025.07 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhiyu" src="/images/group/yuzitong.jpg"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zitong" src="/images/group/yuzitong.jpg"></div></div>
         <div class="card_name"><b>Zitong Yu (于子彤)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from <a href="https://www.cug.edu.cn/">CUG (Wuhan)</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Spatiotemporal data analytics</div>
         <div class="card_info">2025.07 ~ </div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yanlin" src="/images/group/yanlin.png"></div></div>
+        <div class="card_name"><b>Yanlin YU (余彦霖)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from <a href="https://warwick.ac.uk/">University of Warwick</a>)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Spatiotemporal data analytics</div>
+        <div class="card_info">2025.08 ~ </div>
+      </td>      
+    </tr>
+    <tr class="member_tr" style="vertical-align: top;">
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yuhang" src="/images/group/coder.jpg"></div></div>
+        <div class="card_name"><b>Yuhang Guang (关宇航)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.E. from <a href="https://www.en.sdu.edu.cn/">Shandong University</a>)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">AIoT</div>
+        <div class="card_info">2025.08 ~ </div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Guangyu" src="/images/group/coder.jpg"></div></div>
+        <div class="card_name"><b>Guangyu Wang (王广宇)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(UG student from <a href="http://dufe.admissions.cn/">DUFE</a>)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Time series modeling</div>
+        <div class="card_info">2025.07 ~ </div>
+      </td>
+      <!--
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zitong" src="/images/group/yuzitong.jpg"></div></div>
+        <div class="card_name"><b>Zitong Yu (于子彤)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from <a href="https://www.cug.edu.cn/">CUG (Wuhan)</a>)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Spatiotemporal data analytics</div>
+        <div class="card_info">2025.07 ~ </div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yanlin" src="/images/group/yanlin.png"></div></div>
+        <div class="card_name"><b>Yanlin YU (余彦霖)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from <a href="https://warwick.ac.uk/">University of Warwick</a>)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Spatiotemporal data analytics</div>
+        <div class="card_info">2025.08 ~ </div>
       </td>     
+      --> 
     </tr>
   </table>
   </div>

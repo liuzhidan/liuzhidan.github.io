@@ -13,6 +13,8 @@ author_profile: true
 
 ## 2025
 
+* [[MobiCom](https://www.sigmobile.org/mobicom/2025/)] <u>Xiaowen Xu</u>, <u>Xiaosi Liu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "(Poster) Diffusion-Driven Spatio-Temporal Modeling of Cellular Traffic Generation", In _ACM MobiCom_, Hong Kong, China, November 2025. ([PDF]())
+
 * [[CIKM](https://cikm2025.org/)] <u>Bolin Zhang</u>, <b>Zhidan Liu\*</b>. "DSETA: Driving Style-Aware Estimated Time of Arrival", In _ACM CIKM_, Seoul, Korea, November 2025. (Acceptance Rate: 443/1627 = 27%) ([PDF](), [Slides]())
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <u>Xiaosi Liu</u>, <u>Xiaowen Xu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Spatio-Temporal Diffusion Model for Cellular Traffic Generation", _IEEE Transactions on Mobile Computing_, accepted to appear, July 2025. ([PDF](/files/2025-TMC-STOUTER.pdf))
