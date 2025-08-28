@@ -84,7 +84,7 @@ author_profile: true
         <div class="card_info">2025.07 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yanlin" src="/images/group/yanlin.png"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yanlin" src="/images/group/yanlin.jpg"></div></div>
         <div class="card_name"><b>Yanlin YU (余彦霖)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from <a href="https://warwick.ac.uk/">University of Warwick</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Spatiotemporal data analytics</div>
@@ -93,14 +93,14 @@ author_profile: true
     </tr>
     <tr class="member_tr" style="vertical-align: top;">
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yuhang" src="/images/group/coder.jpg"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yuhang" src="/images/group/yuhang.jpg"></div></div>
         <div class="card_name"><b>Yuhang Guang (关宇航)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.E. from <a href="https://www.en.sdu.edu.cn/">Shandong University</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">AIoT</div>
         <div class="card_info">2025.08 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Guangyu" src="/images/group/coder.jpg"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Guangyu" src="/images/group/guangyu.jpg"></div></div>
         <div class="card_name"><b>Guangyu Wang (王广宇)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">(UG student from <a href="http://dufe.admissions.cn/">DUFE</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Time series modeling</div>

@@ -47,6 +47,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2025.08 - Honored​ to receive a grant from the [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/). We sincerely appreciate ​NSFC's ongoing support for​ our research! 🥳
 * 2025.08 - Great honor to receive the _Best Reviewer Award_ from [CCF Transactions on Pervasive Computing and Interaction](https://link.springer.com/journal/42486)! 🤪
 * 2025.08 - Invited to serve on the TPC of [Australasian Database Conference (ADC) 2025](https://adc-conference.github.io/2025/). Please consider submitting.
 * 2025.08 - Our paper "DSETA: Driving Style-Aware Estimated Time of Arrival” has been accepted by [ACM CIKM 2025](https://cikm2025.org/). Congrats to Bolin. 🎉
