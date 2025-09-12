@@ -48,7 +48,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 ## Recent Highlights:
 * 2025.08 - Honored​ to receive a grant from the [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/). We sincerely appreciate ​NSFC's ongoing support for​ our research! 🥳
-* 2025.08 - Great honor to receive the _Best Reviewer Award_ from [CCF Transactions on Pervasive Computing and Interaction](https://link.springer.com/journal/42486)! 🤪
+* 2025.08 - Great honor to receive the _Best Reviewer Award_ from [CCF Transactions on Pervasive Computing and Interaction](https://link.springer.com/journal/42486)! 🥳
 * 2025.08 - Invited to serve on the TPC of [Australasian Database Conference (ADC) 2025](https://adc-conference.github.io/2025/). Please consider submitting.
 * 2025.08 - Our paper "DSETA: Driving Style-Aware Estimated Time of Arrival” has been accepted by [ACM CIKM 2025](https://cikm2025.org/). Congrats to Bolin. 🎉
 * 2025.08 - Invited to serve on the TPC of [IEEE MSN 2025](https://ieee-msn.org/2025/). Please consider submitting. 
@@ -56,8 +56,8 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * 2025.07 - Our paper "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation” has been accepted by [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979). Congrats to Zhengze and Bolin. 🎉
 * 2025.07 - Our paper "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zixiao. 🎉
 * 2025.05 - Our paper "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Junru. 🎉
-* 2024.12 - Glad to receive the OUTSTANDING REVIEWER recognition from [ACM KDD 2025](https://kdd2025.kdd.org/) (August Cycle)! 🤪
-* 2024.12 - Elevated to the grade of IEEE Senior member! 🤪
+* 2024.12 - Glad to receive the OUTSTANDING REVIEWER recognition from [ACM KDD 2025](https://kdd2025.kdd.org/) (August Cycle)! 🥳
+* 2024.12 - Elevated to the grade of IEEE Senior member! 🥳
 * 2024.11 - Our paper "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Guofeng and Bolin. 🎉
 * 2024.10 - Invited to join the [ACM CSCW 2025](https://cscw.acm.org/2025/) Program Committee as an Associate Chair.
 * 2024.10 - Our paper "Learning Road Network Index Structure for Efficient Map Matching” has been accepted by [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). Congrats to Yingqian and Xiaosi. Welcome to explore our advanced map matching method, _LiMM_, now publicly available at [github](https://github.com/BDUC-MobiX/LiMM). 🎉
