@@ -47,6 +47,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2025.11 - Our paper "Accelerating Graph Similarity Search with Maximum Common Subgraphs” has been accepted by [GPC 2025](https://www.crowdos.cn/GPC2025/home.html). Congrats to Yaqi and Zhengze. 🎉
 * 2025.08 - Honored​ to receive a grant from the [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/). We sincerely appreciate ​NSFC's ongoing support for​ our research! 🥳
 * 2025.08 - Great honor to receive the _Best Reviewer Award_ from [CCF Transactions on Pervasive Computing and Interaction](https://link.springer.com/journal/42486)! 🥳
 * 2025.08 - Invited to serve on the TPC of [Australasian Database Conference (ADC) 2025](https://adc-conference.github.io/2025/). Please consider submitting.

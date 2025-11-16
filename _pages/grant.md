@@ -16,7 +16,7 @@ author_profile: true
   - <font size=3>No.62172284, 2022.01-2025.12, 752K RMB.</font>
 
 * [PI] **<font size=3>Research on Exploiting Big Mobility Trajectory Data for Smart Sensing of Urban Traffic</font>**  
-  - <font size=3 color=red>National Natural Science Foundation of China (Yonth Program) (国家自然科学基金青年项目)</font>
+  - <font size=3 color=red>National Natural Science Foundation of China (Young Scientists Fund) (国家自然科学基金青年项目)</font>
   - <font size=3>No.61802261, 2019.01-2021.12, 300K RMB.</font>
 
 * [PI] **<font size=3>Research on the Key Technologies of Shared Memory based Social Network Graph Computing</font>**  

@@ -13,17 +13,19 @@ author_profile: true
 
 ## 2025
 
+* [[GPC](https://www.crowdos.cn/GPC2025/home.html)] <u>Yaqi Huang</u>, <u>Zhengze Sun</u>, <b>Zhidan Liu\*</b>. "Accelerating Graph Similarity Search with Maximum Common Subgraphs", In _The 20th International Conference on Green, Pervasive, and Cloud Computing (GPC)_, Kuala Lumpur, Malaysia, December 2025. ([PDF](/files/))
+
 * [[MobiCom](https://www.sigmobile.org/mobicom/2025/)] <u>Xiaowen Xu</u>, <u>Xiaosi Liu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Poster: Diffusion-Driven Spatio-Temporal Modeling of Cellular Traffic Generation", In _ACM MobiCom_, Hong Kong, China, November 2025. ([PDF](/files/2025-Mobicom-STOUTER-Poster.pdf))
 
-* [[CIKM](https://cikm2025.org/)] <u>Bolin Zhang</u>, <b>Zhidan Liu\*</b>. "DSETA: Driving Style-Aware Estimated Time of Arrival", In _ACM CIKM_, Seoul, Korea, November 2025. (Acceptance Rate: 443/1627 = 27%) ([PDF](/files/2025-CIKM-DSETA.pdf), [Slides]())
+* [[CIKM](https://cikm2025.org/)] <u>Bolin Zhang</u>, <b>Zhidan Liu\*</b>. "DSETA: Driving Style-Aware Estimated Time of Arrival", In _ACM CIKM_, Seoul, Korea, November 2025. (Acceptance Rate: 443/1627 = 27%) ([PDF](/files/2025-CIKM-DSETA.pdf), [Slides](/files/2025-CIKM-DSETA_Slides.pptx))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <u>Xiaosi Liu</u>, <u>Xiaowen Xu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Spatio-Temporal Diffusion Model for Cellular Traffic Generation", _IEEE Transactions on Mobile Computing_, accepted to appear, July 2025. ([PDF](/files/2025-TMC-STOUTER.pdf))
 
-* [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, <u>Zhengze Sun</u>, Junru Zhang, <u>Bolin Zhang</u>, Panrong Tong. "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation", _IEEE Transactions on Intelligent Transportation Systems_, accepted to appear, July 2025. ([PDF](/files/2025-TITS-SERT.pdf)，[Codes](https://github.com/MobiXg/SERT))
+* [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, <u>Zhengze Sun</u>, Junru Zhang, <u>Bolin Zhang</u>, Panrong Tong. "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 26, Issue 11, Pages 19120-19134, November 2025. ([PDF](/files/2025-TITS-SERT.pdf)，[Codes](https://github.com/MobiXg/SERT))
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Zixiao Wang, Qi Dong, Tianzhang Xing\*, <b>Zhidan Liu\*</b>, Zhenjiang Li, Xiaojiang Chen. "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications", _IEEE Transactions on Mobile Computing_, accepted to appear, July 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Zixiao Wang, Qi Dong, Tianzhang Xing\*, <b>Zhidan Liu\*</b>, Zhenjiang Li, Xiaojiang Chen. "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications", _IEEE Transactions on Mobile Computing_, Vol. 24, Issue 11, Pages 12471-12486, November 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
 
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Junru Zhang, Cheng Peng, <b>Zhidan Liu</b>, Lang Feng, Yuhan Wu, Yabo Dong, Duanqing Xu. "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition", _IEEE Transactions on Mobile Computing_, accepted to appear, May 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Junru Zhang, Cheng Peng, <b>Zhidan Liu</b>, Lang Feng, Yuhan Wu, Yabo Dong, Duanqing Xu. "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition", _IEEE Transactions on Mobile Computing_, Vol. 24, Issue 10, Pages 10760-10777, October 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Guofeng Ouyang</u>, <u>Bolin Zhang</u>, Bo Du, Chao Chen, Kaishun Wu. "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing", _IEEE Transactions on Mobile Computing_, Vol. 24, Issue 4, Pages 2628-2643, April 2025. ([PDF](/files/2025-TMC-JODR.pdf))
 
