@@ -22,7 +22,7 @@ permalink: /service/
 * Lead Guest Editor: *Special Issue on Ubiquitous Sensing and Computing for Intelligent Transportation* in [**Data Science for Transportation**](https://www.springer.com/journal/42421)
 
 ### Conference Organization Chair:
-* Pannel Chair: EAI ICECI 2025
+* Panel Chair: EAI ICECI 2025
 * Special session Chair: IEEE CSCWD 2022
 * Local Chair: EAI ICECI 2021
 * Conference Finance Chair: IEEE ICPADS 2017

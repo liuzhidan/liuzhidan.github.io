@@ -53,7 +53,14 @@ author_profile: true
         <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Mobility Management</div>
         <div class="card_info">Started 2025 Spring</div>
       </td>
-      </tr>    
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/zhenyu.jpg"></div></div>
+        <div class="card_name"><b>Zhenyu Yang (杨振宇)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from <a href="https://www.szu.edu.cn/">Shenzhen University</a>)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile computing & agents</div>
+        <div class="card_info">Started 2026 Spring</div>
+      </td>
+    </tr>    
   </table>
 </div>
 
@@ -62,13 +69,6 @@ author_profile: true
 <div id="RA">
 <table id="person_table_Master" align="left" cellspacing="25" frame=void style="border: none;">
     <tr class="member_tr" style="vertical-align: top;">
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/zhenyu.jpg"></div></div>
-        <div class="card_name"><b>Zhenyu Yang (杨振宇)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from <a href="https://www.szu.edu.cn/">Shenzhen University</a>)</div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile computing</div>
-        <div class="card_info">2025.07 ~ </div>
-      </td>
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Jinsong" src="/images/group/jinsong.png"></div></div>
         <div class="card_name"><b>Jinsong Luo (罗晋松)</b></div>
@@ -84,15 +84,6 @@ author_profile: true
         <div class="card_info">2025.07 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yanlin" src="/images/group/yanlin.jpg"></div></div>
-        <div class="card_name"><b>Yanlin YU (余彦霖)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(M.S. from <a href="https://warwick.ac.uk/">University of Warwick</a>)</div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Spatiotemporal data analytics</div>
-        <div class="card_info">2025.08 ~ </div>
-      </td>      
-    </tr>
-    <tr class="member_tr" style="vertical-align: top;">
-      <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Yuhang" src="/images/group/yuhang.jpg"></div></div>
         <div class="card_name"><b>Yuhang Guang (关宇航)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.E. from <a href="https://www.en.sdu.edu.cn/">Shandong University</a>)</div>
@@ -100,31 +91,21 @@ author_profile: true
         <div class="card_info">2025.09 ~ </div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Guangyu" src="/images/group/guangyu.jpg"></div></div>
-        <div class="card_name"><b>Guangyu Wang (王广宇)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(UG student from <a href="http://dufe.admissions.cn/">DUFE</a>)</div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Time series modeling</div>
-        <div class="card_info">2025.08 ~ </div>
-      </td>      
-      <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Fansheng" src="/images/group/sunfansheng.jpg"></div></div>
         <div class="card_name"><b>Fansheng Sun (孙凡盛)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">(UG student from <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong Univ.</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Multimodal fusion</div>
         <div class="card_info">2025.10 ~ </div>
       </td>
-      <!--
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yanlin" src="/images/group/yanlin.png"></div></div>
-        <div class="card_name"><b>Yanlin YU (余彦霖)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from <a href="https://warwick.ac.uk/">University of Warwick</a>)</div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Spatiotemporal data analytics</div>
-        <div class="card_info">2025.08 ~ </div>
-      </td>     
-      --> 
     </tr>
   </table>
   </div>
+
+
+### Past Members of MobiX
+
+* Yanlin YU (余彦霖), RA: 2025.08 - 2026.01, topic: low-altitude meteorology, now PhD student at HKUST (GZ)
+* Guangyu Wang (王广宇), RA: 2025.08 - 2025.11, topic: time series modeling, now UG student at <a href="http://dufe.admissions.cn/">DUFE</a>
 
 
 ### Master Students @ SZU

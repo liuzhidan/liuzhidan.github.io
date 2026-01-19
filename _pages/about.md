@@ -21,9 +21,9 @@ Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](h
 
 ## Research Interests:
 
-* Urban Computing and Smart Mobility
 * Artificial Internet of Things (AIoT)
-* Wearable and Mobile Computing
+* Urban Computing and Smart Mobility
+* Mobile and Edge Computing & Intelligence
 * Crowdsensing and Crowdsourcing
 * Spatio-Temporal Data Mining and Analytics
 * Federated Learning
@@ -37,7 +37,7 @@ p.highlight {
 </style>
 
 <p class="highlight">
-<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated <b>Ph.D. students</b> (<font color="red">recent opennings for 2025-2026 Spring/2026-2027 Fall</font>), <b>Research Assistants</b>, and <b>Postdoc</b>. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
+<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated <b>Ph.D. students</b> (<font color="red">recent opennings for 2026 Fall/2027 Spring</font>), <b>Research Assistants</b>, and <b>Postdoc</b>. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
 <br><br>
 We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for appointmenting an offline meeting. <b>For prospective RBM students</b>, if you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. 
 <br><br>
@@ -57,6 +57,8 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * 2025.07 - Our paper "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation” has been accepted by [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979). Congrats to Zhengze and Bolin. 🎉
 * 2025.07 - Our paper "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zixiao. 🎉
 * 2025.05 - Our paper "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Junru. 🎉
+
+<!--
 * 2024.12 - Glad to receive the OUTSTANDING REVIEWER recognition from [ACM KDD 2025](https://kdd2025.kdd.org/) (August Cycle)! 🥳
 * 2024.12 - Elevated to the grade of IEEE Senior member! 🥳
 * 2024.11 - Our paper "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Guofeng and Bolin. 🎉
@@ -66,8 +68,6 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * 2024.08 - Challenge accepted! Joining HKUST (GZ) to start a new journey. 🚀
 * 2024.07 - Invited to serve on the TPC of [IEEE MSN 2024](https://ieee-msn.org/2024/). Please consider submitting. 
 * 2024.05 - Our paper "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition” has been accepted by [ACM KDD 2024](https://kdd2024.kdd.org/). Congrats to Junru. 🎉
-
-<!--
 * 2023.11 - Our paper "_Greta_: Towards A General Roadside Unit Deployment Framework” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Xianjing. 🎉
 * 2023.11 - Our paper "An Optimized Lossless Graph Summarization for Large-Scale Graphs” has been accepted by [IEEE ICPADS 2023](https://ieee-cybermatics.org/2023/icpads/). Congrats to Meiquan. 🎉
 * 2023.11 - Our paper "Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Biyao. 🎉

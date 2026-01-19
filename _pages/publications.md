@@ -10,16 +10,13 @@ author_profile: true
 
 > [Google Scholar](https://scholar.google.com/citations?user=wCzfY2QAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/124/2048.html) <br> \* Corresponding author, <u>Students/RAs</u> under my supervision.  
 
+## 2026
+
+* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <u>Xiaosi Liu</u>, <u>Xiaowen Xu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Spatio-Temporal Diffusion Model for Cellular Traffic Generation", _IEEE Transactions on Mobile Computing_, Vol. 25, Issue 1, Pages 257-271, January 2026. ([PDF](/files/2026-TMC-STOUTER.pdf))
 
 ## 2025
 
-* [[GPC](https://www.crowdos.cn/GPC2025/home.html)] <u>Yaqi Huang</u>, <u>Zhengze Sun</u>, <b>Zhidan Liu\*</b>. "Accelerating Graph Similarity Search with Maximum Common Subgraphs", In _The 20th International Conference on Green, Pervasive, and Cloud Computing (GPC)_, Kuala Lumpur, Malaysia, December 2025. ([PDF](/files/))
-
-* [[MobiCom](https://www.sigmobile.org/mobicom/2025/)] <u>Xiaowen Xu</u>, <u>Xiaosi Liu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Poster: Diffusion-Driven Spatio-Temporal Modeling of Cellular Traffic Generation", In _ACM MobiCom_, Hong Kong, China, November 2025. ([PDF](/files/2025-Mobicom-STOUTER-Poster.pdf))
-
-* [[CIKM](https://cikm2025.org/)] <u>Bolin Zhang</u>, <b>Zhidan Liu\*</b>. "DSETA: Driving Style-Aware Estimated Time of Arrival", In _ACM CIKM_, Seoul, Korea, November 2025. (Acceptance Rate: 443/1627 = 27%) ([PDF](/files/2025-CIKM-DSETA.pdf), [Slides](/files/2025-CIKM-DSETA_Slides.pptx))
-
-* [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <u>Xiaosi Liu</u>, <u>Xiaowen Xu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Spatio-Temporal Diffusion Model for Cellular Traffic Generation", _IEEE Transactions on Mobile Computing_, accepted to appear, July 2025. ([PDF](/files/2025-TMC-STOUTER.pdf))
+> Journal Papers:
 
 * [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, <u>Zhengze Sun</u>, Junru Zhang, <u>Bolin Zhang</u>, Panrong Tong. "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 26, Issue 11, Pages 19120-19134, November 2025. ([PDF](/files/2025-TITS-SERT.pdf)，[Codes](https://github.com/MobiXg/SERT))
 
@@ -31,13 +28,19 @@ author_profile: true
 
 * [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, Vol. 37, Issue 1, Pages 423-437, January 2025. ([PDF](/files/2025-TKDE-LiMM.pdf), [Codes](https://github.com/MobiXg/LiMM))
 
+> Conference Papers:
+
+* [[GPC](https://www.crowdos.cn/GPC2025/home.html)] <u>Yaqi Huang</u>, <u>Zhengze Sun</u>, <b>Zhidan Liu\*</b>. "Accelerating Graph Similarity Search with Maximum Common Subgraphs", In _The 20th International Conference on Green, Pervasive, and Cloud Computing (GPC)_, Kuala Lumpur, Malaysia, December 2025. ([PDF](/files/))
+
+* [[MobiCom](https://www.sigmobile.org/mobicom/2025/)] <u>Xiaowen Xu</u>, <u>Xiaosi Liu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Poster: Diffusion-Driven Spatio-Temporal Modeling of Cellular Traffic Generation", In _ACM MobiCom_, Hong Kong, China, November 2025. ([PDF](/files/2025-Mobicom-STOUTER-Poster.pdf))
+
+* [[CIKM](https://cikm2025.org/)] <u>Bolin Zhang</u>, <b>Zhidan Liu\*</b>. "DSETA: Driving Style-Aware Estimated Time of Arrival", In _ACM CIKM_, Seoul, Korea, November 2025. (Acceptance Rate: 443/1627 = 27%) ([PDF](/files/2025-CIKM-DSETA.pdf), [Slides](/files/2025-CIKM-DSETA_Slides.pptx))
+
 ## 2024
 
+> Journal Papers:
+
 * [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, Vol. 10, Issue 6, Pages 1051-1065, December 2024. ([PDF](/files/2024-TBD-AutoCFL.pdf))
-
-* [[ICDM](https://icdm2024.org/)] <b>Zhidan Liu</b>, <u>Jinye Lin</u>, <u>Zhiyu Xia</u>, Chao Chen, and Kaishun Wu. "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism", In _IEEE ICDM_, Abu Dhabi, UAE, December 2024. (Acceptance Rate: 66/604 = 11%) ([PDF](/files/2024-ICDM-PreMR.pdf), [Slides](/files/2024-ICDM-PreMR-Slides.pptx))
-
-* [[KDD](https://kdd2024.kdd.org/)] Junru Zhang, Lang Feng, <b>Zhidan Liu</b>, Yuhan Wu, Yang He, Yabo Dong, Duanqing Xu. "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition", In _ACM KDD_, Barcelona, Spain, August 2024. (Acceptance Rate: ~20%) ([PDF](/files/2024-KDD-DI2SDiff.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Xianjing Wu, <b>Zhidan Liu\*</b>, Zhenjiang Li, Shengjie Zhao\*. "_Greta_: Towards A General Roadside Unit Deployment Framework", _IEEE Transactions on Mobile Computing_,  Vol. 23, Issue 7, Pages 7602-7617, July 2024. ([PDF](/files/2024-TMC-Greta.pdf))
 
@@ -47,10 +50,16 @@ author_profile: true
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Jiancong Liu</u>, <u>Xiaowen Xu</u>, Kaishun Wu. "_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons", _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 1, Pages 376-392, January 2024. ([PDF](/files/2024-TMC-DeepGPS.pdf), [Codes](https://github.com/bducgroup/DeepGPS))
 
+> Conference Papers:
+
+* [[ICDM](https://icdm2024.org/)] <b>Zhidan Liu</b>, <u>Jinye Lin</u>, <u>Zhiyu Xia</u>, Chao Chen, and Kaishun Wu. "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism", In _IEEE ICDM_, Abu Dhabi, UAE, December 2024. (Acceptance Rate: 66/604 = 11%) ([PDF](/files/2024-ICDM-PreMR.pdf), [Slides](/files/2024-ICDM-PreMR-Slides.pptx))
+
+* [[KDD](https://kdd2024.kdd.org/)] Junru Zhang, Lang Feng, <b>Zhidan Liu</b>, Yuhan Wu, Yang He, Yabo Dong, Duanqing Xu. "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition", In _ACM KDD_, Barcelona, Spain, August 2024. (Acceptance Rate: ~20%) ([PDF](/files/2024-KDD-DI2SDiff.pdf))
+
 
 ## 2023 and before
 
-### >> Journal Papers
+> Journal Papers
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Junhong Zheng</u>, <u>Jinye Lin</u>, Liang Wang, Kaishun Wu. "_Radar_: Adversarial Driving Style Representation Learning with Data Augmentation", _IEEE Transactions on Mobile Computing_, Vol. 22, Issue 12, Pages 7070-7085, December 2023. ([PDF](/files/2023-TMC-Radar.pdf))
 
@@ -82,7 +91,7 @@ author_profile: true
 
 * [IJDSN] Zhidan Liu, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multihop Wireless Sensor Networks", International Journal of Distributed Sensor Networks, 2013. 
 
-### >> Conference Papers
+> Conference Papers
 
 * [[ICPADS'23](https://ieeexplore.ieee.org/xpl/conhome/10475889/proceeding)] <u>Meiquan Lai</u>, <u>Yaqi Huang</u>, <b>Zhidan Liu</b>*, Kaishun Wu. "An Optimized Lossless Graph Summarization for Large-Scale Graphs", In IEEE _ICPADS_, Ocean Flower Island, Hainan, China, December 2023.  ([PDF](/files/2023-ICPADS-optGS.pdf))
 
@@ -116,7 +125,7 @@ author_profile: true
 [WiCom'12] Zhidan Liu, Wei Xing, Yongchao Wang, Dongming Lu, "Adaptive Data Storage for Querying in Wireless Sensor Networks", In IEEE WiCom, Shanghai, China, September 2012. (PDF)-->
 
 
-### >> Books/Chapters, Posters and Demos
+> Books/Chapters, Posters and Demos
 
 * [[Book](https://www.springer.com/gp/book/9789811622403)] <b>Zhidan Liu</b>, Kaishun Wu. "Mobility Data-Driven Urban Traffic Monitoring", Springer Singapore, May 2021.
 

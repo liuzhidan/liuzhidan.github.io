@@ -9,7 +9,7 @@ author_profile: true
 ## Teaching Courses:
 
 - **UFUG2601**: (UG) C++ Programming (2025 Fall)
-- **INTR6000N**: (PG) Mobile Sensing and Computing for Transportation (2025 Spring)
+- **INTR6000N**: (PG) Mobile Sensing and Computing for Transportation (2025, 2026 Spring)
 
 > Courses and achievements gained at Shenzhen University. Thanks to all amazing students.
 
