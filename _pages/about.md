@@ -48,7 +48,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 ## Recent Highlights:
 * 2025.03 - Our paper "ArmPad: Transforming Forearms into Interaction Interfaces with Smartwatches” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zhenyu. 🎉
-* 2026.03 - Our paper "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices” has been accepted by [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/document/11194049). Congratulations 🎉
+* 2026.03 - Our paper "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices” has been accepted by [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650). Congratulations 🎉
 * 2025.11 - Our paper "Accelerating Graph Similarity Search with Maximum Common Subgraphs” has been accepted by [GPC 2025](https://www.crowdos.cn/GPC2025/home.html). Congrats to Yaqi and Zhengze. 🎉
 * 2025.08 - Honored​ to receive a grant from the [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/). We sincerely appreciate ​NSFC's ongoing support for​ our research! 🥳
 * 2025.08 - Great honor to receive the _Best Reviewer Award_ from [CCF Transactions on Pervasive Computing and Interaction](https://link.springer.com/journal/42486)! 🥳

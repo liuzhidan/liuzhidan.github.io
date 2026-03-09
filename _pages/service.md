@@ -30,6 +30,7 @@ permalink: /service/
 
 
 ### Technical Program Committee Member:
+* 2026: ACM KDD, IEEE ICDE (demo), VLDB (demo)
 * 2025: ACM CSCW (Associate Chair), ACM KDD (Outstanding Reviewer for August Cycle), IEEE MSN, Australasian Database Conference (ADC)
 * 2024: ACM KDD, IEEE MSN
 * 2023: ACM CIKM, IEEE ICPADS
