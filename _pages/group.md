@@ -19,6 +19,10 @@ author_profile: true
 
 **MobiX** research group primarily focuses on exploring and developing various applications, technologies, services, and systems that enable the vision of smart mobility through efficient and effective mobile sensing and computing, as well as mobility data mining and analysis. The research interests of _MobiX_ span across a wide spectrum into urban computing, artificial Internet of Things, ubiquitous and mobile computing, and spatio-temporal data analytics. The mission of _MobiX_ is to conduct novel research in above investigated areas, contributing both high academic impact and practical value.
 
+<p class="highlight">
+<b><font color="red">Hiring: We are constantly looking for self-motivated PhD students, RAs, and PostDoc to join us!</font></b> 
+</p>
+
 ## Current Members
 <style>
 .container {

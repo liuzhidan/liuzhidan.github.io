@@ -9,7 +9,7 @@ redirect_from:
 
 <!--简单地从Emojipedia https://emojipedia.org/ 等来源复制表情符号并将其粘贴到文档中-->
 
-**Zhidan Liu (刘志丹)** is currently an Assistant Professor at [Intelligent Transportation Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/), [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). Before joining HKUST (GZ), he was a faculty member with [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/) (2017-2024), and a postdoctoral research fellow at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/) (2015-2017), working closely with [Prof. Mo Li](https://cse.hkust.edu.hk/~lim/). He received the B.E. degree and Ph.D. degree, both in computer science and technology, from [Northeastern University](http://english.neu.edu.cn/) in June 2009 and [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014, respectively. He is now heading the [MobiX](./group.md) research group at HKUST (GZ). He is a senior member of IEEE and CCF, a member of ACM.
+**Zhidan Liu (刘志丹)** is currently an Assistant Professor at [Intelligent Transportation Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/), [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), and a Cross-Campus Faculty Affiliate at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before joining HKUST (GZ), he was a faculty member with [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/) (2017-2024), and a postdoctoral research fellow at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/) (2015-2017), working closely with [Prof. Mo Li](https://cse.hkust.edu.hk/~lim/). He received the B.E. degree and Ph.D. degree, both in computer science and technology, from [Northeastern University](http://english.neu.edu.cn/) in June 2009 and [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014, respectively. He is now heading the [MobiX](./group.md) research group at HKUST (GZ). He is a senior member of IEEE and CCF, a member of ACM.
 
 Please find my [CV](/files/CV-ZhidanLiu.pdf) here.
 
@@ -21,12 +21,12 @@ Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](h
 
 ## Research Interests:
 
-* Artificial Internet of Things (AIoT)
-* Urban Computing and Smart Mobility
-* Mobile and Edge Computing & Intelligence
-* Crowdsensing and Crowdsourcing
-* Spatio-Temporal Data Mining and Analytics
-* Federated Learning
+* Artificial Internet of Things (AIoT) / 智能物联网
+* Urban Computing, Smart Mobility / 城市计算, 智慧出行
+* Mobile and Edge Computing & Intelligence / 移动和边缘计算&智能
+* Crowdsensing and Crowdsourcing / 群智感知与众包
+* Spatio-Temporal Data Mining and Analytics / 时空数据挖掘与分析
+* Federated Learning / 联邦学习
 
 <style>
 p.highlight {
@@ -37,7 +37,7 @@ p.highlight {
 </style>
 
 <p class="highlight">
-<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated <b>Ph.D. students</b> (<font color="red">recent opennings for 2026 Fall/2027 Spring</font>), <b>Research Assistants</b>, and <b>Postdoc</b>. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
+<b><font color="red">Hiring:</font></b> I'm actively seeking self-motivated <b>Ph.D. students</b> (<font color="red">recent opennings for 2027 Spring/Fall</font>), <b>Research Assistants</b>, and <b>Postdoc</b>. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
 <br><br>
 We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for appointmenting an offline meeting. <b>For prospective RBM students</b>, if you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. 
 <br><br>
@@ -47,6 +47,8 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2025.03 - Our paper "ArmPad: Transforming Forearms into Interaction Interfaces with Smartwatches” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zhenyu. 🎉
+* 2026.03 - Our paper "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices” has been accepted by [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/document/11194049). Congratulations 🎉
 * 2025.11 - Our paper "Accelerating Graph Similarity Search with Maximum Common Subgraphs” has been accepted by [GPC 2025](https://www.crowdos.cn/GPC2025/home.html). Congrats to Yaqi and Zhengze. 🎉
 * 2025.08 - Honored​ to receive a grant from the [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/). We sincerely appreciate ​NSFC's ongoing support for​ our research! 🥳
 * 2025.08 - Great honor to receive the _Best Reviewer Award_ from [CCF Transactions on Pervasive Computing and Interaction](https://link.springer.com/journal/42486)! 🥳
@@ -95,5 +97,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * <b>Zhidan Liu</b>, Pengfei Zhou, Zhenjiang Li, Mo Li. [Think Like A Graph: Real-Time Traffic Estimation at City-Scale](/files/2019-TMC-GPTE.pdf), _IEEE Transactions on Mobile Computing_, Vol. 18, Issue 10, Pages 2446-2459, October 2019.
   - ><p style="color:#8A2BE2">Leveraging graph-parallel computing for precise, timely, and scalable traffic estimations through Apache Spark implementation</p>
 
+<!--
 * <b>Zhidan Liu</b>, Zhenjiang Li, Kaishun Wu, Mo Li. [Urban Traffic Prediction from Mobility Data Using Deep Learning](/files/2018-IEEENet-Deeptraffic.pdf), _IEEE Network_, Vol. 32, Issue 4, Pages 40-46, August 2018.
   - ><p style="color:#8A2BE2"> Unveiling the promise and broad-ranging applications of deep learning in forecasting diverse traffic metrics</p>
+  -->
