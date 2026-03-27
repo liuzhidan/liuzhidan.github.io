@@ -21,12 +21,18 @@ Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](h
 
 ## Research Interests:
 
+* **Mobile/Edge Computing & Ubiquitous Intelligence**: Advancing ubiquitous sensing and computing by efficiently deploying or leveraging SOTA AI within resource-constrained environments.
+* **Urban Computing & Smart Mobility**: Synergizing large-scale, multi-source data with cognitive intelligence to optimize the operational efficiency and decision-making of urban systems.
+* **Spatio-Temporal Data Analytics**: Developing foundational algorithms for massive trajectory and graph data to uncover complex patterns that drive smart city innovations.
+
+<!--
 * Artificial Internet of Things (AIoT) / 智能物联网
 * Urban Computing, Smart Mobility / 城市计算, 智慧出行
 * Mobile and Edge Computing & Intelligence / 移动和边缘计算&智能
 * Crowdsensing and Crowdsourcing / 群智感知与众包
 * Spatio-Temporal Data Mining and Analytics / 时空数据挖掘与分析
 * Federated Learning / 联邦学习
+-->
 
 <style>
 p.highlight {
@@ -47,8 +53,9 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2026.03 - Our paper "A Two-Stage Imputation Method for Urban Traffic Data Based on Sparse Spatiotemporal Attention” has been accepted by [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979). Congrats to Jiyu. 🎉
 * 2026.03 - Our paper "ArmPad: Transforming Forearms into Interaction Interfaces with Smartwatches” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zhenyu. 🎉
-* 2026.03 - Our paper "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices” has been accepted by [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650). Congratulations 🎉
+* 2026.03 - Our paper "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices” has been accepted by [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650). Congratulations. 🎉
 * 2025.11 - Our paper "Accelerating Graph Similarity Search with Maximum Common Subgraphs” has been accepted by [GPC 2025](https://www.crowdos.cn/GPC2025/home.html). Congrats to Yaqi and Zhengze. 🎉
 * 2025.08 - Honored​ to receive a grant from the [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/). We sincerely appreciate ​NSFC's ongoing support for​ our research! 🥳
 * 2025.08 - Great honor to receive the _Best Reviewer Award_ from [CCF Transactions on Pervasive Computing and Interaction](https://link.springer.com/journal/42486)! 🥳

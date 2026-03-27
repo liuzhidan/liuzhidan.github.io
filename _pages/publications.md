@@ -12,6 +12,8 @@ author_profile: true
 
 ## 2026
 
+* [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "A Two-Stage Imputation Method for Urban Traffic Data Based on Sparse Spatiotemporal Attention", _IEEE Transactions on Intelligent Transportation Systems_, Vol. xx, Issue xx, Pages xxxx-xxxx, March 2026. ([PDF](/files/2025-TITS-SERT.pdf)，[Codes](https://github.com/MobiXg/SERT))
+
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <u>Zhenyu Yang</u>, Qiang Yang, <b>Zhidan Liu\*</b>, Zhenjiang Li, Yongpan Zou, Kaishun Wu. "ArmPad: Transforming Forearms into Interaction Interfaces with Smartwatches", _IEEE Transactions on Mobile Computing_, Vol. xx, Issue xx, Pages xxxx-xxxx, March 2026. ([PDF](/files/2026-TMC-ArmPad.pdf))
 
 * [[TCSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)] Haodong Liu, Ye Zhang, <b>Zhidan Liu</b>, Hongyuan Zhu, Changhong Wang. "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices", _IEEE Transactions on Computational Social Systems_, Vol. xx, Issue xx, Pages xxxx-xxxx, March 2026. ([PDF](/files/2026-TMC-STOUTER.pdf))

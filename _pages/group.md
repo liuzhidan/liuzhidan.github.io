@@ -15,9 +15,20 @@ author_profile: true
 ![BDUC Group](/images/group/bduc2021.jpg "BDUC Group")
 
 **Big Data and Urban Computing (BDUC)** research group  is headed by Dr. Zhidan Liu, and is part of the [IoT research center](http://www.futurenet.ac.cn/), affiliated with [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen Univerisity](https://www.szu.edu.cn/), China. The **BDUC** group focuses on exploring and developing various algorithms, applications, services, and systems that support the vision of smart city (e.g., smart mobility, smart health) through efficient and effective data sensing, processing, and analysis. The research interests of **BDUC** group span across a wide spectrum into urban computing, Internet of Things, mobile and pervasive sensing, crowdsourcing and crowdsensing, and big data analytics.  
--->
 
 **MobiX** research group primarily focuses on exploring and developing various applications, technologies, services, and systems that enable the vision of smart mobility through efficient and effective mobile sensing and computing, as well as mobility data mining and analysis. The research interests of _MobiX_ span across a wide spectrum into urban computing, artificial Internet of Things, ubiquitous and mobile computing, and spatio-temporal data analytics. The mission of _MobiX_ is to conduct novel research in above investigated areas, contributing both high academic impact and practical value.
+-->
+
+The **MobiX** (_Mobile Intelligence & eXploration_) research group is dedicated to advancing the vision of smart mobility. We explore and develop innovative systems driven by efficient mobile sensing, ubiquitous computing, and mobility data analytics. Our research spans across urban computing, the Artificial Internet of Things (AIoT), and spatio-temporal data mining. The mission of **MobiX** is to conduct cutting-edge research in these intersecting fields, delivering robust solutions that yield both high academic impact and real-world practical value.
+
+
+<style>
+p.highlight {
+  background-color: rgba(0, 0, 255, 0.1);
+  padding: 1em;
+  border-radius: 10px;
+}
+</style>
 
 <p class="highlight">
 <b><font color="red">Hiring: We are constantly looking for self-motivated PhD students, RAs, and PostDoc to join us!</font></b> 
