@@ -21,8 +21,8 @@ Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](h
 
 ## Research Interests:
 
-* **Mobile/Edge Computing & Ubiquitous Intelligence**: Advancing ubiquitous sensing and computing by efficiently deploying or leveraging SOTA AI within resource-constrained environments.
-* **Urban Computing & Smart Mobility**: Synergizing large-scale, multi-source data with cognitive intelligence to optimize the operational efficiency and decision-making of urban systems.
+* **Mobile/Edge Computing & Ubiquitous Intelligence**: Advancing ubiquitous sensing by efficiently deploying or leveraging SOTA AI within resource-constrained environments.
+* **Urban Computing & Smart Mobility**: Synergizing large-scale, multi-modal data with cognitive intelligence to optimize the efficiency and decision-making of urban systems.
 * **Spatio-Temporal Data Analytics**: Developing foundational algorithms for massive trajectory and graph data to uncover complex patterns that drive smart city innovations.
 
 <!--
