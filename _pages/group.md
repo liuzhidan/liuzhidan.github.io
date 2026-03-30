@@ -21,6 +21,9 @@ author_profile: true
 
 The **MobiX** (_Mobile Intelligence & eXploration_) research group is dedicated to advancing the vision of smart mobility. We explore and develop innovative systems driven by efficient mobile sensing, ubiquitous computing, and mobility data analytics. Our research spans across urban computing, the Artificial Internet of Things (AIoT), and spatio-temporal data mining. The mission of **MobiX** is to conduct cutting-edge research in these intersecting fields, delivering robust solutions that yield both high academic impact and real-world practical value.
 
+<div align="center">
+  <img src="/images/MobiX.png" alt="MobiX" style="max-width: 100%; height: auto;" />
+</div>
 
 <style>
 p.highlight {
