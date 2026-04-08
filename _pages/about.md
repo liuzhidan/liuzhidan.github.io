@@ -21,7 +21,7 @@ Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](h
 
 ## Research Interests:
 
-* **Mobile/Edge Computing & Ubiquitous Intelligence**: Advancing ubiquitous sensing by efficiently deploying or leveraging SOTA AI within resource-constrained environments.
+* **Mobile/Edge Computing & Ubiquitous Intelligence**: Advancing ubiquitous sensing by efficiently leveraging or deploying SOTA AI within resource-constrained environments.
 * **Urban Computing & Smart Mobility**: Synergizing large-scale, multi-modal data with cognitive intelligence to optimize the efficiency and decision-making of urban systems.
 * **Spatio-Temporal Data Analytics**: Developing foundational algorithms for massive trajectory and graph data to uncover complex patterns that drive smart city innovations.
 
@@ -53,6 +53,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2026.04 - Two co-authored papers have been accepted by [ACL 2026](https://2026.aclweb.org/). Congratulations. 🎉
 * 2026.03 - Our paper "A Two-Stage Imputation Method for Urban Traffic Data Based on Sparse Spatiotemporal Attention” has been accepted by [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979). Congrats to Jiyu. 🎉
 * 2026.03 - Our paper "ArmPad: Transforming Forearms into Interaction Interfaces with Smartwatches” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zhenyu. 🎉
 * 2026.03 - Our paper "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices” has been accepted by [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650). Congratulations. 🎉

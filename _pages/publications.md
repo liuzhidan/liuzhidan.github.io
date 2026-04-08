@@ -10,15 +10,24 @@ author_profile: true
 
 > [Google Scholar](https://scholar.google.com/citations?user=wCzfY2QAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/124/2048.html) <br> \* Corresponding author, <u>Students/RAs</u> under my supervision.  
 
+
 ## 2026
 
-* [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "A Two-Stage Imputation Method for Urban Traffic Data Based on Sparse Spatiotemporal Attention", _IEEE Transactions on Intelligent Transportation Systems_, Vol. xx, Issue xx, Pages xxxx-xxxx, March 2026. ([PDF](/files/2025-TITS-SERT.pdf)，[Codes](https://github.com/MobiXg/SERT))
+> Journal Papers:
+
+* [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "A Two-Stage Imputation Method for Urban Traffic Data Based on Sparse Spatiotemporal Attention", _IEEE Transactions on Intelligent Transportation Systems_, Vol. xx, Issue xx, Pages xxxx-xxxx, March 2026. ([PDF](/files/2026-TITS-2Imputation.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <u>Zhenyu Yang</u>, Qiang Yang, <b>Zhidan Liu\*</b>, Zhenjiang Li, Yongpan Zou, Kaishun Wu. "ArmPad: Transforming Forearms into Interaction Interfaces with Smartwatches", _IEEE Transactions on Mobile Computing_, Vol. xx, Issue xx, Pages xxxx-xxxx, March 2026. ([PDF](/files/2026-TMC-ArmPad.pdf))
 
-* [[TCSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)] Haodong Liu, Ye Zhang, <b>Zhidan Liu</b>, Hongyuan Zhu, Changhong Wang. "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices", _IEEE Transactions on Computational Social Systems_, Vol. xx, Issue xx, Pages xxxx-xxxx, March 2026. ([PDF](/files/2026-TMC-STOUTER.pdf))
+* [[TCSS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)] Haodong Liu, Ye Zhang, <b>Zhidan Liu</b>, Hongyuan Zhu, Changhong Wang. "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices", _IEEE Transactions on Computational Social Systems_, Vol. xx, Issue xx, Pages xxxx-xxxx, March 2026. ([PDF](/files/2026-TCSS-HMMBCR.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <u>Xiaosi Liu</u>, <u>Xiaowen Xu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Spatio-Temporal Diffusion Model for Cellular Traffic Generation", _IEEE Transactions on Mobile Computing_, Vol. 25, Issue 1, Pages 257-271, January 2026. ([PDF](/files/2026-TMC-STOUTER.pdf))
+
+> Conference Papers:
+
+* [[ACL](https://2026.aclweb.org/)] Quyu Kong, Xu Zhang, <u>Zhenyu Yang</u>, Nolan Gao, Chen Liu, Panrong Tong, chenglin cai, Hanzhang Zhou, Jianan Zhang, Liangyu Chen, <b>Zhidan Liu</b>, Steven Hoi, Yue Wang. "MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments", In _ACL_ (Main Conference), San Diego, California, United States, July 2026. ([PDF](https://arxiv.org/abs/2512.19432)，[Codes](https://github.com/Tongyi-MAI/MobileWorld))
+
+* [[ACL](https://2026.aclweb.org/)] Haodi Zhang, Xinrui Zhu, Mingze Kong, <b>Zhidan Liu</b>, Tao Fan, Kaishun Wu, Yuanfeng Song. "MTO: A Multi-turn Conversational Text-to-OverpassQL Dataset for Enhanced OpenStreetMap Query Generation", In _ACL_ (Findings), San Diego, California, United States, July 2026. ([PDF](/files/))
 
 ## 2025
 
