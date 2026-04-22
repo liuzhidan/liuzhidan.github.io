@@ -34,7 +34,7 @@ p.highlight {
 </style>
 
 <p class="highlight">
-<b><font color="red">Hiring: We are constantly looking for self-motivated PhD students, RAs, and PostDoc to join us!</font></b> 
+<b><font color="red">Hiring: We are constantly looking for self-motivated PhD students, RBM students, RAs, and PostDoc to join us!</font></b> 
 </p>
 
 ## Current Members

@@ -31,8 +31,6 @@ author_profile: true
 
 ## 2025
 
-> Journal Papers:
-
 * [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <b>Zhidan Liu</b>, <u>Zhengze Sun</u>, Junru Zhang, <u>Bolin Zhang</u>, Panrong Tong. "Regional Knowledge Transfer for Urban Traffic Flow Prediction via Satellite Imagery Assisted Contrastive Domain Adaptation", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 26, Issue 11, Pages 19120-19134, November 2025. ([PDF](/files/2025-TITS-SERT.pdf)，[Codes](https://github.com/MobiXg/SERT))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] Zixiao Wang, Qi Dong, Tianzhang Xing\*, <b>Zhidan Liu\*</b>, Zhenjiang Li, Xiaojiang Chen. "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications", _IEEE Transactions on Mobile Computing_, Vol. 24, Issue 11, Pages 12471-12486, November 2025. ([PDF](/files/2025-TMC-DI2SDiff++.pdf))
@@ -43,8 +41,6 @@ author_profile: true
 
 * [[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. "Learning Road Network Index Structure for Efficient Map Matching", _IEEE Transactions on Knowledge and Data Engineering_, Vol. 37, Issue 1, Pages 423-437, January 2025. ([PDF](/files/2025-TKDE-LiMM.pdf), [Codes](https://github.com/MobiXg/LiMM))
 
-> Conference Papers:
-
 * [[GPC](https://www.crowdos.cn/GPC2025/home.html)] <u>Yaqi Huang</u>, <u>Zhengze Sun</u>, <b>Zhidan Liu\*</b>. "Accelerating Graph Similarity Search with Maximum Common Subgraphs", In _The 20th International Conference on Green, Pervasive, and Cloud Computing (GPC)_, Kuala Lumpur, Malaysia, December 2025. ([PDF](/files/))
 
 * [[MobiCom](https://www.sigmobile.org/mobicom/2025/)] <u>Xiaowen Xu</u>, <u>Xiaosi Liu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Poster: Diffusion-Driven Spatio-Temporal Modeling of Cellular Traffic Generation", In _ACM MobiCom_, Hong Kong, China, November 2025. ([PDF](/files/2025-Mobicom-STOUTER-Poster.pdf))
@@ -52,8 +48,6 @@ author_profile: true
 * [[CIKM](https://cikm2025.org/)] <u>Bolin Zhang</u>, <b>Zhidan Liu\*</b>. "DSETA: Driving Style-Aware Estimated Time of Arrival", In _ACM CIKM_, Seoul, Korea, November 2025. (Acceptance Rate: 443/1627 = 27%) ([PDF](/files/2025-CIKM-DSETA.pdf), [Slides](/files/2025-CIKM-DSETA_Slides.pptx))
 
 ## 2024
-
-> Journal Papers:
 
 * [[TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)] Biyao Gong, Tianzhang Xing*, <b>Zhidan Liu*</b>, Wei Xi, Xiaojiang Chen. "Adaptive Client Clustering for Efficient Federated Learning over Non-IID and Imbalanced Data", _IEEE Transactions on Big Data_, Vol. 10, Issue 6, Pages 1051-1065, December 2024. ([PDF](/files/2024-TBD-AutoCFL.pdf))
 
@@ -64,8 +58,6 @@ author_profile: true
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Hongquan Zhang</u>, <u>Guofeng Ouyang</u>, Junyang Chen, Kaishun Wu. "Data-Driven Pick-Up Location Recommendation for Ride-Hailing Services", _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 2, Pages 1001-1015, February 2024. ([PDF](/files/2024-TMC-MPLRec.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <b>Zhidan Liu</b>, <u>Jiancong Liu</u>, <u>Xiaowen Xu</u>, Kaishun Wu. "_DeepGPS_: Deep Learning Enhanced GPS Positioning in Urban Canyons", _IEEE Transactions on Mobile Computing_, Vol. 23, Issue 1, Pages 376-392, January 2024. ([PDF](/files/2024-TMC-DeepGPS.pdf), [Codes](https://github.com/bducgroup/DeepGPS))
-
-> Conference Papers:
 
 * [[ICDM](https://icdm2024.org/)] <b>Zhidan Liu</b>, <u>Jinye Lin</u>, <u>Zhiyu Xia</u>, Chao Chen, and Kaishun Wu. "Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism", In _IEEE ICDM_, Abu Dhabi, UAE, December 2024. (Acceptance Rate: 66/604 = 11%) ([PDF](/files/2024-ICDM-PreMR.pdf), [Slides](/files/2024-ICDM-PreMR-Slides.pptx))
 
