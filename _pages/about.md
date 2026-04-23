@@ -43,7 +43,7 @@ p.highlight {
 </style>
 
 <p class="highlight">
-<b><font color="red">Hiring:</font></b> We are consistently seeking self-motivated <b>Ph.D. students</b>, <b>RBM</b>,<b>Research Assistants</b>, and <b>Postdoc</b>. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Please read this <a href="/files/recruitment.pdf">file</a> for more details (in Chinese). 招聘详情请参考<a href="/files/recruitment.pdf">此文件</a>以及<a href="https://mp.weixin.qq.com/s/kGbDvr4dETnFxBlCPOQ3vg">公众号文章</a>. 
+<b><font color="red">Hiring:</font></b> We are consistently seeking self-motivated <font color="red">Ph.D. students, RBM, Research Assistants, and Postdoc</font>. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Please read this <a href="/files/recruitment.pdf">file</a> for more details (in Chinese). 招聘详情请参考<a href="/files/recruitment.pdf">此文件</a>以及<a href="https://mp.weixin.qq.com/s/kGbDvr4dETnFxBlCPOQ3vg">公众号文章</a>. 
 </p>
 <!--Perspective students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
 <br><br>
