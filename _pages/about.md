@@ -54,6 +54,8 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2026.05 - Our paper "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control” has been accepted by [ACM KDD 2026](https://kdd2026.kdd.org/). Congrats to Fansheng and Jiyu. 🎉
+* 2026.05 - Invited to serve on the TPC of [The 18th International Conference on Networking, Architecture, and Storage (NAS 2026)](http://nas-conf.org/NAS-2026/). Please consider submitting.
 * 2026.04 - Two co-authored papers have been accepted by [ACL 2026](https://2026.aclweb.org/). Congratulations. 🎉
 * 2026.03 - Our paper "A Two-Stage Imputation Method for Urban Traffic Data Based on Sparse Spatiotemporal Attention” has been accepted by [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979). Congrats to Jiyu. 🎉
 * 2026.03 - Our paper "ArmPad: Transforming Forearms into Interaction Interfaces with Smartwatches” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zhenyu. 🎉
