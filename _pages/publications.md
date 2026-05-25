@@ -25,7 +25,7 @@ author_profile: true
 
 > Conference Papers:
 
-* [[KDD](https://kdd2026.kdd.org/)] <u>Fansheng Sun</u>, <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control", In _ACM KDD_, Jeju, Korea, August 2026. (Acceptance Rate: ~18.5%) ([PDF](/files/), [Codes](https://github.com/MobiXg/))
+* [[KDD](https://kdd2026.kdd.org/)] <u>Fansheng Sun</u>, <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control", In _ACM KDD_, Jeju, South Korea, August 2026. (Acceptance Rate: ~18.5%) ([PDF](/files/), [Codes](https://github.com/MobiXg/))
 
 * [[ACL](https://2026.aclweb.org/)] Quyu Kong, Xu Zhang, <u>Zhenyu Yang</u>, Nolan Gao, Chen Liu, Panrong Tong, chenglin cai, Hanzhang Zhou, Jianan Zhang, Liangyu Chen, <b>Zhidan Liu</b>, Steven Hoi, Yue Wang. "MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments", In _ACL_ (Main Conference), San Diego, California, United States, July 2026. ([PDF](https://arxiv.org/abs/2512.19432)，[Codes](https://github.com/Tongyi-MAI/MobileWorld))
 

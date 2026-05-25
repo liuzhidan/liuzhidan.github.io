@@ -42,6 +42,10 @@ author_profile: true
   - Research on Crowdsensing based Urban Sensing
   - No.2018061, 2018.01-2020.12, 60K RMB.
 
-* [Co-PI] **<font size=3>Multi-dimensional and Deep Perception Information based Social Computing</font>**
+* [Co-I] **<font size=3>Key Innovation Team on Meteorological Service Support Technologies for Low-Altitude Flight</font>**
+  - <font size=3 color=blue>Science and Technology Innovation Team of Guangdong Provincial Meteorological Bureau (广东省气象局科技创新团队)</font>
+  - <font size=3>GRMCTD02505-ZD05, 2025.09 - 2028.09, 67.5K RMB.</font>
+
+* [Co-I] **<font size=3>Multi-dimensional and Deep Perception Information based Social Computing</font>**
   - <font size=3 color=red>National Natural Science Foundation of China (Joint Program) (国家自然科学基金联合重点基金)</font>
   - <font size=3>No.U2001207, 2021.01 - 2024.12, 2550K RMB.</font>
