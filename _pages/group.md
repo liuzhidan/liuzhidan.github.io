@@ -138,13 +138,13 @@ p.highlight {
         <div class="card_info">2023.09 ~</div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhengze" src="/images/group/liuchang.jpg"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Chang Liu" src="/images/group/liuchang.jpg"></div></div>
         <div class="card_name"><b>Chang Liu (刘畅)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Air transportation</div>
         <div class="card_info">2023.09 ~</div>
       </td>
       <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/yuhao.jpg"></div></div>
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yuhao" src="/images/group/yuhao.jpg"></div></div>
         <div class="card_name"><b>Yuhao Ouyang (欧阳宇豪)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile charging</div>
         <div class="card_info">2023.09 ~</div>
