@@ -9,21 +9,20 @@ redirect_from:
 
 <!--简单地从Emojipedia https://emojipedia.org/ 等来源复制表情符号并将其粘贴到文档中-->
 
-**Zhidan Liu (刘志丹)** is currently an Assistant Professor at [Intelligent Transportation Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/), [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), and a Cross-Campus Faculty Affiliate at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before joining HKUST (GZ), he was a faculty member with [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/) (2017-2024), and a postdoctoral research fellow at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/) (2015-2017), working closely with [Prof. Mo Li](https://cse.hkust.edu.hk/~lim/). He received the B.E. degree and Ph.D. degree, both in computer science and technology, from [Northeastern University](http://english.neu.edu.cn/) in June 2009 and [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014, respectively. He is now heading the [MobiX](./group.md) research group at HKUST (GZ). He is a senior member of IEEE and CCF, a member of ACM.
+**Zhidan Liu (刘志丹)** is currently an Assistant Professor affiliated with the [Thrust of Intelligent Transportation](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/), [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), and the [Thrust of Artificial Intelligence](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/), [Information Hub](https://infh.hkust-gz.edu.cn/about/), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), and a Cross-Campus Faculty Affiliate at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before joining HKUST (GZ), he was a faculty member with [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/) (2017-2024), and a postdoctoral research fellow at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/) (2015-2017), working closely with [Prof. Mo Li](https://cse.hkust.edu.hk/~lim/). He received the B.E. degree and Ph.D. degree, both in computer science and technology, from [Northeastern University](http://english.neu.edu.cn/) in June 2009 and [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014, respectively. He is now heading the [MobiX](./group.md) research group at HKUST (GZ). He is a senior member of IEEE and CCF, a member of ACM.
 
 Please find my [CV](/files/CV-ZhidanLiu.pdf) here.
 
-<!--
-**Zhidan Liu (刘志丹)** is currently an Associate Professor (tenured) in [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/). He received the B.E. degree in Computer Science and Technology from [Northeastern University](http://english.neu.edu.cn/) in June 2009, and the Ph.D. degree in Computer Science and Technology from [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014. Before joining Shenzhen University, he was a postdoctoral research fellow in the School of Computer Science and Engineering, [Nanyang Technological University](), Singapore, where he worked in the Wireless And Networked Distributed Sensing ([WANDS](http://wands.sg/)) group with [Prof. Mo Li](http://www3.ntu.edu.sg/home/limo/). He is now heading the **Big Data and Urban Computing (BDUC)** research group in Shenzhen University. He is a senior member of CCF, a member of IEEE and ACM.
-
-Please find my [CV](/files/resume-ZhidanLiu.pdf) here. 访问[中文版主页](https://csse.szu.edu.cn/pages/user/index?id=762).
--->
 
 ## Research Interests:
 
-* **Mobile/Edge Computing & Ubiquitous Intelligence**: Advancing ubiquitous sensing by efficiently leveraging or deploying SOTA AI within resource-constrained environments.
-* **Urban Computing & Smart Mobility**: Synergizing large-scale, multi-modal data with cognitive intelligence to optimize the efficiency and decision-making of urban systems.
-* **Spatio-Temporal Data Analytics**: Developing foundational algorithms for massive trajectory and graph data to uncover complex patterns that drive smart city innovations.
+* **Intelligent Systems & Edge Intelligence**: Advancing intelligent systems through efficient sensing, learning, reasoning, and deployment across mobile, edge, and resource-constrained environments. My research explores how cutting-edge AI can be integrated into real-world systems to enable scalable and trustworthy intelligence.
+
+* **Artificial Internet of Things (AIoT) & Human-Centric Computing**: Developing next-generation AIoT systems that seamlessly combine sensing, communication, and intelligence to understand human behaviors and interactions, enabling pervasive and human-centered intelligent services.
+
+* **Smart Mobility & Urban Intelligence**: Leveraging large-scale urban and mobility data to improve transportation efficiency, mobility services, and urban operations through data-driven modeling, prediction, optimization, and decision-making.
+
+* **Spatio-Temporal Data Analytics & Foundation Models**: Building intelligent methods for learning from complex spatio-temporal, graph, and multimodal data, while exploring foundation models that can generalize across diverse domains, environments, and real-world applications.
 
 <!--
 * Artificial Internet of Things (AIoT) / 智能物联网
@@ -54,6 +53,8 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2026.07 - Joint appointment as Assistant Professor of the Thrust of Artificial Intelligence, Information Hub, HKUST (GZ). 
+* 2026.06 - Invited to serve on the TPC of [The 22nd International Conference on Mobility, Sensing and Networking (MSN 2026)](https://ieee-msn.org/2026/). Please consider submitting.
 * 2026.05 - Our paper "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control” has been accepted by [ACM KDD 2026](https://kdd2026.kdd.org/). Congrats to Fansheng and Jiyu. 🎉
 * 2026.05 - Invited to serve on the TPC of [The 21st International Conference on Green, Pervasive, and Cloud Computing (GPC 2026)](https://www.crowdos.cn/GPC2025/home.html). Please consider submitting.
 * 2026.05 - Invited to serve on the TPC of [The 18th International Conference on Networking, Architecture, and Storage (NAS 2026)](http://nas-conf.org/NAS-2026/). Please consider submitting.
@@ -61,6 +62,9 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * 2026.03 - Our paper "A Two-Stage Imputation Method for Urban Traffic Data Based on Sparse Spatiotemporal Attention” has been accepted by [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979). Congrats to Jiyu. 🎉
 * 2026.03 - Our paper "ArmPad: Transforming Forearms into Interaction Interfaces with Smartwatches” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zhenyu. 🎉
 * 2026.03 - Our paper "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices” has been accepted by [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650). Congratulations. 🎉
+
+
+<!--
 * 2025.11 - Our paper "Accelerating Graph Similarity Search with Maximum Common Subgraphs” has been accepted by [GPC 2025](https://www.crowdos.cn/GPC2025/home.html). Congrats to Yaqi and Zhengze. 🎉
 * 2025.08 - Honored​ to receive a grant from the [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/). We sincerely appreciate ​NSFC's ongoing support for​ our research! 🥳
 * 2025.08 - Great honor to receive the _Best Reviewer Award_ from [CCF Transactions on Pervasive Computing and Interaction](https://link.springer.com/journal/42486)! 🥳
@@ -72,7 +76,6 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * 2025.07 - Our paper "Enabling Effective OOD Detection via Plug-and-Play Network for Mobile Visual Applications” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Zixiao. 🎉
 * 2025.05 - Our paper "DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Junru. 🎉
 
-<!--
 * 2024.12 - Glad to receive the OUTSTANDING REVIEWER recognition from [ACM KDD 2025](https://kdd2025.kdd.org/) (August Cycle)! 🥳
 * 2024.12 - Elevated to the grade of IEEE Senior member! 🥳
 * 2024.11 - Our paper "Joint Order Dispatching and Vehicle Repositioning for Dynamic Ridesharing” has been accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to Guofeng and Bolin. 🎉
