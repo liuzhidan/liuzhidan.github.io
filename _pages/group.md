@@ -78,7 +78,23 @@ p.highlight {
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile computing & agents</div>
         <div class="card_info">Started 2026 Spring</div>
       </td>
-    </tr>    
+    </tr>  
+    <tr class="member_tr" style="vertical-align: top;">  
+          <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yuhang" src="/images/group/yuhang.jpg"></div></div>
+        <div class="card_name"><b>Yuhang Guang (关宇航)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.E. from <a href="https://www.en.sdu.edu.cn/">Shandong University</a>)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Edge intelligence</div>
+        <div class="card_info">Started 2026 Fall</div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Fansheng" src="/images/group/sunfansheng.jpg"></div></div>
+        <div class="card_name"><b>Fansheng Sun (孙凡盛)</b></div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.E. from <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong Univ.</a>)</div>
+        <div class="card_research_direction Master_tr_1" style="height: 25px;">Urban intelligence</div>
+        <div class="card_info">Started 2026 Fall</div>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -94,67 +110,25 @@ p.highlight {
         <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Urban computing</div>
         <div class="card_info">2025.07 ~ </div>
       </td>
+      <!-->
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zitong" src="/images/group/yuzitong.jpg"></div></div>
         <div class="card_name"><b>Zitong Yu (于子彤)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from <a href="https://www.cug.edu.cn/">CUG (Wuhan)</a>)</div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Spatiotemporal data analytics</div>
         <div class="card_info">2025.07 ~ </div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yuhang" src="/images/group/yuhang.jpg"></div></div>
-        <div class="card_name"><b>Yuhang Guang (关宇航)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.E. from <a href="https://www.en.sdu.edu.cn/">Shandong University</a>)</div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Edge intelligence</div>
-        <div class="card_info">2025.09 ~ </div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Fansheng" src="/images/group/sunfansheng.jpg"></div></div>
-        <div class="card_name"><b>Fansheng Sun (孙凡盛)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(UG student from <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong Univ.</a>)</div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Multimodal fusion</div>
-        <div class="card_info">2025.10 ~ </div>
-      </td>
-    </tr>
+      </td> -->
   </table>
   </div>
 
 
-### Past Members of MobiX
-
-* Yanlin YU (余彦霖), RA: 2025.08 - 2026.01, topic: low-altitude meteorology, now PhD student at HKUST (GZ)
-* Guangyu Wang (王广宇), RA: 2025.08 - 2025.11, topic: time series modeling, now UG student at <a href="http://dufe.admissions.cn/">DUFE</a>
-
-
-### Master Students @ SZU
-
-<div id="Master">
-<table id="person_table_Master" align="center" cellspacing="25" frame=void style="border: none;">
-   <tr class="member_tr" style="vertical-align: top;">
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Bolin" src="/images/group/bolin.jpg"></div></div>
-        <div class="card_name"><b>Bolin Zhang (张柏林)</b></div>        
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Trajectory data analysis</div>
-        <div class="card_info">2023.09 ~</div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Chang Liu" src="/images/group/liuchang.jpg"></div></div>
-        <div class="card_name"><b>Chang Liu (刘畅)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Air transportation</div>
-        <div class="card_info">2023.09 ~</div>
-      </td>
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yuhao" src="/images/group/yuhao.jpg"></div></div>
-        <div class="card_name"><b>Yuhao Ouyang (欧阳宇豪)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Mobile charging</div>
-        <div class="card_info">2023.09 ~</div>
-      </td>
-    </tr>    
-  </table>
-</div>
+### Alumni of MobiX @ HKUST (GZ)
+* Zitong Yu (于子彤), RA: 2025.08-2026.07, UG @ <a href="https://www.cug.edu.cn/">CUG (Wuhan) → MSc @ UC Berkeley
+* Yanlin YU (余彦霖), RA: 2025.08-2026.01, B.S. + MSc @ University of Warwick → PhD student @ HKUST (GZ)
+* Guangyu Wang (王广宇), RA: 2025.08-2025.11, UG @ <a href="http://dufe.admissions.cn/">DUFE</a> → PhD student @ HKUST (GZ)
 
 
-## Alumni of SZU
+## Alumni of BDUC @ Shenzhen University
 
 <div id="Alumni">
 <table id="person_table_Alumni" align="left" cellspacing="25" frame=void style="border: none;">
@@ -284,9 +258,29 @@ p.highlight {
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zhenyu" src="/images/group/zhenyu.jpg"></div></div>
         <div class="card_name"><b>Zhenyu Yang (杨振宇)</b></div>
-        <div class="card_research_direction Master_tr_0" style="height: 25px;">Now Research Assistant at <a href="https://www.hkust-gz.edu.cn/">港科大(广州)</a></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">Now PhD student at <a href="https://www.hkust-gz.edu.cn/">港科大(广州)</a></div>
         <div class="card_info">M.S. 2022-2025</div>
       </td>
     </tr>
+    <tr class="member_tr" style="vertical-align: top;">
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Bolin" src="/images/group/bolin.jpg"></div></div>
+        <div class="card_name"><b>Bolin Zhang (张柏林)</b></div>        
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in <a href="https://www.meituan.com/">美团</a></div>
+        <div class="card_info">M.S. 2023-2026</div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Chang Liu" src="/images/group/liuchang.jpg"></div></div>
+        <div class="card_name"><b>Chang Liu (刘畅)</b></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in <a href="https://shopee.cn/">虾皮</a></div>
+        <div class="card_info">M.S. 2023-2026</div>
+      </td>
+      <td class="member_card" align="center" style="border: none;">
+        <div class="card_img_div"><div class="container"><img class="card_img" alt="Yuhao" src="/images/group/yuhao.jpg"></div></div>
+        <div class="card_name"><b>Yuhao Ouyang (欧阳宇豪)</b></div>
+        <div class="card_research_direction Master_tr_0" style="height: 25px;">First job in <a href="https://www.bytedance.com/zh/">字节跳动</a></div>
+        <div class="card_info">M.S. 2023-2026</div>
+      </td>
+    </tr>    
   </table>
 </div>

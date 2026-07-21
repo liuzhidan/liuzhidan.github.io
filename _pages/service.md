@@ -18,7 +18,8 @@ permalink: /service/
 
 
 ### Editorial Board:
-* Young Editorial Board Member of [Journal of Social Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8964404), 2024.02 - Now
+* Associate Editor: [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci), 2026.07 - Now
+* Young Editorial Board Member: [Journal of Social Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8964404), 2024.02 - Now
 * Lead Guest Editor: *Special Issue on Ubiquitous Sensing and Computing for Intelligent Transportation* in [**Data Science for Transportation**](https://www.springer.com/journal/42421)
 
 ### Conference Organization Chair:
@@ -30,6 +31,7 @@ permalink: /service/
 
 
 ### Technical Program Committee Member:
+* 2027: ACM KDD
 * 2026: ACM KDD, IEEE ICDE (demo), VLDB (demo), GPC, NAS
 * 2025: ACM CSCW (Associate Chair), ACM KDD (Outstanding Reviewer for August Cycle), IEEE MSN, Australasian Database Conference (ADC)
 * 2024: ACM KDD, IEEE MSN
@@ -55,6 +57,7 @@ permalink: /service/
 * IEEE Internet of Things Journal (IOT-J)
 * IEEE Communications Magazine
 * IEEE Computational Intelligence Magazine
+* CCF Transactions on Pervasive Computing and Interaction (TPCI)
 * Elsevier Pervasive and Mobile Computing (PMC)
 * Ad Hoc & Sensor Wireless Networks (AHSWN)
 * Elsevier Computer Networks

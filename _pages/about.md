@@ -9,7 +9,7 @@ redirect_from:
 
 <!--简单地从Emojipedia https://emojipedia.org/ 等来源复制表情符号并将其粘贴到文档中-->
 
-**Zhidan Liu (刘志丹)** is currently an Assistant Professor affiliated with the [Thrust of Intelligent Transportation](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/), [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), and the [Thrust of Artificial Intelligence](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/), [Information Hub](https://infh.hkust-gz.edu.cn/about/), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), and a Cross-Campus Faculty Affiliate at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before joining HKUST (GZ), he was a faculty member with [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/) (2017-2024), and a postdoctoral research fellow at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/) (2015-2017), working closely with [Prof. Mo Li](https://cse.hkust.edu.hk/~lim/). He received the B.E. degree and Ph.D. degree, both in computer science and technology, from [Northeastern University](http://english.neu.edu.cn/) in June 2009 and [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014, respectively. He is now heading the [MobiX](./group.md) research group at HKUST (GZ). He is a senior member of IEEE and CCF, a member of ACM.
+**Zhidan Liu (刘志丹)** is currently an Assistant Professor affiliated with the [Thrust of Intelligent Transportation](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/), [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), and the [Thrust of Artificial Intelligence](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/), [Information Hub](https://infh.hkust-gz.edu.cn/about/), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), and a Cross-Campus Faculty Affiliate at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before joining HKUST (GZ), he was a faculty member with [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/) (2017-2024), and a postdoctoral research fellow at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/) (2015-2017), working closely with [Prof. Mo Li](https://cse.hkust.edu.hk/~lim/). He received the B.E. degree and Ph.D. degree, both in computer science and technology, from [Northeastern University](http://english.neu.edu.cn/) in June 2009 and [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014, respectively. He is now heading the [MobiX](./group.md) research group at HKUST (GZ). He is on the editorial board of [Journal of Social Computing](https://www.sciopen.com/journal/2688-5255) and [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci). He is a senior member of IEEE and CCF, a member of ACM.
 
 Please find my [CV](/files/CV-ZhidanLiu.pdf) here.
 
@@ -53,6 +53,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 
 ## Recent Highlights:
+* 2026.07 - Invited to serve as an Associate Editor of [IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)](https://cis.ieee.org/publications/t-emerging-topics-in-ci). Please consider submitting papers to IEEE TETCI.
 * 2026.07 - Joint appointment as Assistant Professor of the Thrust of Artificial Intelligence, Information Hub, HKUST (GZ). 
 * 2026.06 - Invited to serve on the TPC of [The 22nd International Conference on Mobility, Sensing and Networking (MSN 2026)](https://ieee-msn.org/2026/). Please consider submitting.
 * 2026.05 - Our paper "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control” has been accepted by [ACM KDD 2026](https://kdd2026.kdd.org/). Congrats to Fansheng and Jiyu. 🎉
@@ -97,6 +98,9 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 ## Selected Publications:
 
+* <u>Fansheng Sun</u>, <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control", In _ACM KDD_, Jeju, South Korea, August 2026. ([PDF](/files/))
+- ><p style="color:#8A2BE2">Topology-grounded, asynchronous orchestration of LLM reasoning and MARL reaction for scalable, real-time network-wide traffic signal control.</p>
+
 * <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. [Learning Road Network Index Structure for Efficient Map Matching](/files/2025-TKDE-LiMM.pdf), _IEEE Transactions on Knowledge and Data Engineering_, Vol. 37, Issue 1, Pages 423-437, January 2025. ([codes](https://github.com/BDUC-MobiX/LiMM))
   - ><p style="color:#8A2BE2">Enhancing HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement</p>
 
@@ -109,10 +113,10 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 * <b>Zhidan Liu</b>, <u>Zengyang Gong</u>, <u>Jiangzhou Li</u>, Kaishun Wu. [Mobility-Aware Dynamic Taxi Ridesharing](/files/2020-ICDE-mTShare.pdf), in _IEEE ICDE_, Dallas, Texas, USA, April 2020. 
   - ><p style="color:#8A2BE2">Exploiting mobility information to efficiently serve both online and offline riders in dynamic ridesharing</p>
 
+<!--  
 * <b>Zhidan Liu</b>, Pengfei Zhou, Zhenjiang Li, Mo Li. [Think Like A Graph: Real-Time Traffic Estimation at City-Scale](/files/2019-TMC-GPTE.pdf), _IEEE Transactions on Mobile Computing_, Vol. 18, Issue 10, Pages 2446-2459, October 2019.
   - ><p style="color:#8A2BE2">Leveraging graph-parallel computing for precise, timely, and scalable traffic estimations through Apache Spark implementation</p>
 
-<!--
 * <b>Zhidan Liu</b>, Zhenjiang Li, Kaishun Wu, Mo Li. [Urban Traffic Prediction from Mobility Data Using Deep Learning](/files/2018-IEEENet-Deeptraffic.pdf), _IEEE Network_, Vol. 32, Issue 4, Pages 40-46, August 2018.
   - ><p style="color:#8A2BE2"> Unveiling the promise and broad-ranging applications of deep learning in forecasting diverse traffic metrics</p>
   -->

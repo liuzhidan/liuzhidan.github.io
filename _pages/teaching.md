@@ -8,8 +8,9 @@ author_profile: true
 
 ## Teaching Courses:
 
-- **UFUG2601**: (UG) C++ Programming (2025 Fall)
-- **INTR6000N**: (PG) Mobile Sensing and Computing for Transportation (2025/2026 Spring)
+- **UFUG-2601**: (UG) C++ Programming (2025/2026 Fall)
+- **AIAA-3111**: (UG) Introduction to Data Mining (2026 Fall)
+- **INTR-6000N**: (PG) Mobile Sensing and Computing for Transportation (2025/2026 Spring)
 
 > Courses and achievements gained at Shenzhen University. Thanks to all amazing students.
 
@@ -23,7 +24,7 @@ author_profile: true
 
 - 2021~2023 (Semester-2): Guidance on Academic Writing/(研究生课程)《论文写作指导》
 
-## Selected Teaching Achievements:
+## Selected Student Achievements:
 * 2023.09 指导本科生钟昊天、刘嘉豪获得**2023年广东省大学生计算机设计大赛一等奖**
 * 2023.06 获得**深圳大学优秀实习指导教师**称号
 * 2023.06 指导的硕士研究生张鸿权同学获得**深圳大学“2023届优秀毕业研究生”**称号
