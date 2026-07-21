@@ -96,16 +96,8 @@ p.highlight {
         <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Urban computing</div>
         <div class="card_info">2025.07 ~ </div>
       </td>
-      <!--
-      <td class="member_card" align="center" style="border: none;">
-        <div class="card_img_div"><div class="container"><img class="card_img" alt="Zitong" src="/images/group/yuzitong.jpg"></div></div>
-        <div class="card_name"><b>Zitong Yu (于子彤)</b></div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.S. from <a href="https://www.cug.edu.cn/">CUG (Wuhan)</a>)</div>
-        <div class="card_research_direction Master_tr_1" style="height: 25px;">Spatiotemporal data analytics</div>
-        <div class="card_info">2025.07 ~ </div>
-      </td> -->
   </table>
-  </div>
+</div>
 
 
 ### Alumni of MobiX @ HKUST (GZ)
