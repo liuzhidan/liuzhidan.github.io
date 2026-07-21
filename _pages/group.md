@@ -97,6 +97,7 @@ p.highlight {
         <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Urban computing</div>
         <div class="card_info">2025.07 ~ </div>
       </td>
+    </tr>
   </table>
 </div>
 
