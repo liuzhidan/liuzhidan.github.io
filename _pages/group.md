@@ -84,6 +84,7 @@ p.highlight {
   </table>
 </div>
 
+
 ### Research Assistant @ HKUST (GZ)
 
 <div id="RA">
@@ -101,6 +102,7 @@ p.highlight {
 
 
 ### Alumni of MobiX @ HKUST (GZ)
+
 * Zitong Yu (于子彤), RA: 2025.08-2026.07, UG @ <a href="https://www.cug.edu.cn/">CUG (Wuhan) → MSc @ UC Berkeley
 * Yanlin YU (余彦霖), RA: 2025.08-2026.01, B.S. + MSc @ University of Warwick → PhD student @ HKUST (GZ)
 * Guangyu Wang (王广宇), RA: 2025.08-2025.11, UG @ <a href="http://dufe.admissions.cn/">DUFE</a> → PhD student @ HKUST (GZ)
