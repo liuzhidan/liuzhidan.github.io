@@ -5,20 +5,6 @@ permalink: /group/
 author_profile: true
 ---
 
-<!--
-{% include base_path %}
-
-<div align=center>
-  <img src="/images/group/bduc2023.jpg" width = "40%" height = "40%" alt="BDUC Group @ 2023" align="left" style="margin-right:10px; margin-top:10px" />
-</div>
-
-![BDUC Group](/images/group/bduc2021.jpg "BDUC Group")
-
-**Big Data and Urban Computing (BDUC)** research group  is headed by Dr. Zhidan Liu, and is part of the [IoT research center](http://www.futurenet.ac.cn/), affiliated with [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen Univerisity](https://www.szu.edu.cn/), China. The **BDUC** group focuses on exploring and developing various algorithms, applications, services, and systems that support the vision of smart city (e.g., smart mobility, smart health) through efficient and effective data sensing, processing, and analysis. The research interests of **BDUC** group span across a wide spectrum into urban computing, Internet of Things, mobile and pervasive sensing, crowdsourcing and crowdsensing, and big data analytics.  
-
-**MobiX** research group primarily focuses on exploring and developing various applications, technologies, services, and systems that enable the vision of smart mobility through efficient and effective mobile sensing and computing, as well as mobility data mining and analysis. The research interests of _MobiX_ span across a wide spectrum into urban computing, artificial Internet of Things, ubiquitous and mobile computing, and spatio-temporal data analytics. The mission of _MobiX_ is to conduct novel research in above investigated areas, contributing both high academic impact and practical value.
--->
-
 The **MobiX** (_Mobile Intelligence & eXploration_) research group is dedicated to advancing the vision of smart mobility. We explore and develop innovative systems driven by efficient mobile sensing, ubiquitous computing, and mobility data analytics. Our research spans across urban computing, the Artificial Internet of Things (AIoT), and spatio-temporal data mining. The mission of **MobiX** is to conduct cutting-edge research in these intersecting fields, delivering robust solutions that yield both high academic impact and real-world practical value.
 
 <div align="center">
@@ -110,7 +96,7 @@ p.highlight {
         <div class="card_research_direction Master_tr_1" style="height: 25px;">LLM + Urban computing</div>
         <div class="card_info">2025.07 ~ </div>
       </td>
-      <!-->
+      <!--
       <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Zitong" src="/images/group/yuzitong.jpg"></div></div>
         <div class="card_name"><b>Zitong Yu (于子彤)</b></div>
