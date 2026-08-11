@@ -26,7 +26,7 @@ author_profile: true
 > Conference Papers:
 * [[CIKM](https://cikm2026.diag.uniroma1.it/)] <u>Guangyu Wang</u>, <b>Zhidan Liu\*</b>. "RiskTraf: Risk-Extrapolated Residual Learning for Multi-Variate Traffic Flow Prediction", In _ACM CIKM_, Rome, Italy, November 2026. (Acceptance Rate: 597/2216 = 27%) ([PDF](/files/))
 
-* [[KDD](https://kdd2026.kdd.org/)] <u>Fansheng Sun</u>, <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control", In _ACM KDD_ (Oral), Jeju, South Korea, August 2026. (Acceptance Rate: ~18.5%) ([PDF](/files/2026-KDD-Astra.pdf) | [Slides](/files/) | [Poster](/files/2026-KDD-Astra-Poster.pdf))
+* [[KDD](https://kdd2026.kdd.org/)] <u>Fansheng Sun</u>, <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control", In _ACM KDD_ (Oral), Jeju, South Korea, August 2026. (Acceptance Rate: ~18.5%) ([PDF](/files/2026-KDD-Astra.pdf), [Slides](/files/), [Poster](/files/2026-KDD-Astra-Poster.pdf))
 
 * [[ACL](https://2026.aclweb.org/)] Quyu Kong, Xu Zhang, <u>Zhenyu Yang</u>, Nolan Gao, Chen Liu, Panrong Tong, chenglin cai, Hanzhang Zhou, Jianan Zhang, Liangyu Chen, <b>Zhidan Liu</b>, Steven Hoi, Yue Wang. "MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments", In _ACL_ (Main Conference), San Diego, California, United States, July 2026. ([PDF](https://arxiv.org/abs/2512.19432)，[Codes](https://github.com/Tongyi-MAI/MobileWorld))
 
