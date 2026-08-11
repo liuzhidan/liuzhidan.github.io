@@ -24,6 +24,7 @@ author_profile: true
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <u>Xiaosi Liu</u>, <u>Xiaowen Xu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Spatio-Temporal Diffusion Model for Cellular Traffic Generation", _IEEE Transactions on Mobile Computing_, Vol. 25, Issue 1, Pages 257-271, January 2026. ([PDF](/files/2026-TMC-STOUTER.pdf))
 
 > Conference Papers:
+
 * [[CIKM](https://cikm2026.diag.uniroma1.it/)] <u>Guangyu Wang</u>, <b>Zhidan Liu\*</b>. "RiskTraf: Risk-Extrapolated Residual Learning for Multi-Variate Traffic Flow Prediction", In _ACM CIKM_, Rome, Italy, November 2026. (Acceptance Rate: 597/2216 = 27%) ([PDF](/files/))
 
 * [[KDD](https://kdd2026.kdd.org/)] <u>Fansheng Sun</u>, <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control", In _ACM KDD_ (Oral), Jeju, South Korea, August 2026. (Acceptance Rate: ~18.5%) ([PDF](/files/2026-KDD-Astra.pdf), [Slides](/files/), [Poster](/files/2026-KDD-Astra-Poster.pdf))
