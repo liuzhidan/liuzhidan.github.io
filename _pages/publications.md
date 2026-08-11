@@ -15,17 +15,18 @@ author_profile: true
 
 > Journal Papers:
 
-* [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "A Two-Stage Imputation Method for Urban Traffic Data Based on Sparse Spatiotemporal Attention", _IEEE Transactions on Intelligent Transportation Systems_, Vol. xx, Issue xx, Pages xxxx-xxxx, March 2026. ([PDF](/files/2026-TITS-2Imputation.pdf))
-
 * [[TCSS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)] Haodong Liu, Ye Zhang, <b>Zhidan Liu</b>, Hongyuan Zhu, Changhong Wang. "Heterogeneous Multi-Modal Multi-Label Behavioral Context Recognition Using Wearable Sensors and Mobile Devices", _IEEE Transactions on Computational Social Systems_, Vol. xx, Issue xx, Pages xxxx-xxxx, March 2026. ([PDF](/files/2026-TCSS-HMMBCR.pdf))
+
+* [[TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)] <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "A Two-Stage Imputation Method for Urban Traffic Data Based on Sparse Spatiotemporal Attention", _IEEE Transactions on Intelligent Transportation Systems_, Vol. 27, Issue 8, Pages 9329-9344, August 2026. ([PDF](/files/2026-TITS-2Imputation.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <u>Zhenyu Yang</u>, Qiang Yang, <b>Zhidan Liu\*</b>, Zhenjiang Li, Yongpan Zou, Kaishun Wu. "ArmPad: Transforming Forearms into Interaction Interfaces with Smartwatches", _IEEE Transactions on Mobile Computing_, Vol. 25, Issue 8, Pages 12750-12763, August 2026. ([PDF](/files/2026-TMC-ArmPad.pdf))
 
 * [[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)] <u>Xiaosi Liu</u>, <u>Xiaowen Xu</u>, <b>Zhidan Liu\*</b>, Zhenjiang Li, Kaishun Wu. "Spatio-Temporal Diffusion Model for Cellular Traffic Generation", _IEEE Transactions on Mobile Computing_, Vol. 25, Issue 1, Pages 257-271, January 2026. ([PDF](/files/2026-TMC-STOUTER.pdf))
 
 > Conference Papers:
+* [[CIKM](https://cikm2026.diag.uniroma1.it/)] <u>Guangyu Wang</u>, <b>Zhidan Liu\*</b>. "RiskTraf: Risk-Extrapolated Residual Learning for Multi-Variate Traffic Flow Prediction", In _ACM CIKM_, Rome, Italy, November 2026. (Acceptance Rate: 597/2216 = 27%) ([PDF](/files/))
 
-* [[KDD](https://kdd2026.kdd.org/)] <u>Fansheng Sun</u>, <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control", In _ACM KDD_, Jeju, South Korea, August 2026. (Acceptance Rate: ~18.5%) ([PDF](/files/), [Codes](https://github.com/MobiXg/))
+* [[KDD](https://kdd2026.kdd.org/)] <u>Fansheng Sun</u>, <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control", In _ACM KDD_ (Oral), Jeju, South Korea, August 2026. (Acceptance Rate: ~18.5%) ([PDF](/files/2026-KDD-Astra.pdf) | [Slides](/files/) | [Poster](/files/2026-KDD-Astra-Poster.pdf))
 
 * [[ACL](https://2026.aclweb.org/)] Quyu Kong, Xu Zhang, <u>Zhenyu Yang</u>, Nolan Gao, Chen Liu, Panrong Tong, chenglin cai, Hanzhang Zhou, Jianan Zhang, Liangyu Chen, <b>Zhidan Liu</b>, Steven Hoi, Yue Wang. "MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments", In _ACL_ (Main Conference), San Diego, California, United States, July 2026. ([PDF](https://arxiv.org/abs/2512.19432)，[Codes](https://github.com/Tongyi-MAI/MobileWorld))
 

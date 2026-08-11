@@ -31,7 +31,7 @@ permalink: /service/
 
 
 ### Technical Program Committee Member:
-* 2027: ACM KDD
+* 2027: ACM KDD， AAAI (Senior PC)
 * 2026: ACM KDD, IEEE ICDE (demo), VLDB (demo), GPC, NAS
 * 2025: ACM CSCW (Associate Chair), ACM KDD (Outstanding Reviewer for August Cycle), IEEE MSN, Australasian Database Conference (ADC)
 * 2024: ACM KDD, IEEE MSN

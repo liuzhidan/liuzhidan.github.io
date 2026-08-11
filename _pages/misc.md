@@ -10,6 +10,7 @@ permalink: /misc/
 * 2018 Shenzhen Nanshan District Pilot Talent Award (深圳市南山区“领航人才”)
 
 ## Invited Talks
+* _AI驱动的智慧交通：从城市感知到智能决策_, CAAI第十一届全国大数据与社会计算学术会议 (BDSC 2026), Chongqing, China, July 2026
 * _AI赋能的共享出行研究_, 首届中国人机大会（HMCC 2025）暨第二十一届全国和谐人机环境联合学术会议（PCC青年学者论坛），Dalian, China, August 2025
 * _AI-Driven Dynamic Ridesharing_, UGOD 2025 Summer AI Symposium, HKUST (GZ), Guangzhou, China, July 2025 
 * _The New Era of Artificial Intelligence: Opportunities and Challenges_, Guangzhou Foreign Language School, Guangzhou, China, February 2025
