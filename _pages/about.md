@@ -101,7 +101,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 ## Selected Publications:
 
 * <u>Fansheng Sun</u>, <u>Jiyu Wang</u>, <b>Zhidan Liu\*</b>. "Orchestrating Reasoning and Reaction: An Asynchronous Hierarchical Framework for LLM-driven Traffic Signal Control", In _ACM KDD_ (_Oral_), Jeju, South Korea, August 2026. ([PDF](/files/2026-KDD-Astra.pdf), [Slides](/files/), [Poster](/files/2026-KDD-Astra-Poster.pdf))
-- ><p style="color:#8A2BE2">Topology-grounded, asynchronous orchestration of LLM reasoning and MARL reaction for scalable, real-time network-wide traffic signal control.</p>
+  - ><p style="color:#8A2BE2">Topology-grounded, asynchronous orchestration of LLM reasoning and MARL reaction for scalable, real-time network-wide traffic signal control.</p>
 
 * <b>Zhidan Liu</b>, <u>Yingqian Zhou</u>, <u>Xiaosi Liu</u>, Haodi Zhang, Yabo Dong, Dongming Lu, Kaishun Wu. [Learning Road Network Index Structure for Efficient Map Matching](/files/2025-TKDE-LiMM.pdf), _IEEE Transactions on Knowledge and Data Engineering_, Vol. 37, Issue 1, Pages 423-437, January 2025. ([codes](https://github.com/BDUC-MobiX/LiMM))
   - ><p style="color:#8A2BE2">Enhancing HMM-Based map matching through learned Indexing and adaptive search range for precise candidate refinement</p>
