@@ -19,6 +19,7 @@ permalink: /service/
 
 ### Editorial Board:
 * Associate Editor: [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci), 2026.07 - Now
+* Young Editorial Board Member: [Chinese Journal of Internet of Things《物联网学报》](https://www.wlwxb.com.cn/zh/home/), 2026.08 - Now
 * Young Editorial Board Member: [Journal of Social Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8964404), 2024.02 - Now
 * Lead Guest Editor: *Special Issue on Ubiquitous Sensing and Computing for Intelligent Transportation* in [**Data Science for Transportation**](https://www.springer.com/journal/42421)
 
@@ -32,7 +33,7 @@ permalink: /service/
 
 ### Technical Program Committee Member:
 * 2027: ACM KDD， AAAI (Senior PC)
-* 2026: ACM KDD, IEEE ICDE (demo), VLDB (demo), GPC, NAS
+* 2026: ACM KDD, IEEE ICDE (demo), VLDB (demo), GPC, NAS, ICPADS
 * 2025: ACM CSCW (Associate Chair), ACM KDD (Outstanding Reviewer for August Cycle), IEEE MSN, Australasian Database Conference (ADC)
 * 2024: ACM KDD, IEEE MSN
 * 2023: ACM CIKM, IEEE ICPADS
