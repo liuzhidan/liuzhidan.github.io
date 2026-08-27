@@ -54,6 +54,7 @@ Please read this <a href="/files/recruitment.pdf">file</a> for more details (in 
 
 ## Recent Highlights:
 * 2026.08 - Invited to serve on the Young Editorial Board of [Chinese Journal of Internet of Things](https://www.wlwxb.com.cn/zh/home/).
+* 2026.08 - Recognized as the [Best Reviewer of ACM KDD 2026](https://kdd2026.kdd.org/kdd-best-reviewers/)! 🥳
 * 2026.08 - Our paper "ExoMem: OS-Governed Memory for Local Large-LLM Inference on Mobile Edge Devices” has been accepted by [ACM MobiCom 2026](https://www.sigmobile.org/mobicom/2026/). Congrats to Jun You. 🎉
 * 2026.08 - Our paper "RiskTraf: Risk-Extrapolated Residual Learning for Multi-Variate Traffic Flow Prediction” has been accepted by [ACM CIKM 2026](https://cikm2026.diag.uniroma1.it/). Congrats to Guangyu. 🎉
 * 2026.07 - Invited to serve as Senior Program Committee of [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/).

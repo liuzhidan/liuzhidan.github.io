@@ -4,6 +4,8 @@ permalink: /misc/
 ---
 
 ## Selected Awards and Honors
+
+* 2026 [ACM KDD Best Reviewers](https://kdd2026.kdd.org/kdd-best-reviewers/)
 * 2025 CCF Transactions on Pervasive Computing and Interaction <b>Best Reviewer Award</b>
 * 2020 IEEE ICPADS Best Paper Award
 * 2018 Shenzhen Overseas High-Caliber Personnel Award (深圳市“孔雀计划”人才)
