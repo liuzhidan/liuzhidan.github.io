@@ -81,9 +81,7 @@ p.highlight {
         <div class="card_research_direction Master_tr_1" style="height: 25px;">Agent</div>
         <div class="card_info">2025.07 ~ </div>
       </td>
-    </tr>
-    <tr class="member_tr" style="vertical-align: top;">  
-          <td class="member_card" align="center" style="border: none;">
+      <td class="member_card" align="center" style="border: none;">
         <div class="card_img_div"><div class="container"><img class="card_img" alt="Yuhang" src="/images/group/yuhang.jpg"></div></div>
         <div class="card_name"><b>Yuhang Guang (关宇航)</b></div>
         <div class="card_research_direction Master_tr_1" style="height: 25px;">(B.E. from <a href="https://www.en.sdu.edu.cn/">Shandong University</a>)</div>
