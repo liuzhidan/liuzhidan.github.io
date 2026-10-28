@@ -1,0 +1,6 @@
+# Co-author name variants -> homepage URLs.
+# Keys are lower-cased surnames without accents. Add your collaborators here so
+# Jekyll links their names on the publications page automatically.
+# Example:/n# "wu":
+#   - firstname: ["Kaishun", "K."]
+#     url: https://www.cse.ust.hk/~kaishun/

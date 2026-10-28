@@ -1,0 +1,436 @@
+# MobiX Research Group — member data, v2
+# Primary source: files/CV-ZhidanLiu.pdf "Student Supervision" (parsed 2026-10-28)
+# Cross-checked against: _pages/group.md
+# Not yet written into the site repo.
+#
+# group:  phd_current | ra_current | alumni_hkustgz | alumni_szu
+# period: enrollment or employment span, CV precision (YYYY.MM)
+# next:   alumni only — first employment or further study
+# photo:  path under site root; PLACEHOLDER used where no portrait exists yet
+#
+# Duplicate by design: Zhenyu Yang is both a current PhD student (2026.02 -)
+# and a BDUC alumnus (Master 2022.09-2025.06). De-duplicate in the template.
+#
+# Three conflicts with the old homepage are recorded in `note` and await
+# Dr. Liu's confirmation: Yuhang Guan/Guang, Yanlin Yu end date, Wenxuan Xia span.
+
+members:
+  # ---------- current PhD students @ HKUST (GZ) ----------
+  - name_en: "Xiaowen Xu"
+    name_zh: "徐小雯"
+    group: "phd_current"
+    period: "2024.09 -"
+    degree_from: "B.E., Computer Science and Technology, Shenzhen University (2023)"
+    topics: ["Human-Centric Computing"]
+    photo: "/images/group/xuxiaowen.png"
+    url: ""
+    next: ""
+    awards: ["Excellent Undergraduate of Shenzhen University"]
+    pubs: []
+    note: "Homepage said 'Started 2024 Fall'."
+
+  - name_en: "Jiyu Wang"
+    name_zh: "王纪禹"
+    group: "phd_current"
+    period: "2025.02 -"
+    degree_from: "M.E., Transportation Engineering, Sun Yat-sen University, Shenzhen (2024)"
+    topics: ["Mobility Data Management"]
+    photo: "/images/group/wangjiyu.jpg"
+    url: ""
+    next: ""
+    awards: []
+    pubs: ["TITS'26"]
+    note: "Homepage said 'Started 2025 Spring' and 'M.S.'."
+
+  - name_en: "Zhenyu Yang"
+    name_zh: "杨振宇"
+    group: "phd_current"
+    period: "2026.02 -"
+    degree_from: "M.E., Computer Science and Technology, Shenzhen University (2025)"
+    topics: ["GUI Agent"]
+    photo: "/images/group/zhenyu.jpg"
+    url: ""
+    next: ""
+    awards: []
+    pubs: ["TMC'26"]
+    note: "Same person as alumni_szu/Zhenyu Yang. Homepage said 'Started 2026 Spring'."
+
+  # ---------- current research assistants @ HKUST (GZ) ----------
+  - name_en: "Jinsong Luo"
+    name_zh: "罗晋松"
+    group: "ra_current"
+    period: "2025.07 -"
+    degree_from: "B.E., Artificial Intelligence, Central South University (2025)"
+    topics: ["Agent"]
+    photo: "/images/group/jinsong.png"
+    url: ""
+    next: ""
+    awards: []
+    pubs: []
+    note: ""
+
+  - name_en: "Fansheng Sun"
+    name_zh: "孙凡盛"
+    group: "ra_current"
+    period: "2025.10 -"
+    degree_from: "B.E., Computer Science and Technology, Xi'an Jiaotong University (2026)"
+    topics: ["Urban intelligence"]
+    photo: "/images/group/sunfansheng.jpg"
+    url: ""
+    next: ""
+    awards: []
+    pubs: ["KDD'26"]
+    note: "Homepage date had a full-width period; CV confirms 2025.10."
+
+  - name_en: "Yuhang Guan"
+    name_zh: "关宇航"
+    group: "ra_current"
+    period: "2025.08 -"
+    degree_from: "B.E., Computer Science and Technology, Shandong University, Qingdao (2025)"
+    topics: ["Edge intelligence"]
+    photo: "/images/group/yuhang.jpg"
+    url: ""
+    next: ""
+    awards: []
+    pubs: []
+    note: "CONFLICT: CV spells the surname 'Guan', the old homepage 'Guang'. CV adopted."
+
+  # ---------- alumni of MobiX @ HKUST (GZ) ----------
+  - name_en: "Zitong Yu"
+    name_zh: "于子彤"
+    group: "alumni_hkustgz"
+    period: "RA 2025.08 - 2026.07"
+    degree_from: "UG, China University of Geosciences (Wuhan)"
+    topics: []
+    photo: "/assets/img/placeholder-avatar.svg"
+    url: ""
+    next: "MSc @ University of California, Berkeley"
+    awards: []
+    pubs: []
+    note: "No portrait on file; placeholder pending photo."
+
+  - name_en: "Guangyu Wang"
+    name_zh: "王广宇"
+    group: "alumni_hkustgz"
+    period: "RA 2025.08 - 2025.11"
+    degree_from: "UG, Dongbei University of Finance and Economics"
+    topics: []
+    photo: "/assets/img/placeholder-avatar.svg"
+    url: ""
+    next: "Ph.D. student @ HKUST (GZ)"
+    awards: []
+    pubs: ["CIKM'26"]
+    note: "No portrait on file; placeholder pending photo."
+
+  - name_en: "Yanlin Yu"
+    name_zh: "余彦霖"
+    group: "alumni_hkustgz"
+    period: "RA 2025.08 - 2025.11"
+    degree_from: "MSc, University of Warwick"
+    topics: []
+    photo: "/assets/img/placeholder-avatar.svg"
+    url: ""
+    next: "Ph.D. student @ HKUST (GZ)"
+    awards: []
+    pubs: []
+    note: "CONFLICT: CV ends 2025.11, the old homepage said 2026.01. CV adopted."
+
+  # ---------- alumni of BDUC @ Shenzhen University ----------
+  - name_en: "Zengyang Gong"
+    name_zh: "龚增阳"
+    group: "alumni_szu"
+    period: "Master 2017.09 - 2020.06"
+    degree_from: "B.S., Computer Science and Technology, Wuhan University of Science and Technology (2017)"
+    topics: []
+    photo: "/images/group/zengyanggong.jpg"
+    url: ""
+    next: "Ph.D. candidate @ HKUST"
+    awards: ["Excellent Graduate of Shenzhen University"]
+    pubs: ["ICDE'20", "ICCCN'20", "IOTJ'22"]
+    note: ""
+
+  - name_en: "Mingliang Huang"
+    name_zh: "黄明亮"
+    group: "alumni_szu"
+    period: "Master 2017.09 - 2020.06"
+    degree_from: "B.S., Computer Science and Technology, Lanzhou University (2017)"
+    topics: []
+    photo: "/images/group/mingliang.jpg"
+    url: ""
+    next: "Sangfor Technologies"
+    awards: []
+    pubs: ["MSN'19"]
+    note: ""
+
+  - name_en: "Jiangzhou Li"
+    name_zh: "李江舟"
+    group: "alumni_szu"
+    period: "Master 2018.09 - 2021.06"
+    degree_from: "B.S., Software Engineering, Qingdao University (2018)"
+    topics: []
+    photo: "/images/group/lijiangzhou.jpg"
+    url: ""
+    next: "Sangfor Technologies"
+    awards: []
+    pubs: ["TITS'22"]
+    note: ""
+
+  - name_en: "Baofu Huang"
+    name_zh: "黄保福"
+    group: "alumni_szu"
+    period: "Master 2018.09 - 2021.06"
+    degree_from: "B.E., Computer Science, Guangdong University of Finances and Economics (2018)"
+    topics: []
+    photo: "/images/group/baofu-2.jpg"
+    url: ""
+    next: "Tencent"
+    awards: ["Best Paper Award, IEEE ICPADS'20"]
+    pubs: ["HPCC'20", "ICPADS'20"]
+    note: ""
+
+  - name_en: "Weixin Lin"
+    name_zh: "林维鑫"
+    group: "alumni_szu"
+    period: "Master 2019.09 - 2022.06"
+    degree_from: "B.E., Computer Science and Technology, Shenzhen University (2019)"
+    topics: []
+    photo: "/images/group/weixin.jpg"
+    url: ""
+    next: "JinTeng Technologies"
+    awards: []
+    pubs: ["CJC'22"]
+    note: ""
+
+  - name_en: "Junhong Zheng"
+    name_zh: "郑俊鸿"
+    group: "alumni_szu"
+    period: "Master 2019.09 - 2022.06"
+    degree_from: "B.S., Software Engineering, Zhuhai College of Science and Technology (2019)"
+    topics: []
+    photo: "/images/group/zhengjunhong.jpg"
+    url: ""
+    next: "Tencent"
+    awards: []
+    pubs: ["DASFAA'21", "TMC'23"]
+    note: ""
+
+  - name_en: "Jiancong Liu"
+    name_zh: "刘键聪"
+    group: "alumni_szu"
+    period: "B.S. 2018.09 - 2022.06"
+    degree_from: "B.E., Computer Science and Technology, Shenzhen University (2022)"
+    topics: []
+    photo: "/images/group/liujiancong.jpg"
+    url: ""
+    next: "Master student @ Harbin Institute of Technology (Shenzhen)"
+    awards: ["Excellent Undergraduate of Shenzhen University"]
+    pubs: ["TMC'24"]
+    note: ""
+
+  - name_en: "Hongquan Zhang"
+    name_zh: "张鸿权"
+    group: "alumni_szu"
+    period: "Master 2020.09 - 2023.06"
+    degree_from: "B.E., Internet of Things Engineering, Hunan Agricultural University (2020)"
+    topics: []
+    photo: "/images/group/zhanghongquan.jpg"
+    url: ""
+    next: "HUAWEI"
+    awards: ["Excellent Graduate of Shenzhen University"]
+    pubs: ["TMC'24"]
+    note: ""
+
+  - name_en: "Meiquan Lai"
+    name_zh: "赖美全"
+    group: "alumni_szu"
+    period: "Master 2020.09 - 2023.06"
+    degree_from: "B.S., Mathematics, Shenzhen University (2020)"
+    topics: []
+    photo: "/images/group/meiquan.jpg"
+    url: ""
+    next: "SICS"
+    awards: []
+    pubs: ["ICPADS'24"]
+    note: ""
+
+  - name_en: "Yingqian Zhou"
+    name_zh: "周荧倩"
+    group: "alumni_szu"
+    period: "Master 2020.09 - 2023.06"
+    degree_from: "B.E., Computer Science and Technology, Guangdong University of Technology (2020)"
+    topics: []
+    photo: "/images/group/yingqian.jpg"
+    url: ""
+    next: "BOCOM"
+    awards: []
+    pubs: ["TKDE'25"]
+    note: ""
+
+  - name_en: "Jiayue Ruan"
+    name_zh: "阮家越"
+    group: "alumni_szu"
+    period: "Master 2020.09 - 2023.06"
+    degree_from: "B.E., Computer Science and Technology, North China University of Technology (2020)"
+    topics: []
+    photo: "/images/group/jiayue.jpg"
+    url: ""
+    next: "BYD"
+    awards: []
+    pubs: []
+    note: ""
+
+  - name_en: "Wenxuan Xia"
+    name_zh: "夏文轩"
+    group: "alumni_szu"
+    period: "B.S. 2020.09 - 2023.06"
+    degree_from: "B.S., Software Engineering, Shenzhen University (2023)"
+    topics: []
+    photo: "/images/group/wenxuan.jpg"
+    url: ""
+    next: "Ph.D. student @ HKUST (GZ)"
+    awards: ["Excellent Undergraduate of Shenzhen University"]
+    pubs: []
+    note: "CONFLICT: CV says 2020.09-2023.06, the old homepage said 2020-2022. CV adopted."
+
+  - name_en: "Yaqi Huang"
+    name_zh: "黄雅琪"
+    group: "alumni_szu"
+    period: "Master 2021.09 - 2024.06"
+    degree_from: "B.E., Internet of Things Engineering, Hunan Agricultural University (2021)"
+    topics: []
+    photo: "/images/group/yaqi.jpg"
+    url: ""
+    next: "Tencent Music"
+    awards: []
+    pubs: ["GPC'25"]
+    note: ""
+
+  - name_en: "Guofeng Ouyang"
+    name_zh: "欧阳国峰"
+    group: "alumni_szu"
+    period: "Master 2021.09 - 2024.06"
+    degree_from: "B.E., Electronical Information Science and Technology, Zhaoqing University (2021)"
+    topics: []
+    photo: "/images/group/ouyangguofeng.jpg"
+    url: ""
+    next: "FUTU"
+    awards: []
+    pubs: ["TMC'25"]
+    note: ""
+
+  - name_en: "Jinye Lin"
+    name_zh: "林锦叶"
+    group: "alumni_szu"
+    period: "Master 2021.09 - 2024.06"
+    degree_from: "B.E., Internet of Things Engineering, Shenzhen University (2021)"
+    topics: []
+    photo: "/images/group/linjinye.jpg"
+    url: ""
+    next: "FUTU"
+    awards: []
+    pubs: ["ICDM'24"]
+    note: ""
+
+  - name_en: "Xiaosi Liu"
+    name_zh: "刘晓思"
+    group: "alumni_szu"
+    period: "Master 2022.09 - 2025.06"
+    degree_from: "B.E., Software Engineering, Nanchang University (2022)"
+    topics: []
+    photo: "/images/group/xiaosi.jpg"
+    url: ""
+    next: "BYD"
+    awards: []
+    pubs: ["TMC'25", "TKDE'25"]
+    note: ""
+
+  - name_en: "Zhiyu Xia"
+    name_zh: "夏志宇"
+    group: "alumni_szu"
+    period: "Master 2022.09 - 2025.06"
+    degree_from: "B.E., Computer Science and Technology, Shantou University (2022)"
+    topics: []
+    photo: "/images/group/zhiyu.jpg"
+    url: ""
+    next: "HSBC Group"
+    awards: []
+    pubs: []
+    note: ""
+
+  - name_en: "Zhengze Sun"
+    name_zh: "孙政泽"
+    group: "alumni_szu"
+    period: "Master 2022.09 - 2025.06"
+    degree_from: "B.E., Data Science and Big Data Technology, Wuhan University of Technology (2022)"
+    topics: []
+    photo: "/images/group/zhengze.jpg"
+    url: ""
+    next: "HUAWEI"
+    awards: []
+    pubs: ["TITS'25", "GPC'25"]
+    note: ""
+
+  - name_en: "Zhenyu Yang"
+    name_zh: "杨振宇"
+    group: "alumni_szu"
+    period: "Master 2022.09 - 2025.06"
+    degree_from: "B.E., Computer Science and Technology, Henan University (2022)"
+    topics: []
+    photo: "/images/group/zhenyu.jpg"
+    url: ""
+    next: "Ph.D. @ HKUST (GZ)"
+    awards: []
+    pubs: ["TMC'26"]
+    note: "Same person as phd_current/Zhenyu Yang (2026.02 -)."
+
+  - name_en: "Haotian Zhong"
+    name_zh: "钟昊天"
+    group: "alumni_szu"
+    period: "B.E. 2022.06 - 2025.06"
+    degree_from: "B.E., Software Engineering, Shenzhen University (2025)"
+    topics: []
+    photo: "/images/group/haotian.jpg"
+    url: ""
+    next: "Ph.D. student @ Zhejiang University"
+    awards: ["Excellent Undergraduate of Shenzhen University"]
+    pubs: []
+    note: ""
+
+  - name_en: "Bolin Zhang"
+    name_zh: "张柏林"
+    group: "alumni_szu"
+    period: "Master 2023.09 - 2026.06"
+    degree_from: "B.E., Software Engineering, Shenzhen University (2023)"
+    topics: []
+    photo: "/images/group/bolin.jpg"
+    url: ""
+    next: "Meituan"
+    awards: ["Excellent Undergraduate of Shenzhen University"]
+    pubs: ["CIKM'25"]
+    note: ""
+
+  - name_en: "Chang Liu"
+    name_zh: "刘畅"
+    group: "alumni_szu"
+    period: "Master 2023.09 - 2026.06"
+    degree_from: "B.E., Internet of Things Engineering, Jinan University (2023)"
+    topics: []
+    photo: "/images/group/liuchang.jpg"
+    url: ""
+    next: "Shopee"
+    awards: []
+    pubs: []
+    note: ""
+
+  - name_en: "Yuhao Ouyang"
+    name_zh: "欧阳宇豪"
+    group: "alumni_szu"
+    period: "Master 2023.09 - 2026.06"
+    degree_from: "B.E., Data Science and Big Data Technology, Beijing Forestry University (2023)"
+    topics: []
+    photo: "/images/group/yuhao.jpg"
+    url: ""
+    next: "ByteDance"
+    awards: []
+    pubs: ["TMC (under revision)"]
+    note: ""
