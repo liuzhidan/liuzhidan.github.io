@@ -334,18 +334,11 @@ terser:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  posts:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-    permalinks:
-      year: "/blog/:year/"
-      tags: "/blog/:type/:name/"
-      categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+# This site has no blog: the `posts` and `books` collections have been removed.
+# Enabling archives for a collection that does not exist crashes jekyll-archives-v2
+# (`undefined method 'docs' for nil`), so archives are left disabled.
+# To enable a blog later: add the `posts` collection above AND its block here.
+jekyll-archives: {}
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
