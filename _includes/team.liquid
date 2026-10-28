@@ -1,5 +1,5 @@
-{% assign order = "phd_current|ra_current|alumni_hkustgz|alumni_szu" | split: "|" %}
-{% assign labels = "PhD Students @ HKUST (GZ)|Research Assistants @ HKUST (GZ)|Alumni of MobiX @ HKUST (GZ)|Alumni of BDUC @ Shenzhen University" | split: "|" %}
+{% assign order = "phd_current|mphil_current|msc_current|ra_current|alumni_hkustgz|alumni_szu" | split: "|" %}
+{% assign labels = "PhD Students @ HKUST (GZ)|MPhil Students @ HKUST (GZ)|MSc Students @ HKUST (GZ)|Research Assistants @ HKUST (GZ)|Alumni of MobiX @ HKUST (GZ)|Alumni of BDUC @ Shenzhen University" | split: "|" %}
 {% assign all = site.data.members.members %}
 {% for g in order %}
 {% assign subset = all | where: "group", g %}

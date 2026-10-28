@@ -3,7 +3,9 @@
 # Cross-checked against: _pages/group.md
 # Not yet written into the site repo.
 #
-# group:  phd_current | ra_current | alumni_hkustgz | alumni_szu
+# group:  phd_current | mphil_current | msc_current | ra_current | alumni_hkustgz | alumni_szu
+#         A group with no members is skipped, so the MPhil and MSc headings
+#         stay hidden until someone is actually listed under them.
 # period: enrollment or employment span, CV precision (YYYY.MM)
 # next:   alumni only — first employment or further study
 # photo:  path under site root; PLACEHOLDER used where no portrait exists yet
