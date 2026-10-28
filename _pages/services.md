@@ -4,6 +4,8 @@ title: Services
 permalink: /service/
 # Order is by weight of the role: senior memberships lead, then editorial,
 # organization, program committees and reviewing.
+# Within the Editorial Board: Associate Editor first, then Young Editorial
+# Board Member, then Guest Editor.
 description: Editorial work, conference organization, program committees and reviewing.
 nav: true
 nav_order: 6
@@ -95,8 +97,8 @@ _styles: |
 | Journal | Role | Period |
 | --- | --- | --- |
 | [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci) | Associate Editor | 2026.07 - Now |
+| [Journal of Social Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8964404) | Associate Editor | 2024.02 - Now |
 | [Chinese Journal of Internet of Things《物联网学报》](https://www.wlwxb.com.cn/zh/home/) | Young Editorial Board Member | 2026.08 - Now |
-| [Journal of Social Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8964404) | Young Editorial Board Member | 2024.02 - Now |
 | [Data Science for Transportation](https://www.springer.com/journal/42421) | Lead Guest Editor, Special Issue on Ubiquitous Sensing and Computing for Intelligent Transportation | - |
 
 ### Conference Organization
