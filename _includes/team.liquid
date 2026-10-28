@@ -3,29 +3,49 @@
 {% assign all = site.data.members.members %}
 {% for g in order %}
 {% assign subset = all | where: "group", g %}
+{% assign compact = false %}
+{% if g == "alumni_szu" %}
+{% assign compact = true %}
+{% endif %}
 {% if subset.size > 0 %}
 <h2 style="font-size:1.35rem;font-weight:600;margin:2rem 0 1rem;padding-bottom:.4rem;border-bottom:1px solid #e3e3e3;">{{ labels[forloop.index0] }} <span style="font-weight:400;color:#888;font-size:.9rem;">({{ subset.size }})</span></h2>
+{% if compact %}
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(116px,1fr));gap:10px;">
+{% else %}
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px;">
+{% endif %}
 {% for m in subset %}
-<div style="border:1px solid #e5e5e5;border-radius:10px;padding:14px 10px;text-align:center;background:#fff;">
+<div style="border:1px solid #e5e5e5;border-radius:10px;padding:{% if compact %}10px 6px{% else %}14px 10px{% endif %};text-align:center;background:#fff;">
+{% if compact %}
+<img src="{{ m.photo | relative_url }}" alt="{{ m.name_en }}" loading="lazy" style="width:84px;height:112px;object-fit:cover;border-radius:6px;">
+{% else %}
 <img src="{{ m.photo | relative_url }}" alt="{{ m.name_en }}" loading="lazy" style="width:110px;height:145px;object-fit:cover;border-radius:6px;">
-<div style="font-weight:600;margin-top:10px;font-size:14px;">{{ m.name_en }}</div>
+{% endif %}
+<div style="font-weight:600;margin-top:10px;font-size:{% if compact %}13px{% else %}14px{% endif %};">{{ m.name_en }}</div>
+{% unless compact %}
 <div style="color:#666;font-size:13px;">{{ m.name_zh }}</div>
-<div style="color:#777;font-size:12px;margin-top:6px;">{{ m.period }}</div>
+{% endunless %}
+<div style="color:#777;font-size:{% if compact %}11px{% else %}12px{% endif %};margin-top:6px;">{{ m.period }}</div>
+{% unless compact %}
 {% if m.degree_from != "" %}
 <div style="color:#777;font-size:12px;margin-top:3px;">{{ m.degree_from }}</div>
 {% endif %}
 {% if m.topics.size > 0 %}
 <div style="font-size:12px;margin-top:5px;">{{ m.topics | join: ", " }}</div>
 {% endif %}
-{% if m.next != "" %}
-<div style="font-size:12px;margin-top:7px;color:#0a6a4a;"><b>Next:</b> {{ m.next }}</div>
-{% endif %}
 {% if m.awards.size > 0 %}
 <div style="font-size:11px;margin-top:5px;color:#8a5a00;">Award: {{ m.awards | join: "; " }}</div>
 {% endif %}
 {% if m.pubs.size > 0 %}
 <div style="font-size:11px;margin-top:3px;color:#888;">{{ m.pubs | join: ", " }}</div>
+{% endif %}
+{% endunless %}
+{% if m.next != "" %}
+{% if compact %}
+<div style="font-size:11px;margin-top:6px;color:#0a6a4a;">{{ m.next }}</div>
+{% else %}
+<div style="font-size:12px;margin-top:7px;color:#0a6a4a;"><b>Next:</b> {{ m.next }}</div>
+{% endif %}
 {% endif %}
 </div>
 {% endfor %}

@@ -1,10 +1,31 @@
 ---
-layout: page
+layout: about
 permalink: /
-title: about
+title: About
 description: Assistant Professor at HKUST (GZ), leading the MobiX research group.
+subtitle: Assistant Professor, Systems Hub & Information Hub, The Hong Kong University of Science and Technology (Guangzhou)
 nav: true
-order: 1
+nav_order: 1
+
+profile:
+  align: right
+  image: zhidan.jpg
+  image_circular: false
+  more_info: >
+    <p><b>Office</b><br/>W4-306, 1 DuXue Rd, Nansha District,<br/>Guangzhou 511453, China</p>
+    <p><b>Email</b><br/>zhidanliu@hkust-gz.edu.cn</p>
+    <p><b>Tel</b><br/>(020) 88335766</p>
+
+selected_papers: true
+social: true
+
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: false
 ---
 
 **Zhidan Liu (刘志丹)** is currently an Assistant Professor affiliated with the [Thrust of Intelligent Transportation](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/), [Systems Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), and the [Thrust of Artificial Intelligence](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/), [Information Hub](https://infh.hkust-gz.edu.cn/about/), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). He is also a Cross-Campus Faculty Affiliate at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before joining HKUST (GZ), he was a faculty member with [College of Computer Science and Software Engineering](http://csse.szu.edu.cn/cn/), [Shenzhen University](http://www.szu.edu.cn/) (2017-2024), and a postdoctoral research fellow at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/) (2015-2017), working closely with [Prof. Mo Li](https://cse.hkust.edu.hk/~lim/). He received the B.E. degree and Ph.D. degree, both in computer science and technology, from [Northeastern University](http://english.neu.edu.cn/) in June 2009 and [Zhejiang University](http://www.zju.edu.cn/english/) in September 2014, respectively. He is now heading the [MobiX](/group/) research group at HKUST (GZ). He is on the editorial board of [Journal of Social Computing](https://www.sciopen.com/journal/2688-5255) and [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci) (IF=6.5). He is a senior member of IEEE and CCF, a member of ACM.
@@ -47,7 +68,3 @@ We are welcoming <b>RBM/Undergraduate students</b> as well, please email me for 
 <br><br>
 Please read this <a href="/files/2027recruitment.pdf">file</a> for more details (in Chinese). 招聘详情请参考<a href="/files/2027recruitment.pdf">此文件</a>以及<a href="https://mp.weixin.qq.com/s/kGbDvr4dETnFxBlCPOQ3vg">公众号文章</a>. 
 <b><font color="red">We still have 1~2 Ph.D. positions available for Fall 2025. Welcome to apply. [Update: 20 May, 2025]</font></b>-->
-
-## Selected Publications
-
-See the [publications page](/publications/) for the full list.

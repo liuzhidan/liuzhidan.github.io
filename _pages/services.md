@@ -4,7 +4,7 @@ title: Services
 permalink: /service/
 description: Professional activities and services.
 nav: true
-order: 5
+nav_order: 4
 ---
 
 ### Membership:

@@ -4,7 +4,7 @@ title: Projects & Grants
 permalink: /projects/
 description: Selected projects and grants of the MobiX group, with total funding over 10M RMB.
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
 Our research is supported by the National Natural Science Foundation of China, the Natural Science Foundation of Guangdong, HKUST (GZ), Shenzhen University and industry partners, with total project funding over 10M RMB.
