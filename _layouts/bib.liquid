@@ -77,7 +77,15 @@
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
-        {%- assign author_last_html = author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
+        {%- assign author_last_html = author.last
+          | replace: '*', '<sup class="author-corresponding">*</sup>'
+          | replace: '∗', '<sup class="author-corresponding">∗</sup>'
+          | replace: '†', '<sup class="author-student">†</sup>'
+          | regex_replace: '([‡§¶‖&^]+)', '<sup>\1</sup>' -%}
+        {%- assign author_is_student = false -%}
+        {%- if author.last contains '†' -%}
+          {%- assign author_is_student = true -%}
+        {%- endif -%}
         {% if site.scholar.last_name contains author_last_name %}
           {% if site.scholar.first_name contains author.first %}
             {% assign author_is_self = true %}
@@ -100,11 +108,11 @@
           {%- endif %}
           {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
         {% endif %}
+        {%- if author_is_student -%}<span class="author-student">{%- endif -%}
+        {%- if author_is_self -%}<strong class="author-self">{%- endif -%}
         {%- if author_is_self -%}
-          <em>
-            {{- author.first }}
-            {{ author_last_html -}}
-          </em>
+          {{- author.first }}
+          {{ author_last_html -}}
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">
@@ -116,6 +124,8 @@
             {{ author_last_html -}}
           {% endif %}
         {%- endif -%}
+        {%- if author_is_self -%}</strong>{%- endif -%}
+        {%- if author_is_student -%}</span>{%- endif -%}
       {% endfor %}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
 
@@ -267,9 +277,9 @@
       {% endif %}
       {% if entry.slides %}
         {% if entry.slides contains '://' %}
-          <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-presentation-screen"></i>Slides</a>
+          <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-file-powerpoint"></i>Slides</a>
         {% else %}
-          <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-presentation-screen"></i>Slides</a>
+          <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-file-powerpoint"></i>Slides</a>
         {% endif %}
       {% endif %}
       {% if entry.website %}

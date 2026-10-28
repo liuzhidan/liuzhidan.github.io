@@ -42,6 +42,26 @@ _styles: |
   .pub-type-demo { color: #3d9aa6; }
   .pub-type-thesis { color: #8a8a8a; }
   .pub-type-misc { color: #7a7a7a; }
+  /* author role marks; the same three the old homepage used */
+  .author-self { font-weight: 700; }
+  .author-student {
+    text-decoration: underline;
+    text-decoration-color: #8a6bb5;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+    color: #3c3c3c;
+  }
+  sup.author-corresponding { color: #8a1c1c; font-weight: 700; }
+  sup.author-student { color: #8a6bb5; font-weight: 700; }
+  .pub-legend {
+    margin: -.2rem 0 1.2rem;
+    padding: .5rem .85rem;
+    background: #f7f7f7;
+    border-radius: 6px;
+    font-size: .8rem;
+    color: #5a5a5a;
+  }
+  .pub-legend b { color: #8a1c1c; }
 ---
 
 <!-- _pages/publications.md -->
@@ -49,6 +69,8 @@ _styles: |
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
+
+<p class="pub-legend"><sup class="author-corresponding">*</sup> Corresponding author &nbsp;·&nbsp; <span class="author-student">Students / RAs under my supervision</span> &nbsp;·&nbsp; <b>Bold</b> = me</p>
 
 <div class="publications">
 

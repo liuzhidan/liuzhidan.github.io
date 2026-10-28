@@ -29,10 +29,10 @@
 <img src="{{ m.photo | relative_url }}" alt="{{ m.name_en }}" loading="lazy" style="width:110px;height:145px;object-fit:cover;border-radius:6px;">
 {% endif %}
 <div style="font-weight:600;margin-top:10px;font-size:{% if compact %}13px{% else %}14px{% endif %};">{{ m.name_en }}</div>
-{% unless compact %}
-<div style="color:#666;font-size:13px;">{{ m.name_zh }}</div>
-{% endunless %}
-<div style="color:#777;font-size:{% if compact %}11px{% else %}12px{% endif %};margin-top:6px;">{{ m.period }}</div>
+{% if m.name_zh != "" %}
+<div style="color:#8c8c8c;font-size:11px;margin-top:1px;">{{ m.name_zh }}</div>
+{% endif %}
+<div style="color:#777;font-size:{% if compact %}11px{% else %}12px{% endif %};margin-top:{% if compact %}4px{% else %}6px{% endif %};">{{ m.period }}</div>
 {% unless compact %}
 {% if m.degree_from != "" %}
 <div style="color:#777;font-size:12px;margin-top:3px;">{{ m.degree_from }}</div>
@@ -40,9 +40,11 @@
 {% if m.topics.size > 0 %}
 <div style="font-size:12px;margin-top:5px;">{{ m.topics | join: ", " }}</div>
 {% endif %}
+{% endunless %}
 {% if m.awards.size > 0 %}
-<div style="font-size:11px;margin-top:5px;color:#8a5a00;">Award: {{ m.awards | join: "; " }}</div>
+<div style="font-size:{% if compact %}10px{% else %}11px{% endif %};margin-top:{% if compact %}5px{% else %}5px{% endif %};color:#8a6a1a;line-height:1.35;">★ {{ m.awards | join: "; " }}</div>
 {% endif %}
+{% unless compact %}
 {% if m.pubs.size > 0 %}
 <div style="font-size:11px;margin-top:3px;color:#888;">{{ m.pubs | join: ", " }}</div>
 {% endif %}
