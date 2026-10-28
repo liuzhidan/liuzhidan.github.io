@@ -1,0 +1,65 @@
+name: zz-diagnose
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Ruby (plain, no bundler-cache)
+        id: a
+        continue-on-error: true
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3.5"
+
+      - name: Setup Ruby (with bundler-cache)
+        id: b
+        continue-on-error: true
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3.5"
+          bundler-cache: true
+
+      - name: Manual bundle install
+        id: c
+        continue-on-error: true
+        run: |
+          {
+            echo "### step outcomes"
+            echo "a_plain=${{ steps.a.outcome }}"
+            echo "b_cache=${{ steps.b.outcome }}"
+            echo
+            echo "### versions"
+            echo "ruby:    $(ruby -v 2>&1)"
+            echo "gem:     $(gem -v 2>&1)"
+            echo "bundler: $(bundle -v 2>&1)"
+            echo "which ruby: $(which ruby 2>&1)"
+            echo
+            echo "### BUNDLE_DEPLOYMENT=true bundle install"
+            BUNDLE_DEPLOYMENT=true bundle install 2>&1 | tail -60
+            echo
+            echo "### plain bundle install"
+            bundle install 2>&1 | tail -60
+          } > debug.txt 2>&1
+
+      - name: Publish debug branch
+        if: always()
+        run: |
+          git config user.name "ci-bot"
+          git config user.email "ci-bot@users.noreply.github.com"
+          git checkout -B ci-debug
+          [ -f debug.txt ] || echo "(debug.txt missing)" > debug.txt
+          git add -f debug.txt
+          git commit -m "ci debug $(date -u +%Y%m%dT%H%M%SZ)" || echo "nothing to commit"
+          git push -f origin ci-debug
