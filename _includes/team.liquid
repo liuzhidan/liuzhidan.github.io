@@ -68,17 +68,17 @@ html[data-theme=dark] .team-hiring{background:#3a2626;border-left-color:#e57373;
 <div class="team-card">
 <img src="{{ m.photo | relative_url }}" alt="{{ m.name_en }}" loading="lazy" class="team-photo">
 <div class="team-name-en">{{ m.name_en }}</div>
-{% if m.name_zh != "" %}
+{% if m.name_zh != blank %}
 <div class="team-name-zh">{{ m.name_zh }}</div>
 {% endif %}
 <div class="team-period">
-{%- if m.degree != "" -%}
+{%- if m.degree != blank -%}
 <span class="team-degree">{{ m.degree }}</span>
 {%- endif -%}
 {{- m.period -}}
 </div>
 {% unless compact %}
-{% if m.degree_from != "" %}
+{% if m.degree_from != blank %}
 <div class="team-from">{{ m.degree_from }}</div>
 {% endif %}
 {% if m.topics.size > 0 %}
@@ -93,7 +93,7 @@ html[data-theme=dark] .team-hiring{background:#3a2626;border-left-color:#e57373;
 <div class="team-pubs">{{ m.pubs | join: ", " }}</div>
 {% endif %}
 {% endunless %}
-{% if m.next != "" %}
+{% if m.next != blank %}
 {% if compact %}
 <div class="team-next">{{ m.next }}</div>
 {% else %}
