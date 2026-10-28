@@ -18,7 +18,24 @@ _styles: |
   }
   .proj-summary-num { font-size: 1.1rem; font-weight: 700; color: #222; margin-right: .5rem; }
   .proj-summary-text b { color: #8a1c1c; }
-  .proj-list { display: grid; grid-template-columns: 1fr; gap: 14px; margin-top: 1.1rem; }
+  /* one block per funding level; the colour marks the level */
+  .proj-group {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 1.7rem 0 .6rem;
+    padding-bottom: .45rem;
+    border-bottom: 1px solid #ececec;
+  }
+  .proj-group-text { font-size: .9rem; font-weight: 700; letter-spacing: .01em; }
+  .proj-group-meta { font-size: .76rem; color: #8a8a8a; white-space: nowrap; }
+  .proj-group-national .proj-group-text { color: #8a1c1c; }
+  .proj-group-provincial .proj-group-text { color: #b07a3c; }
+  .proj-group-municipal .proj-group-text { color: #3f74ad; }
+  .proj-group-industry .proj-group-text { color: #3f9e78; }
+  .proj-group-other .proj-group-text { color: #8a8a8a; }
+  .proj-list { display: grid; grid-template-columns: 1fr; gap: 14px; margin-top: .2rem; }
   .proj-card {
     border: 1px solid #e6e6e6;
     border-left: 3px solid #8a1c1c;
@@ -26,6 +43,11 @@ _styles: |
     padding: 14px 18px;
     background: #fff;
   }
+  .proj-card-national { border-left-color: #8a1c1c; }
+  .proj-card-provincial { border-left-color: #b07a3c; }
+  .proj-card-municipal { border-left-color: #4a86c8; }
+  .proj-card-industry { border-left-color: #3f9e78; }
+  .proj-card-other { border-left-color: #9a9a9a; }
   .proj-card-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 7px; }
   .proj-badge {
     font-size: .62rem; font-weight: 700; letter-spacing: .06em;

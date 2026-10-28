@@ -4,7 +4,9 @@ permalink: /
 title: About
 description: Assistant Professor at HKUST (GZ), leading the MobiX research group.
 subtitle: Assistant Professor, Systems Hub & Information Hub, The Hong Kong University of Science and Technology (Guangzhou)
-nav: true
+# The header already renders a hard-coded About entry pointing at the site
+# root. Leaving nav: true here would print a second, duplicate About.
+nav: false
 nav_order: 1
 
 profile:

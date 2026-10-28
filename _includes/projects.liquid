@@ -1,4 +1,6 @@
 {% assign projects = site.data.projects.projects %}
+{% assign levels = "national|provincial|municipal|industry|other" | split: "|" %}
+{% assign level_labels = "National-level Programs|Provincial and Ministry-level Programs|Municipal and University Programs|Industry Collaboration|Other" | split: "|" %}
 {% assign total = 0 %}
 {% for p in projects %}{% assign total = total | plus: p.amount_k %}{% endfor %}
 {% assign total_m = total | divided_by: 1000.0 | round: 2 %}
@@ -6,9 +8,18 @@
 <span class="proj-summary-num">{{ projects.size }}</span>
 <span class="proj-summary-text">projects and grants listed, totalling <b>&yen;{{ total_m }}M</b></span>
 </div>
+{% for lv in levels %}
+{% assign subset = projects | where: "level", lv %}
+{% assign subtotal = 0 %}
+{% for p in subset %}{% assign subtotal = subtotal | plus: p.amount_k %}{% endfor %}
+{% if subset.size > 0 %}
+<div class="proj-group proj-group-{{ lv }}">
+<span class="proj-group-text">{{ level_labels[forloop.index0] }}</span>
+<span class="proj-group-meta">{{ subset.size }}{% if subset.size == 1 %} project{% else %} projects{% endif %} &middot; &yen;{% if subtotal >= 1000 %}{{ subtotal | divided_by: 1000.0 | round: 2 }}M{% else %}{{ subtotal }}K{% endif %}</span>
+</div>
 <div class="proj-list">
-{% for p in projects %}
-<div class="proj-card">
+{% for p in subset %}
+<div class="proj-card proj-card-{{ lv }}">
 <div class="proj-card-top">
 {% if p.role == "PI" %}
 <span class="proj-badge proj-badge-pi">{{ p.role }}</span>
@@ -35,3 +46,5 @@
 </div>
 {% endfor %}
 </div>
+{% endif %}
+{% endfor %}

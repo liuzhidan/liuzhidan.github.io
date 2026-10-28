@@ -1,10 +1,13 @@
 # Selected projects and grants.
 # role: PI | Co-I
+# level: national | provincial | municipal | industry | other
+#        Groups are printed in that order; an empty group is skipped.
 # amount_k: funding in thousands of RMB (500 = 500K, 2700 = 2.7M)
 # number / period are optional: leave them empty to hide the field.
 
 projects:
   - role: PI
+    level: national
     title: Dynamic Optimization and Cooperative Decision-Making Mechanisms for Crowd-Powered Shared Mobility
     funder: National Natural Science Foundation of China (General Program)
     funder_zh: 国家自然科学基金面上项目
@@ -13,6 +16,7 @@ projects:
     amount_k: 500
 
   - role: PI
+    level: national
     title: Research on the Key Technologies of Mobility Context Aware Personalized Ridesharing
     funder: National Natural Science Foundation of China (General Program)
     funder_zh: 国家自然科学基金面上项目
@@ -21,6 +25,7 @@ projects:
     amount_k: 752
 
   - role: PI
+    level: national
     title: Research on Exploiting Big Mobility Trajectory Data for Smart Sensing of Urban Traffic
     funder: National Natural Science Foundation of China (Young Scientists Fund)
     funder_zh: 国家自然科学基金青年项目
@@ -29,6 +34,7 @@ projects:
     amount_k: 300
 
   - role: PI
+    level: provincial
     title: Research on the Key Technologies of Shared Memory based Social Network Graph Computing
     funder: Natural Science Foundation of Guangdong (General Program)
     funder_zh: 广东省自然科学基金-面上项目
@@ -37,6 +43,7 @@ projects:
     amount_k: 100
 
   - role: PI
+    level: provincial
     title: Joint Research of Crowdsensing and Data Analytics for Smart City
     funder: Natural Science Foundation of Guangdong (General Program)
     funder_zh: 广东省自然科学基金-面上项目
@@ -45,6 +52,7 @@ projects:
     amount_k: 100
 
   - role: PI
+    level: industry
     title: Research on Exploiting Big Trajectory Data for Intelligent Transport Sensing and Computing
     funder: Tencent "Rhinoceros Birds" - Scientific Research Foundation for Young Teachers of Shenzhen University
     funder_zh: 腾讯"犀牛鸟"-深圳大学青年教师科研基金项目
@@ -53,6 +61,7 @@ projects:
     amount_k: 60
 
   - role: PI
+    level: municipal
     title: Crowdsensing Augmented Urban Traffic Sensing and Computing
     funder: The 2nd Phase of High-Level University Construction Fund of Shenzhen University
     funder_zh: 深圳大学青年教师科研启动经费
@@ -61,6 +70,7 @@ projects:
     amount_k: 200
 
   - role: PI
+    level: municipal
     title: Startup Fund for Shenzhen Overseas High-Caliber Personnel
     funder: ""
     funder_zh: 深圳市高层次人才科研启动经费
@@ -69,6 +79,7 @@ projects:
     amount_k: 2700
 
   - role: PI
+    level: municipal
     title: Natural Science Foundation of Shenzhen University — Research on Crowdsensing based Urban Sensing
     funder: ""
     funder_zh: 深圳大学新引进教师科研启动项目
@@ -77,6 +88,7 @@ projects:
     amount_k: 60
 
   - role: Co-I
+    level: provincial
     title: Key Innovation Team on Meteorological Service Support Technologies for Low-Altitude Flight
     funder: Science and Technology Innovation Team of Guangdong Provincial Meteorological Bureau
     funder_zh: 广东省气象局科技创新团队
@@ -85,6 +97,7 @@ projects:
     amount_k: 67.5
 
   - role: Co-I
+    level: national
     title: Multi-dimensional and Deep Perception Information based Social Computing
     funder: National Natural Science Foundation of China (Joint Program)
     funder_zh: 国家自然科学基金联合重点基金

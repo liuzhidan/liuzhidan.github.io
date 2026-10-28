@@ -2,7 +2,8 @@
 layout: page
 title: Services
 permalink: /service/
-description: Professional memberships, editorial work, conference organization and reviewing.
+# Order is by weight of the role: an editorship first, a membership last.
+description: Editorial work, conference organization, program committees and reviewing.
 nav: true
 nav_order: 6
 
@@ -20,35 +21,20 @@ _styles: |
   }
   td { padding: .4rem .6rem; border-bottom: 1px solid #efefef; vertical-align: top; }
   td:last-child { white-space: nowrap; }
-  ul.venues {
-    list-style: none;
-    padding-left: 0;
-    margin-top: .6rem;
-    column-count: 2;
-    column-gap: 1.8rem;
-    font-size: .9rem;
+  .venue-badges { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .8rem; }
+  .venue-badge {
+    font-size: .74rem;
+    font-weight: 700;
+    letter-spacing: .03em;
+    padding: .22rem .6rem;
+    border-radius: 5px;
+    background: #f4f6f8;
+    color: #3c5a78;
+    border: 1px solid #e2e7ec;
+    cursor: default;
   }
-  ul.venues li {
-    margin-bottom: .3rem;
-    padding-left: .8rem;
-    border-left: 2px solid #ececec;
-    break-inside: avoid;
-  }
-  @media (max-width: 700px) { ul.venues { column-count: 1; } }
+  .venue-hint { margin: -.9rem 0 1.6rem; font-size: .78rem; color: #9a9a9a; }
 ---
-
-### Professional Membership
-
-| Organization | Role | Since |
-| --- | --- | --- |
-| The Institute of Electrical and Electronics Engineers (IEEE) | Senior Member | 2024 |
-| China Computer Federation (CCF) | Senior Member | 2023 |
-| The Association for Computing Machinery (ACM) | Member | 2018 |
-| ACM SIGMOBILE | Member | 2021 |
-| ACM SIGSpatial China | Executive Member | 2023 |
-| CCF Ubiquitous Computing Technical Committee (CCF 普适计算专委会) | Executive Member | 2022 |
-| CCF Internet of Things Technical Committee (CCF 物联网专委会) | Executive Member | 2023 |
-| CCF Intelligent Transportation Division (CCF 智慧交通分会) | Executive Member | 2023 |
 
 ### Editorial Board
 
@@ -85,25 +71,40 @@ _styles: |
 | 2018 | IEEE ICPADS, IEEE ICCCN |
 | 2017 | IEEE ICPADS |
 
-### Transaction and Journal Reviewer
+### Reviewer for Transactions and Journals
 
 {::nomarkdown}
-<ul class="venues">
-<li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
-<li>IEEE Transactions on Mobile Computing (TMC)</li>
-<li>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</li>
-<li>IEEE/ACM Transactions on Networking (TON)</li>
-<li>ACM Transactions on Spatial Algorithms and Systems (TSAS)</li>
-<li>IEEE Transactions on Wireless Communications (TWC)</li>
-<li>IEEE Transactions on Parallel and Distributed Systems (TPDS)</li>
-<li>ACM Transactions on Sensor Networks (TOSN)</li>
-<li>IEEE Transactions on Communications (TOC)</li>
-<li>IEEE Internet of Things Journal (IOT-J)</li>
-<li>IEEE Communications Magazine</li>
-<li>IEEE Computational Intelligence Magazine</li>
-<li>CCF Transactions on Pervasive Computing and Interaction (TPCI)</li>
-<li>Elsevier Pervasive and Mobile Computing (PMC)</li>
-<li>Ad Hoc &amp; Sensor Wireless Networks (AHSWN)</li>
-<li>Elsevier Computer Networks</li>
-</ul>
+<div class="venue-badges">
+<span class="venue-badge" title="IEEE Transactions on Knowledge and Data Engineering">TKDE</span>
+<span class="venue-badge" title="IEEE Transactions on Mobile Computing">TMC</span>
+<span class="venue-badge" title="IEEE Transactions on Intelligent Transportation Systems">T-ITS</span>
+<span class="venue-badge" title="IEEE/ACM Transactions on Networking">TON</span>
+<span class="venue-badge" title="ACM Transactions on Spatial Algorithms and Systems">TSAS</span>
+<span class="venue-badge" title="IEEE Transactions on Wireless Communications">TWC</span>
+<span class="venue-badge" title="IEEE Transactions on Parallel and Distributed Systems">TPDS</span>
+<span class="venue-badge" title="ACM Transactions on Sensor Networks">TOSN</span>
+<span class="venue-badge" title="IEEE Transactions on Communications">TCOM</span>
+<span class="venue-badge" title="IEEE Internet of Things Journal">IoT-J</span>
+<span class="venue-badge" title="IEEE Communications Magazine">CommMag</span>
+<span class="venue-badge" title="IEEE Computational Intelligence Magazine">CIMag</span>
+<span class="venue-badge" title="CCF Transactions on Pervasive Computing and Interaction">TPCI</span>
+<span class="venue-badge" title="Elsevier Pervasive and Mobile Computing">PMC</span>
+<span class="venue-badge" title="Ad Hoc &amp; Sensor Wireless Networks">AHSWN</span>
+<span class="venue-badge" title="Elsevier Computer Networks">CompNet</span>
+</div>
 {:/}
+
+<p class="venue-hint">Selected venues; hover a badge for the full name.</p>
+
+### Professional Membership
+
+| Organization | Role | Since |
+| --- | --- | --- |
+| The Institute of Electrical and Electronics Engineers (IEEE) | Senior Member | 2024 |
+| China Computer Federation (CCF) | Senior Member | 2023 |
+| The Association for Computing Machinery (ACM) | Member | 2018 |
+| ACM SIGMOBILE | Member | 2021 |
+| ACM SIGSpatial China | Executive Member | 2023 |
+| CCF Ubiquitous Computing Technical Committee (CCF 普适计算专委会) | Executive Member | 2022 |
+| CCF Internet of Things Technical Committee (CCF 物联网专委会) | Executive Member | 2023 |
+| CCF Intelligent Transportation Division (CCF 智慧交通分会) | Executive Member | 2023 |

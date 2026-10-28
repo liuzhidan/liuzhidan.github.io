@@ -2,8 +2,8 @@
 /* MPhil / MSc badge; the two share the Master Students group */
 .team-degree{display:inline-block;font-size:.6rem;font-weight:700;letter-spacing:.06em;padding:.06rem .35rem;margin-right:.35rem;border-radius:3px;background:#eef1f5;color:#3c5a78;border:1px solid #dde3ea}
 </style>
-{% assign order = "phd_current|master_current|ug_current|ra_current|alumni_hkustgz|alumni_szu" | split: "|" %}
-{% assign labels = "PhD Students @ HKUST (GZ)|Master Students @ HKUST (GZ)|Undergraduate Researchers|Research Assistants @ HKUST (GZ)|Alumni of MobiX @ HKUST (GZ)|Alumni of BDUC @ Shenzhen University" | split: "|" %}
+{% assign order = "phd_current|master_current|ra_current|ug_current|alumni_hkustgz|alumni_szu" | split: "|" %}
+{% assign labels = "PhD Students @ HKUST (GZ)|Master Students @ HKUST (GZ)|Research Assistants @ HKUST (GZ)|Undergraduate Researchers|Alumni of MobiX @ HKUST (GZ)|Alumni of BDUC @ Shenzhen University" | split: "|" %}
 {% assign all = site.data.members.members %}
 {% for g in order %}
 {% assign subset = all | where: "group", g %}
