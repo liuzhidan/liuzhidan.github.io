@@ -63,7 +63,7 @@ members:
     group: "phd_current"
     period: "2027.02 -"
     degree_from: "M.Sc., Nanyang Technological University, Singapore"
-    topics: []
+    topics: ["Human-Centric Sensing"]
     photo: "/assets/img/placeholder-avatar.svg"
     url: ""
     next: ""
@@ -79,7 +79,7 @@ members:
     degree: "MPhil"
     period: "2026.09 -"
     degree_from: "B.E., Nanchang University (2026)"
-    topics: []
+    topics: ["Smart Sensing"]
     photo: "/assets/img/placeholder-avatar.svg"
     url: ""
     next: ""
@@ -93,7 +93,7 @@ members:
     degree: "MSc"
     period: "2026.09 -"
     degree_from: "B.E., Shandong University (2026)"
-    topics: []
+    topics: ["Edge Computing"]
     photo: "/assets/img/placeholder-avatar.svg"
     url: ""
     next: ""
@@ -108,7 +108,7 @@ members:
     degree: ""
     period: "2026.09 -"
     degree_from: "B.E. candidate, Artificial Intelligence, HKUST (GZ)"
-    topics: []
+    topics: ["GUI Agent"]
     photo: "/assets/img/placeholder-avatar.svg"
     url: ""
     next: ""
@@ -122,7 +122,7 @@ members:
     degree: ""
     period: "2026.09 -"
     degree_from: "B.E. candidate, Computer Science, Northwestern Polytechnical University"
-    topics: []
+    topics: ["Agent Audit"]
     photo: "/assets/img/placeholder-avatar.svg"
     url: ""
     next: ""
@@ -177,12 +177,12 @@ members:
     period: "RA 2025.08 - 2026.07"
     degree_from: "UG, China University of Geosciences (Wuhan)"
     topics: []
-    photo: "/assets/img/placeholder-avatar.svg"
+    photo: "/images/group/zitong.jpg"
     url: ""
     next: "MSc @ University of California, Berkeley"
     awards: []
     pubs: []
-    note: "No portrait on file; placeholder pending photo."
+    note: ""
 
   - name_en: "Guangyu Wang"
     name_zh: "王广宇"
@@ -190,12 +190,12 @@ members:
     period: "RA 2025.08 - 2025.11"
     degree_from: "UG, Dongbei University of Finance and Economics"
     topics: []
-    photo: "/assets/img/placeholder-avatar.svg"
+    photo: "/images/group/guangyu.jpg"
     url: ""
     next: "Ph.D. student @ HKUST (GZ)"
     awards: []
     pubs: ["CIKM'26"]
-    note: "No portrait on file; placeholder pending photo."
+    note: ""
 
   - name_en: "Yanlin Yu"
     name_zh: "余彦霖"
@@ -203,7 +203,7 @@ members:
     period: "RA 2025.08 - 2025.11"
     degree_from: "MSc, University of Warwick"
     topics: []
-    photo: "/assets/img/placeholder-avatar.svg"
+    photo: "/images/group/yanlin.jpg"
     url: ""
     next: "Ph.D. student @ HKUST (GZ)"
     awards: []
@@ -219,7 +219,7 @@ members:
     topics: []
     photo: "/images/group/zengyanggong.jpg"
     url: ""
-    next: "Ph.D. candidate @ HKUST"
+    next: "Ph.D. graduate @ HKUST; now at Huawei (Hong Kong)"
     awards: ["Excellent Graduate of Shenzhen University"]
     pubs: ["ICDE'20", "ICCCN'20", "IOTJ'22"]
     note: ""
@@ -297,7 +297,7 @@ members:
     topics: []
     photo: "/images/group/liujiancong.jpg"
     url: ""
-    next: "Master student @ Harbin Institute of Technology (Shenzhen)"
+    next: "Master graduate @ HIT (Shenzhen); now a civil servant in Zhongshan"
     awards: ["Excellent Undergraduate of Shenzhen University"]
     pubs: ["TMC'24"]
     note: ""
@@ -466,7 +466,7 @@ members:
     topics: []
     photo: "/images/group/zhenyu.jpg"
     url: ""
-    next: "Ph.D. @ HKUST (GZ)"
+    next: "Ph.D. student @ HKUST (GZ)"
     awards: []
     pubs: ["TMC'26"]
     note: "Same person as phd_current/Zhenyu Yang (2026.02 -)."

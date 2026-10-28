@@ -2,7 +2,8 @@
 layout: page
 title: Services
 permalink: /service/
-# Order is by weight of the role: an editorship first, a membership last.
+# Order is by weight of the role: senior memberships lead, then editorial,
+# organization, program committees and reviewing.
 description: Editorial work, conference organization, program committees and reviewing.
 nav: true
 nav_order: 6
@@ -33,8 +34,61 @@ _styles: |
     border: 1px solid #e2e7ec;
     cursor: default;
   }
-  .venue-hint { margin: -.9rem 0 1.6rem; font-size: .78rem; color: #9a9a9a; }
+  .venue-hint { margin: .8rem 0 1.6rem; font-size: .78rem; color: #9a9a9a; }
+  .senior-badges { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.1rem 0 1.5rem; }
+  .senior-badge {
+    flex: 1 1 260px;
+    border: 1px solid #dfe4ea;
+    border-left: 4px solid #1f6feb;
+    border-radius: 8px;
+    background: #f7f9fc;
+    padding: .8rem 1rem .85rem;
+  }
+  .sb-org { font-size: 1.15rem; font-weight: 700; letter-spacing: .02em; color: #14304f; }
+  .sb-full { margin-top: .1rem; font-size: .74rem; color: #8a8a8a; line-height: 1.35; }
+  .sb-role { margin-top: .45rem; font-size: .82rem; font-weight: 700; color: #1f6feb; letter-spacing: .02em; }
+  .sb-since { margin-top: .1rem; font-size: .74rem; color: #6c757d; }
+  @media (prefers-color-scheme: dark) {
+    table { border-color: #333; }
+    thead th { color: #9aa0a6; border-bottom-color: #3a3a3a; }
+    td { border-bottom-color: #2e2e2e; }
+    .venue-badge { background: #232629; color: #cdd9e5; border-color: #3a3f45; }
+    .venue-hint { color: #8a8a8a; }
+    .senior-badge { border-color: #3a3f45; border-left-color: #4d9bff; background: #1e2124; }
+    .sb-org { color: #e8eaed; }
+    .sb-full { color: #9aa0a6; }
+    .sb-role { color: #6fb1ff; }
+    .sb-since { color: #9aa0a6; }
+  }
 ---
+
+### Professional Membership
+
+{::nomarkdown}
+<div class="senior-badges">
+  <div class="senior-badge">
+    <div class="sb-org">IEEE Senior Member</div>
+    <div class="sb-full">Institute of Electrical and Electronics Engineers</div>
+    <div class="sb-role">Senior Member</div>
+    <div class="sb-since">Since 2024</div>
+  </div>
+  <div class="senior-badge">
+    <div class="sb-org">CCF Senior Member</div>
+    <div class="sb-full">China Computer Federation · 中国计算机学会</div>
+    <div class="sb-role">Senior Member（高级会员）</div>
+    <div class="sb-since">Since 2023</div>
+  </div>
+</div>
+{:/}
+
+| Organization | Role | Since |
+| --- | --- | --- |
+| The Association for Computing Machinery (ACM) | Member | 2018 |
+| ACM SIGMOBILE | Member | 2021 |
+| ACM SIGSpatial China | Executive Member | 2023 |
+| CCF Ubiquitous Computing Technical Committee (CCF 普适计算专委会) | Executive Member | 2022 |
+| CCF Internet of Things Technical Committee (CCF 物联网专委会) | Executive Member | 2023 |
+| CCF Intelligent Transportation Division (CCF 智慧交通分会) | Executive Member | 2023 |
 
 ### Editorial Board
 
@@ -95,16 +149,3 @@ _styles: |
 {:/}
 
 <p class="venue-hint">Selected venues; hover a badge for the full name.</p>
-
-### Professional Membership
-
-| Organization | Role | Since |
-| --- | --- | --- |
-| The Institute of Electrical and Electronics Engineers (IEEE) | Senior Member | 2024 |
-| China Computer Federation (CCF) | Senior Member | 2023 |
-| The Association for Computing Machinery (ACM) | Member | 2018 |
-| ACM SIGMOBILE | Member | 2021 |
-| ACM SIGSpatial China | Executive Member | 2023 |
-| CCF Ubiquitous Computing Technical Committee (CCF 普适计算专委会) | Executive Member | 2022 |
-| CCF Internet of Things Technical Committee (CCF 物联网专委会) | Executive Member | 2023 |
-| CCF Intelligent Transportation Division (CCF 智慧交通分会) | Executive Member | 2023 |
