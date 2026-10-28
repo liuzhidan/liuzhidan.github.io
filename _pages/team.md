@@ -13,4 +13,4 @@ The **MobiX** (_Mobile Intelligence & eXploration_) research group is dedicated 
 <b>Hiring:</b> We are constantly looking for self-motivated PhD students, RBM students, RAs, and PostDocs to join us. See the <a href="/files/2027recruitment.pdf" target="_blank">recruitment flyer</a> for details.
 </div>
 
-{% include team %}
+{% include team.liquid %}
