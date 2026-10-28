@@ -50,18 +50,19 @@ _styles: |
   .sb-full { margin-top: .1rem; font-size: .74rem; color: #8a8a8a; line-height: 1.35; }
   .sb-role { margin-top: .45rem; font-size: .82rem; font-weight: 700; color: #1f6feb; letter-spacing: .02em; }
   .sb-since { margin-top: .1rem; font-size: .74rem; color: #6c757d; }
-  @media (prefers-color-scheme: dark) {
-    table { border-color: #333; }
-    thead th { color: #9aa0a6; border-bottom-color: #3a3a3a; }
-    td { border-bottom-color: #2e2e2e; }
-    .venue-badge { background: #232629; color: #cdd9e5; border-color: #3a3f45; }
-    .venue-hint { color: #8a8a8a; }
-    .senior-badge { border-color: #3a3f45; border-left-color: #4d9bff; background: #1e2124; }
-    .sb-org { color: #e8eaed; }
-    .sb-full { color: #9aa0a6; }
-    .sb-role { color: #6fb1ff; }
-    .sb-since { color: #9aa0a6; }
-  }
+  /* al-folio switches themes with html[data-theme=dark] (JS + the toggle button),
+     NOT with prefers-color-scheme. Using the media query here would break the
+     manual toggle: a dark OS would keep these rules on even after switching to light. */
+  html[data-theme=dark] table { border-color: #333; }
+  html[data-theme=dark] thead th { color: #9aa0a6; border-bottom-color: #3a3a3a; }
+  html[data-theme=dark] td { border-bottom-color: #2e2e2e; }
+  html[data-theme=dark] .venue-badge { background: #232629; color: #cdd9e5; border-color: #3a3f45; }
+  html[data-theme=dark] .venue-hint { color: #8a8a8a; }
+  html[data-theme=dark] .senior-badge { border-color: #3a3f45; border-left-color: #4d9bff; background: #1e2124; }
+  html[data-theme=dark] .sb-org { color: #e8eaed; }
+  html[data-theme=dark] .sb-full { color: #9aa0a6; }
+  html[data-theme=dark] .sb-role { color: #6fb1ff; }
+  html[data-theme=dark] .sb-since { color: #9aa0a6; }
 ---
 
 ### Professional Membership
