@@ -3,12 +3,39 @@ Local override of the al_folio_core selected_papers.liquid.
 
 Adds the author-role legend above the short list, so the dagger and the
 asterisk on the About page are explained without visiting /publications/.
-The styles are inlined because selected_papers is rendered by the about
-layout, which does not inject `page._styles`.
+
+The about layout does not inject `page._styles`, so this file carries its own
+<style> block for the author-role marks. KEEP IT IN SYNC with the same rules
+in _pages/publications.md (that page gets its copy via `_styles`).
 {%- endcomment -%}
-<p style="margin: -.2rem 0 1.1rem; padding: .5rem .85rem; background: #f7f7f7; border-radius: 6px; font-size: .8rem; color: #5a5a5a;">
-<sup style="color: #8a1c1c; font-weight: 700;">*</sup> Corresponding author &nbsp;&middot;&nbsp; <span style="text-decoration: underline; text-decoration-color: #8a6bb5; text-underline-offset: 2px;">Students / RAs under my supervision</span> &nbsp;&middot;&nbsp; <b>Bold</b> = me
-</p>
+<style type="text/css">
+  .pub-legend {
+    margin: -.2rem 0 1.1rem;
+    padding: .5rem .85rem;
+    background: #f7f7f7;
+    border-radius: 6px;
+    font-size: .8rem;
+    color: #5a5a5a;
+  }
+  .pub-legend b { color: #8a1c1c; }
+  .author-self { font-weight: 700; }
+  .author-student {
+    text-decoration: underline;
+    text-decoration-color: #8a6bb5;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+    color: #3c3c3c;
+  }
+  sup.author-corresponding { color: #8a1c1c; font-weight: 700; }
+  sup.author-student { color: #8a6bb5; font-weight: 700; }
+  /* al-folio switches themes with html[data-theme=dark], not the media query */
+  html[data-theme=dark] .pub-legend { background: #232629; color: #cdd3dc; }
+  html[data-theme=dark] .pub-legend b { color: #e57373; }
+  html[data-theme=dark] .author-student { color: #cdd3dc; }
+  html[data-theme=dark] sup.author-corresponding { color: #e57373; }
+  html[data-theme=dark] sup.author-student { color: #c3a6e0; }
+</style>
+<p class="pub-legend"><sup class="author-corresponding">*</sup> Corresponding author &nbsp;&middot;&nbsp; <span class="author-student">Students / RAs under my supervision</span> &nbsp;&middot;&nbsp; <b>Bold</b> = me</p>
 <div class="publications">
 {% bibliography --group_by none --query @*[selected=true]* %}
 </div>

@@ -62,6 +62,23 @@ _styles: |
     color: #5a5a5a;
   }
   .pub-legend b { color: #8a1c1c; }
+  /* dark-mode counterparts; al-folio toggles html[data-theme=dark], not a media
+     query. Keep in sync with the copy in _includes/selected_papers.liquid. */
+  html[data-theme=dark] .publications .links a.btn {
+    background: #232629;
+    border-color: #3a3f45;
+    color: #cdd3dc;
+  }
+  html[data-theme=dark] .publications .links a.btn:hover {
+    background: #2e3237;
+    border-color: #4a5057;
+    color: #e8eaed;
+  }
+  html[data-theme=dark] .author-student { color: #cdd3dc; }
+  html[data-theme=dark] sup.author-corresponding { color: #e57373; }
+  html[data-theme=dark] sup.author-student { color: #c3a6e0; }
+  html[data-theme=dark] .pub-legend { background: #232629; color: #cdd3dc; }
+  html[data-theme=dark] .pub-legend b { color: #e57373; }
 ---
 
 <!-- _pages/publications.md -->
