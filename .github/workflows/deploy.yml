@@ -92,17 +92,39 @@ jobs:
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
       - name: Install and Build 🔧
+        id: build
+        continue-on-error: true
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade nbconvert
-          export JEKYLL_ENV=production
-          bundle exec jekyll build
+          set -o pipefail
+          {
+            echo "### apt"
+            sudo apt-get update && sudo apt-get install -y imagemagick
+            echo "### pip"
+            pip3 install --upgrade nbconvert
+            echo "### jekyll build"
+            export JEKYLL_ENV=production
+            bundle exec jekyll build --trace
+          } > build.log 2>&1
+          code=$?
+          tail -120 build.log
+          exit $code
+      - name: Publish build log
+        if: always()
+        run: |
+          git config user.name "ci-bot"
+          git config user.email "ci-bot@users.noreply.github.com"
+          git checkout -B ci-debug
+          [ -f build.log ] || echo "(no build.log)" > build.log
+          git add -f build.log
+          git commit -m "build log $(date -u +%Y%m%dT%H%M%SZ)" || echo "nothing to commit"
+          git push -f origin ci-debug
       - name: Purge unused CSS 🧹
+        if: steps.build.outcome == 'success'
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
-        if: github.event_name != 'pull_request'
+        if: github.event_name != 'pull_request' && steps.build.outcome == 'success'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
