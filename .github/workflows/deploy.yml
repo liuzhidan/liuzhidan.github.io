@@ -92,17 +92,41 @@ jobs:
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
       - name: Install and Build 🔧
+        id: build
+        continue-on-error: true
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade nbconvert
-          export JEKYLL_ENV=production
-          bundle exec jekyll build
+          {
+            set +e
+            sudo apt-get update;                 echo "APT_UPDATE_RC=$?"
+            sudo apt-get install -y imagemagick; echo "APT_INSTALL_RC=$?"
+            pip3 install --upgrade nbconvert;    echo "PIP_RC=$?"
+            export JEKYLL_ENV=production
+            bundle exec jekyll build;            echo "JEKYLL_RC=$?"
+          } > build.log 2>&1
+          tail -150 build.log
+          if grep -q "JEKYLL_RC=0" build.log; then
+            echo "build_ok=true" >> $GITHUB_OUTPUT
+          else
+            echo "build_ok=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+      - name: Publish build log
+        if: always()
+        run: |
+          git config user.name "ci-bot"
+          git config user.email "ci-bot@users.noreply.github.com"
+          git checkout -B ci-debug
+          [ -f build.log ] || echo "(no build.log)" > build.log
+          git add -f build.log
+          git commit -m "build log $(date -u +%Y%m%dT%H%M%SZ)" || echo "nothing"
+          git push -f origin ci-debug
       - name: Purge unused CSS 🧹
+        if: steps.build.outputs.build_ok == 'true'
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
-        if: github.event_name != 'pull_request'
+        if: github.event_name != 'pull_request' && steps.build.outputs.build_ok == 'true'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
