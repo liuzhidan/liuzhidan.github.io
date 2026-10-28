@@ -210,6 +210,9 @@ collections:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
+# All dates on this site are rendered in Beijing time.
+timezone: Asia/Shanghai
+
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge

@@ -1,0 +1,51 @@
+{%- comment -%}
+Renders a small type icon in front of a publication title.
+
+Resolution order matters: a poster presented at a conference is still a
+conference paper in BibTeX, so the title is checked before entry.type.
+Add new types here; the icon itself is styled from _pages/publications.md.
+{%- endcomment -%}
+{% assign haystack = entry.title | append: ' ' | append: entry.abbr | append: ' ' | append: entry.booktitle | downcase %}
+{% assign kind = 'misc' %}
+{% assign label = 'Publication' %}
+{% if haystack contains 'poster' %}
+  {% assign kind = 'poster' %}
+  {% assign label = 'Poster' %}
+{% elsif haystack contains 'demo' %}
+  {% assign kind = 'demo' %}
+  {% assign label = 'Demo' %}
+{% elsif haystack contains 'workshop' %}
+  {% assign kind = 'workshop' %}
+  {% assign label = 'Workshop paper' %}
+{% elsif entry.type == 'book' or entry.type == 'incollection' %}
+  {% assign kind = 'book' %}
+  {% assign label = 'Book / Book chapter' %}
+{% elsif entry.type == 'inproceedings' or entry.type == 'conference' %}
+  {% assign kind = 'conference' %}
+  {% assign label = 'Conference paper' %}
+{% elsif entry.type == 'article' %}
+  {% assign kind = 'journal' %}
+  {% assign label = 'Journal article' %}
+{% elsif entry.type contains 'thesis' %}
+  {% assign kind = 'thesis' %}
+  {% assign label = 'Thesis' %}
+{% endif %}
+{% case kind %}
+  {% when 'journal' %}
+    {% assign glyph = 'fa-solid fa-newspaper' %}
+  {% when 'conference' %}
+    {% assign glyph = 'fa-solid fa-users' %}
+  {% when 'book' %}
+    {% assign glyph = 'fa-solid fa-book' %}
+  {% when 'workshop' %}
+    {% assign glyph = 'fa-solid fa-chalkboard-user' %}
+  {% when 'poster' %}
+    {% assign glyph = 'fa-solid fa-display' %}
+  {% when 'demo' %}
+    {% assign glyph = 'fa-solid fa-flask' %}
+  {% when 'thesis' %}
+    {% assign glyph = 'fa-solid fa-graduation-cap' %}
+  {% else %}
+    {% assign glyph = 'fa-solid fa-file-lines' %}
+{% endcase %}
+<i class="{{ glyph }} pub-type pub-type-{{ kind }}" title="{{ label }}" aria-label="{{ label }}"></i>

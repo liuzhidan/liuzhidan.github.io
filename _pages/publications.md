@@ -27,6 +27,21 @@ _styles: |
     color: #222;
     text-decoration: none;
   }
+  .publications .links a.btn i { margin-right: .3rem; opacity: .7; }
+  /* publication type icon, rendered in front of each title */
+  .publications .title .pub-type {
+    margin-right: .45rem;
+    font-size: .82rem;
+    opacity: .9;
+  }
+  .pub-type-journal { color: #4a86c8; }
+  .pub-type-conference { color: #8a6bb5; }
+  .pub-type-book { color: #b07a3c; }
+  .pub-type-workshop { color: #3f9e78; }
+  .pub-type-poster { color: #c98a2e; }
+  .pub-type-demo { color: #3d9aa6; }
+  .pub-type-thesis { color: #8a8a8a; }
+  .pub-type-misc { color: #7a7a7a; }
 ---
 
 <!-- _pages/publications.md -->

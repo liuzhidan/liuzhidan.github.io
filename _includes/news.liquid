@@ -1,0 +1,71 @@
+{%- comment -%}
+Local override of the al_folio_core news.liquid.
+
+Two changes against the upstream template:
+  1. When the include is called with limit=true (i.e. from the About layout's
+     news block), only items of the current calendar year are listed.
+     Everywhere else (the standalone /news/ page) the full history is shown.
+  2. After the filtered list, a "More news" link points at /news/.
+
+HTML tags are flush left because this include is also dropped straight into a
+markdown page, where kramdown would otherwise escape any indented tag.
+{%- endcomment -%}
+{% assign show_all = true %}
+{% assign current_year = site.time | date: '%Y' %}
+{% if include.limit %}
+{% assign show_all = false %}
+{% if page.announcements.year %}
+{% assign current_year = page.announcements.year | append: '' %}
+{% endif %}
+{% endif %}
+
+{% assign news = site.news | reverse %}
+{% assign shown = 0 %}
+{% unless show_all %}
+{% for item in news %}
+{% assign item_year = item.date | date: '%Y' %}
+{% if item_year == current_year %}
+{% assign shown = shown | plus: 1 %}
+{% endif %}
+{% endfor %}
+{% endunless %}
+
+<div class="news">
+{% if site.news != blank %}
+{% assign news_size = site.news | size %}
+{% if include.limit and page.announcements.scrollable and shown > 3 %}
+<div class="table-responsive" style="max-height: 60vw">
+{% else %}
+<div class="table-responsive">
+{% endif %}
+<table class="table table-sm table-borderless">
+{% for item in news %}
+{% assign item_year = item.date | date: '%Y' %}
+{% if show_all or item_year == current_year %}
+<tr>
+<th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+<td>
+{% if item.inline %}
+{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+{% else %}
+<a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+{% endif %}
+</td>
+</tr>
+{% endif %}
+{% endfor %}
+</table>
+</div>
+{% unless show_all %}
+{% assign hidden = news_size | minus: shown %}
+{% if hidden > 0 %}
+<p style="margin: .4rem 0 0; font-size: .85rem;">
+<a href="{{ '/news/' | relative_url }}" style="font-weight: 600; color: #8a1c1c;">More news</a>
+<span style="color: #999;">&rarr;</span>
+</p>
+{% endif %}
+{% endunless %}
+{% else %}
+<p>No news so far...</p>
+{% endif %}
+</div>

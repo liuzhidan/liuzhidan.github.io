@@ -10,7 +10,14 @@
 {% if subset.size > 0 %}
 <h2 style="font-size:1.35rem;font-weight:600;margin:2rem 0 1rem;padding-bottom:.4rem;border-bottom:1px solid #e3e3e3;">{{ labels[forloop.index0] }} <span style="font-weight:400;color:#888;font-size:.9rem;">({{ subset.size }})</span></h2>
 {% if compact %}
-<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(116px,1fr));gap:10px;">
+<style type="text/css">
+/* the BDUC alumni list is long, so it uses a fixed 6-up grid instead of auto-fill */
+.team-alumni-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:10px}
+@media (max-width:1140px){.team-alumni-grid{grid-template-columns:repeat(4,1fr)}}
+@media (max-width:820px){.team-alumni-grid{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:560px){.team-alumni-grid{grid-template-columns:repeat(2,1fr)}}
+</style>
+<div class="team-alumni-grid">
 {% else %}
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px;">
 {% endif %}

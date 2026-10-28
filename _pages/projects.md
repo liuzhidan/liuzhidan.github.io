@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects & Grants
+title: Projects
 permalink: /projects/
 description: Selected projects and grants of the MobiX group.
 nav: true

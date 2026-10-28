@@ -331,6 +331,19 @@ members:
     pubs: ["ICDM'24"]
     note: ""
 
+  - name_en: "Xiaowen Xu"
+    name_zh: "徐小雯"
+    group: "alumni_szu"
+    period: "B.S. 2020.06 - 2024.08"
+    degree_from: "B.E., Computer Science and Technology, Shenzhen University (2023)"
+    topics: []
+    photo: "/images/group/xuxiaowen.png"
+    url: ""
+    next: "Ph.D. student @ HKUST (GZ)"
+    awards: ["Excellent Undergraduate of Shenzhen University"]
+    pubs: ["TMC'24", "TMC'26", "MobiCom'25 (Poster)"]
+    note: "Also listed under phd_current (2024.09 -). Span is the in-group period supplied by Dr. Liu; the CV records only B.E. 2023 and the 2024.09 PhD start."
+
   - name_en: "Xiaosi Liu"
     name_zh: "刘晓思"
     group: "alumni_szu"
