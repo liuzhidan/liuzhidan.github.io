@@ -1,5 +1,9 @@
-{% assign order = "phd_current|mphil_current|msc_current|ra_current|alumni_hkustgz|alumni_szu" | split: "|" %}
-{% assign labels = "PhD Students @ HKUST (GZ)|MPhil Students @ HKUST (GZ)|MSc Students @ HKUST (GZ)|Research Assistants @ HKUST (GZ)|Alumni of MobiX @ HKUST (GZ)|Alumni of BDUC @ Shenzhen University" | split: "|" %}
+<style type="text/css">
+/* MPhil / MSc badge; the two share the Master Students group */
+.team-degree{display:inline-block;font-size:.6rem;font-weight:700;letter-spacing:.06em;padding:.06rem .35rem;margin-right:.35rem;border-radius:3px;background:#eef1f5;color:#3c5a78;border:1px solid #dde3ea}
+</style>
+{% assign order = "phd_current|master_current|ug_current|ra_current|alumni_hkustgz|alumni_szu" | split: "|" %}
+{% assign labels = "PhD Students @ HKUST (GZ)|Master Students @ HKUST (GZ)|Undergraduate Researchers|Research Assistants @ HKUST (GZ)|Alumni of MobiX @ HKUST (GZ)|Alumni of BDUC @ Shenzhen University" | split: "|" %}
 {% assign all = site.data.members.members %}
 {% for g in order %}
 {% assign subset = all | where: "group", g %}
@@ -32,7 +36,12 @@
 {% if m.name_zh != "" %}
 <div style="color:#8c8c8c;font-size:11px;margin-top:1px;">{{ m.name_zh }}</div>
 {% endif %}
-<div style="color:#777;font-size:{% if compact %}11px{% else %}12px{% endif %};margin-top:{% if compact %}4px{% else %}6px{% endif %};">{{ m.period }}</div>
+<div style="color:#777;font-size:{% if compact %}11px{% else %}12px{% endif %};margin-top:{% if compact %}4px{% else %}6px{% endif %};">
+{%- if m.degree != "" -%}
+<span class="team-degree">{{ m.degree }}</span>
+{%- endif -%}
+{{- m.period -}}
+</div>
 {% unless compact %}
 {% if m.degree_from != "" %}
 <div style="color:#777;font-size:12px;margin-top:3px;">{{ m.degree_from }}</div>

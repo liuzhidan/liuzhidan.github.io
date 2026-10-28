@@ -3,9 +3,10 @@
 # Cross-checked against: _pages/group.md
 # Not yet written into the site repo.
 #
-# group:  phd_current | mphil_current | msc_current | ra_current | alumni_hkustgz | alumni_szu
-#         A group with no members is skipped, so the MPhil and MSc headings
-#         stay hidden until someone is actually listed under them.
+# group:  phd_current | master_current | ug_current | ra_current | alumni_hkustgz | alumni_szu
+#         A group with no members is skipped, so adding a heading costs
+#         nothing until someone is listed under it.
+# degree: MPhil / MSc, only used by master_current to tell the two apart
 # period: enrollment or employment span, CV precision (YYYY.MM)
 # next:   alumni only — first employment or further study
 # photo:  path under site root; PLACEHOLDER used where no portrait exists yet
@@ -56,6 +57,78 @@ members:
     awards: []
     pubs: ["TMC'26"]
     note: "Same person as alumni_szu/Zhenyu Yang. Homepage said 'Started 2026 Spring'."
+
+  - name_en: "Jiaying Chen"
+    name_zh: "陈佳蓥"
+    group: "phd_current"
+    period: "2027.02 -"
+    degree_from: "M.Sc., Nanyang Technological University, Singapore"
+    topics: []
+    photo: "/assets/img/placeholder-avatar.svg"
+    url: ""
+    next: ""
+    awards: []
+    pubs: []
+    note: "B.E. from Beijing Institute of Technology. Admitted for 2027 Spring; the NTU MSc year is pending."
+
+  # ---------- current master students @ HKUST (GZ) ----------
+  # MPhil and MSc share this group; the `degree` field tells them apart.
+  - name_en: "Enze Dai"
+    name_zh: "代恩泽"
+    group: "master_current"
+    degree: "MPhil"
+    period: "2026.09 -"
+    degree_from: "B.E., Nanchang University (2026)"
+    topics: []
+    photo: "/assets/img/placeholder-avatar.svg"
+    url: ""
+    next: ""
+    awards: []
+    pubs: []
+    note: "B.E. year inferred from the 2026 Fall intake, to be confirmed."
+
+  - name_en: "Ruitong Wu"
+    name_zh: "吴瑞童"
+    group: "master_current"
+    degree: "MSc"
+    period: "2026.09 -"
+    degree_from: "B.E., Shandong University (2026)"
+    topics: []
+    photo: "/assets/img/placeholder-avatar.svg"
+    url: ""
+    next: ""
+    awards: []
+    pubs: []
+    note: "B.E. year inferred from the 2026 Fall intake, to be confirmed."
+
+  # ---------- current undergraduate researchers ----------
+  - name_en: "Yixiao Xu"
+    name_zh: "许一笑"
+    group: "ug_current"
+    degree: ""
+    period: "2026.09 -"
+    degree_from: "B.E. candidate, Artificial Intelligence, HKUST (GZ)"
+    topics: []
+    photo: "/assets/img/placeholder-avatar.svg"
+    url: ""
+    next: ""
+    awards: []
+    pubs: []
+    note: "Third-year undergraduate. Joining date inferred, to be confirmed."
+
+  - name_en: "Yimeng Duan"
+    name_zh: "段轶檬"
+    group: "ug_current"
+    degree: ""
+    period: "2026.09 -"
+    degree_from: "B.E. candidate, Computer Science, Northwestern Polytechnical University"
+    topics: []
+    photo: "/assets/img/placeholder-avatar.svg"
+    url: ""
+    next: ""
+    awards: []
+    pubs: []
+    note: "Third-year undergraduate. Joining date inferred, to be confirmed."
 
   # ---------- current research assistants @ HKUST (GZ) ----------
   - name_en: "Jinsong Luo"
