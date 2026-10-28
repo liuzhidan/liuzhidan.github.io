@@ -202,7 +202,8 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    # news items are rendered inline (see _news/*.md), so no standalone pages
+    output: false
   projects:
     output: true
 

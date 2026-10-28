@@ -1,0 +1,37 @@
+{% assign projects = site.data.projects.projects %}
+{% assign total = 0 %}
+{% for p in projects %}{% assign total = total | plus: p.amount_k %}{% endfor %}
+{% assign total_m = total | divided_by: 1000.0 | round: 2 %}
+<div class="proj-summary">
+<span class="proj-summary-num">{{ projects.size }}</span>
+<span class="proj-summary-text">projects and grants listed, totalling <b>&yen;{{ total_m }}M</b></span>
+</div>
+<div class="proj-list">
+{% for p in projects %}
+<div class="proj-card">
+<div class="proj-card-top">
+{% if p.role == "PI" %}
+<span class="proj-badge proj-badge-pi">{{ p.role }}</span>
+{% else %}
+<span class="proj-badge proj-badge-co">{{ p.role }}</span>
+{% endif %}
+{% if p.amount_k >= 1000 %}
+{% assign amt = p.amount_k | divided_by: 1000.0 | round: 2 %}
+<span class="proj-amt">&yen;{{ amt }}M</span>
+{% else %}
+<span class="proj-amt">&yen;{{ p.amount_k }}K</span>
+{% endif %}
+</div>
+<div class="proj-title">{{ p.title }}</div>
+{% if p.funder != "" %}
+<div class="proj-funder">{{ p.funder }}{% if p.funder_zh != "" %} <span>{{ p.funder_zh }}</span>{% endif %}</div>
+{% elsif p.funder_zh != "" %}
+<div class="proj-funder">{{ p.funder_zh }}</div>
+{% endif %}
+<div class="proj-meta">
+{% if p.number != "" %}<span>No. {{ p.number }}</span>{% endif %}
+{% if p.period != "" %}<span>{{ p.period }}</span>{% endif %}
+</div>
+</div>
+{% endfor %}
+</div>
