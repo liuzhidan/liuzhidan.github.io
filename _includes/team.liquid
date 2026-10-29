@@ -29,7 +29,7 @@
 /* MPhil / MSc badge; the two share the Master Students group */
 .team-degree{display:inline-block;font-size:.6rem;font-weight:700;letter-spacing:.06em;padding:.06rem .35rem;margin-right:.35rem;border-radius:3px;background:#eef1f5;color:#3c5a78;border:1px solid #dde3ea}
 /* hero image and the hiring banner on the Team page */
-.team-hero{max-width:100%;height:auto}
+.team-hero{max-width:100%;height:auto;border-radius:10px}
 .team-hiring{background:#fff4f4;border-left:4px solid #d9534f;padding:12px 16px;border-radius:6px;margin:1.5rem 0}
 
 /* al-folio switches themes with html[data-theme=dark] (JS + the toggle button),
@@ -47,6 +47,7 @@ html[data-theme=dark] .team-pubs{color:#8a8f96}
 html[data-theme=dark] .team-next{color:#5fc98f}
 html[data-theme=dark] .team-degree{background:#2a2e33;color:#9ab8d8;border-color:#3a3f45}
 html[data-theme=dark] .team-hiring{background:#3a2626;border-left-color:#e57373;color:#e8d9d9}
+html[data-theme=dark] .team-hero{box-shadow:0 0 0 1px #3a3f45}
 </style>
 {% assign order = "phd_current|master_current|ra_current|ug_current|alumni_hkustgz|alumni_szu" | split: "|" %}
 {% assign labels = "PhD Students @ HKUST (GZ)|Master Students @ HKUST (GZ)|Research Assistants @ HKUST (GZ)|Undergraduate Researchers|Alumni of MobiX @ HKUST (GZ)|Alumni of BDUC @ Shenzhen University" | split: "|" %}

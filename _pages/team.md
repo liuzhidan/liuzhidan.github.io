@@ -7,10 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-The **MobiX** (_Mobile Intelligence & eXploration_) research group is dedicated to advancing the vision of smart mobility. We explore and develop innovative systems driven by efficient mobile sensing, ubiquitous computing, and mobility data analytics. Our research spans urban computing, the Artificial Internet of Things (AIoT), and spatio-temporal data mining.
+**MobiX** (_Mobile Intelligence & eXploration_) is a research group at The Hong Kong University of Science and Technology (Guangzhou), led by Dr. Zhidan Liu. We build intelligent systems that sense and understand the world, act autonomously through mobile interfaces, operate efficiently on resource-constrained devices, and support decisions at city scale.
+
+Our research brings together **mobile sensing and human-centric computing**, **mobile/GUI agents**, **edge intelligence**, and **urban computing**. Across these areas, we develop algorithms and systems for multimodal perception, foundation-model reasoning, adaptive computation, and data-driven decision-making. We value **problem-driven research**, **reliable real-world deployment**, and **rigorous experimental evaluation**.
 
 <div align="center">
-<img src="{{ '/images/MobiX.png' | relative_url }}" alt="Research directions of the MobiX group" class="team-hero">
+<img src="{{ '/images/MobiX-vision.jpg' | relative_url }}" alt="MobiX research vision: real-world mobile intelligence, from people and devices to intelligent cities" class="team-hero">
 </div>
 
 <div class="team-hiring">
