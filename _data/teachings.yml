@@ -1,0 +1,76 @@
+# Teaching data for /teaching/ (rendered by _includes/teaching.liquid).
+#
+# courses are grouped per institution; `level` is "UG" (undergraduate) or "PG"
+# (postgraduate) and drives the colour of the level badge. Add a course by
+# appending one entry to the matching institution.
+
+institutions:
+  - name: The Hong Kong University of Science and Technology (Guangzhou)
+    short: HKUST (GZ)
+    courses:
+      - code: UFUG-2601
+        level: UG
+        title: C++ Programming
+        title_zh: ""
+        term: 2025/2026 Fall
+      - code: AIAA-3111
+        level: UG
+        title: Introduction to Data Mining
+        title_zh: ""
+        term: 2026 Fall
+      - code: INTR-6000N
+        level: PG
+        title: Mobile Sensing and Computing for Transportation
+        title_zh: ""
+        term: 2025/2026 Spring
+
+  - name: Shenzhen University
+    short: SZU
+    courses:
+      - code: ""
+        level: UG
+        title: Intelligent Networking and Computing
+        title_zh: 智能网络与计算
+        term: 2023–2024 Semester-1
+      - code: ""
+        level: UG
+        title: Internet Programming (in JAVA)
+        title_zh: 互联网编程
+        term: 2017–2023 Semester-2
+      - code: ""
+        level: UG
+        title: Introduction to Wireless Sensor Networks
+        title_zh: 无线传感器网络
+        term: 2017–2022 Semester-1
+      - code: ""
+        level: PG
+        title: Guidance on Academic Writing
+        title_zh: 论文写作指导
+        term: 2021–2023 Semester-2
+
+# Selected student achievements; `text` supports Markdown emphasis (e.g. **bold**).
+achievements:
+  - date: "2023.09"
+    text: 指导本科生钟昊天、刘嘉豪获得**2023年广东省大学生计算机设计大赛一等奖**
+  - date: "2023.06"
+    text: 获得**深圳大学优秀实习指导教师**称号
+  - date: "2023.06"
+    text: 指导的硕士研究生张鸿权同学获得**深圳大学"2023届优秀毕业研究生"**称号
+  - date: "2023.06"
+    text: 指导的本科生张柏林、徐小雯同学获得**"深圳大学2023届本科优秀毕业生"**称号
+  - date: "2022.06"
+    text: 指导的本科生刘键聪同学获得**"深圳大学2022届本科优秀毕业生"**称号
+  - date: "2022.06"
+    text: 指导本科生刘键聪同学获得**"深圳大学2022届百篇优秀本科毕业论文(设计)"**
+  - date: "2021.12"
+    text: 获得**深圳大学"新锐研究生导师"**称号
+  - date: "2021.08"
+    text: 指导本科生张柏林、许伟鑫、郑元初获得**2021年(第14届)中国大学生计算机设计大赛全国二等奖**
+  - date: "2021.04"
+    text: 获得**深圳大学2019-2020学年教学单项奖 — "优秀本科教师奖"**
+  - date: "2020.12"
+    text: 获得**2020年深圳大学腾讯益友奖"优秀班主任"**称号
+  - date: "2020.08"
+    text: 指导本科生陈林桦、李宇良、刘键聪获得**2020年(第13届)中国大学生计算机设计大赛全国一等奖**
+  - date: "2020.06"
+    text: 指导的硕士研究生龚增阳同学获得**深圳大学"2020届优秀毕业研究生"**称号

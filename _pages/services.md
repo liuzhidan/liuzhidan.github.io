@@ -8,7 +8,7 @@ permalink: /service/
 # Board Member, then Guest Editor.
 description: Editorial work, conference organization, program committees and reviewing.
 nav: true
-nav_order: 6
+nav_order: 7
 
 _styles: |
   table { width: 100%; border-collapse: collapse; margin: .5rem 0 1.6rem; font-size: .92rem; }

@@ -4,7 +4,7 @@ title: Awards & Talks
 permalink: /awards/
 description: Selected awards, honors and invited talks.
 nav: true
-nav_order: 5
+nav_order: 6
 
 _styles: |
   table { width: 100%; border-collapse: collapse; margin: .6rem 0 1.6rem; font-size: .92rem; }

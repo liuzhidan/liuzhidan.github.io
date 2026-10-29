@@ -1,0 +1,39 @@
+{% comment %}
+Render the teaching page from _data/teachings.yml.
+
+Two sections are produced: a per-institution course grid, then the list of
+selected student achievements. Styling lives in _pages/teaching.md via the
+`page._styles` block (the `page` layout injects it), with a dark variant driven
+by `html[data-theme=dark]` — the same mechanism al-folio uses for its toggle.
+
+Note: HTML block tags must start at column 0 — kramdown escapes indented tags
+into literal text. Liquid `{% %}` tags may stay indented.
+{% endcomment %}
+
+{% for inst in site.data.teachings.institutions %}
+<div class="teach-inst">
+<div class="teach-inst-head">
+<span class="teach-inst-name">{{ inst.name }}</span>
+<span class="teach-inst-count">{{ inst.courses | size }}{% if inst.courses.size == 1 %} course{% else %} courses{% endif %}</span>
+</div>
+<div class="teach-grid">
+{% for c in inst.courses %}
+<div class="teach-card">
+<div class="teach-top">
+{% if c.code != "" %}<span class="teach-code">{{ c.code }}</span>{% endif %}
+<span class="teach-level teach-level-{{ c.level | downcase }}">{{ c.level }}</span>
+<span class="teach-term">{{ c.term }}</span>
+</div>
+<div class="teach-title">{{ c.title }}{% if c.title_zh != "" %} <span class="teach-zh">《{{ c.title_zh }}》</span>{% endif %}</div>
+</div>
+{% endfor %}
+</div>
+</div>
+{% endfor %}
+
+<h3 class="teach-achv-title">Selected Student Achievements</h3>
+<ul class="teach-achv">
+{% for a in site.data.teachings.achievements %}
+<li><b>{{ a.date }}</b><span>{{ a.text | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</span></li>
+{% endfor %}
+</ul>

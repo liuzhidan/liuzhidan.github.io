@@ -61,6 +61,31 @@ _styles: |
   .proj-funder span { color: #8d8d8d; }
   .proj-meta { font-size: .76rem; color: #8a8a8a; margin-top: 6px; }
   .proj-meta span + span::before { content: "\00B7"; margin: 0 .45rem; color: #c9c9c9; }
+  /* Dark theme: al-folio switches `html[data-theme=dark]` via the toggle button,
+     so we must NOT use @media (prefers-color-scheme) here. */
+  html[data-theme=dark] .proj-summary { background: #232629; color: #9aa0a6; }
+  html[data-theme=dark] .proj-summary-num { color: #e8ecf1; }
+  html[data-theme=dark] .proj-summary-text b { color: #e57373; }
+  html[data-theme=dark] .proj-group { border-bottom-color: #3a3f45; }
+  html[data-theme=dark] .proj-group-meta { color: #9aa0a6; }
+  html[data-theme=dark] .proj-group-national .proj-group-text { color: #e57373; }
+  html[data-theme=dark] .proj-group-provincial .proj-group-text { color: #d4a857; }
+  html[data-theme=dark] .proj-group-municipal .proj-group-text { color: #7fa8d8; }
+  html[data-theme=dark] .proj-group-industry .proj-group-text { color: #5fc98f; }
+  html[data-theme=dark] .proj-group-other .proj-group-text { color: #9aa0a6; }
+  html[data-theme=dark] .proj-card { background: #1e2124; border-color: #3a3f45; }
+  html[data-theme=dark] .proj-card-national { border-left-color: #b04a4a; }
+  html[data-theme=dark] .proj-card-provincial { border-left-color: #c99a5c; }
+  html[data-theme=dark] .proj-card-municipal { border-left-color: #6a9fd8; }
+  html[data-theme=dark] .proj-card-industry { border-left-color: #5cb894; }
+  html[data-theme=dark] .proj-card-other { border-left-color: #7a7a7a; }
+  html[data-theme=dark] .proj-badge-pi { background: #3a2226; color: #e57373; border-color: #5a3038; }
+  html[data-theme=dark] .proj-badge-co { background: #22322a; color: #7fc79c; border-color: #33513f; }
+  html[data-theme=dark] .proj-amt { color: #e57373; }
+  html[data-theme=dark] .proj-funder { color: #a8b2bd; }
+  html[data-theme=dark] .proj-funder span { color: #7d8792; }
+  html[data-theme=dark] .proj-meta { color: #9aa0a6; }
+  html[data-theme=dark] .proj-meta span + span::before { color: #4a5158; }
 ---
 
 Our research is supported by the National Natural Science Foundation of China, the Natural Science Foundation of Guangdong, HKUST (GZ), Shenzhen University and industry partners.
