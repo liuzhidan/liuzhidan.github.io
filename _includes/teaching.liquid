@@ -7,7 +7,9 @@ selected student achievements. Styling lives in _pages/teaching.md via the
 by `html[data-theme=dark]` — the same mechanism al-folio uses for its toggle.
 
 Note: HTML block tags must start at column 0 — kramdown escapes indented tags
-into literal text. Liquid `{% %}` tags may stay indented.
+into literal text. Also, never write a literal Liquid tag delimiter inside a
+comment block: the parser scans for one while looking for the closing tag and
+fails the whole build.
 {% endcomment %}
 
 {% for inst in site.data.teachings.institutions %}
