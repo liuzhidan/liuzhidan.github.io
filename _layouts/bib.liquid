@@ -1,7 +1,19 @@
 ---
 ---
+{%- comment -%}
+Thumbnail column: only render it when the entry actually has something to show
+(venue badge or preview figure). With enable_publication_thumbnails on, al-folio
+otherwise emits an empty col-sm-2 gutter for every entry; most of our papers
+have neither abbr nor preview, so that gutter would be a blank strip down the
+whole list. Entries without a thumbnail get the wider text column (col-sm-10),
+the same width al-folio uses when thumbnails are disabled entirely.
+{%- endcomment -%}
+{% assign has_thumb = false %}
+{% if entry.abbr or entry.preview %}
+  {% assign has_thumb = true %}
+{% endif %}
 <div class="row">
-  {% if site.enable_publication_thumbnails %}
+  {% if site.enable_publication_thumbnails and has_thumb %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
@@ -62,7 +74,7 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails and has_thumb %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{% include pub_type_icon.liquid %}{{ entry.title }}</div>
     <!-- Author -->
