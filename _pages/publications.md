@@ -79,6 +79,17 @@ _styles: |
   html[data-theme=dark] sup.author-student { color: #c3a6e0; }
   html[data-theme=dark] .pub-legend { background: #232629; color: #cdd3dc; }
   html[data-theme=dark] .pub-legend b { color: #e57373; }
+  /* Only five papers carry a preview figure. Showing thumbnails for just
+     those five makes the full list look patchy, so this page suppresses the
+     thumbnail column entirely: every entry gets the same text width the
+     figure-less entries already use (col-sm-10's 10/12). The figures remain
+     visible in the About page's selected-publications list, which renders
+     through the same bib.liquid but does not load this stylesheet. */
+  .publications .row > .col-sm-2.abbr { display: none; }
+  .publications .row > .col-sm-8 {
+    flex: 0 0 83.3333%;
+    max-width: 83.3333%;
+  }
 ---
 
 <!-- _pages/publications.md -->
