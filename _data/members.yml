@@ -149,7 +149,7 @@ members:
     group: "ra_current"
     period: "2025.10 -"
     degree_from: "B.E., Computer Science and Technology, Xi'an Jiaotong University (2026)"
-    topics: ["Urban intelligence"]
+    topics: ["Urban Intelligence"]
     photo: "/images/group/sunfansheng.jpg"
     url: ""
     next: ""
@@ -162,12 +162,12 @@ members:
     group: "ra_current"
     period: "2025.08 -"
     degree_from: "B.E., Computer Science and Technology, Shandong University, Qingdao (2025)"
-    topics: ["Edge intelligence"]
+    topics: ["Edge Intelligence"]
     photo: "/images/group/yuhang.jpg"
     url: ""
     next: ""
     awards: []
-    pubs: []
+    pubs: ["SenSys'27"]
     note: "CONFLICT: CV spells the surname 'Guan', the old homepage 'Guang'. CV adopted."
 
   # ---------- alumni of MobiX @ HKUST (GZ) ----------
