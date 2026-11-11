@@ -68,8 +68,6 @@ _styles: |
   html[data-theme=dark] ul.teach-achv li b { color: #e57373; }
 ---
 
-Courses and selected student achievements at HKUST (GZ) and Shenzhen University.
-
 {::nomarkdown}
 {% include teaching.liquid %}
 {:/}
