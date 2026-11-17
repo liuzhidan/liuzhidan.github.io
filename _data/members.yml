@@ -42,7 +42,7 @@ members:
     url: ""
     next: ""
     awards: []
-    pubs: ["TITS'26"]
+    pubs: ["TITS'26", "KDD'27"]
     note: "Homepage said 'Started 2025 Spring' and 'M.S.'."
 
   - name_en: "Zhenyu Yang"
