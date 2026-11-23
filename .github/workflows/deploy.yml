@@ -8,6 +8,7 @@ on:
       - al-folio
     paths:
       - "assets/**"
+      - "files/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -36,6 +37,7 @@ on:
       - al-folio
     paths:
       - "assets/**"
+      - "files/**"
       - "**.bib"
       - "**.html"
       - "**.js"
